@@ -1,0 +1,39 @@
+version: 2
+
+semantic_models:
+  - name: orders
+    defaults:
+      agg_time_dimension: order_date
+    description: "Order transactions"
+    model: ref('stg_orders')
+    entities:
+      - name: order_id
+        type: primary
+      - name: customer_id
+        type: foreign
+    dimensions:
+      - name: order_date
+        type: time
+        type_params:
+          time_granularity: day
+      - name: status
+        type: categorical
+      - name: discount_code
+        type: categorical
+    measures:
+      - name: order_count
+        description: "Total number of orders"
+        agg: count
+        expr: order_id
+      - name: total_revenue_cents
+        description: "Sum of order totals in cents"
+        agg: sum
+        expr: total_cents
+      - name: total_shipping_cents
+        description: "Sum of shipping charges in cents"
+        agg: sum
+        expr: shipping_cents
+      - name: avg_order_value_cents
+        description: "Average order value in cents"
+        agg: average
+        expr: total_cents

@@ -1,0 +1,23 @@
+version: 2
+
+semantic_models:
+  - name: customers
+    defaults:
+      agg_time_dimension: created_at
+    description: "Customer profiles"
+    model: ref('stg_customers')
+    entities:
+      - name: customer_id
+        type: primary
+    dimensions:
+      - name: created_at
+        type: time
+        type_params:
+          time_granularity: day
+      - name: loyalty_tier
+        type: categorical
+    measures:
+      - name: customer_count
+        description: "Total number of customers"
+        agg: count_distinct
+        expr: customer_id

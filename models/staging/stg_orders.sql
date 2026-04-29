@@ -1,7 +1,9 @@
 {{ config(
     materialized='view',
     tags=['staging']
-) }}with source as (
+) }}
+
+with source as (
 
     select * from {{ source('raw', 'orders') }}
 
@@ -12,20 +14,14 @@ renamed as (
     select
         order_id,
         customer_id,
-        order_date,
         status,
-        subtotal_cents,
-        discount_cents,
-        shipping_cents,
-        tax_cents,
+        order_date,
         total_cents,
-        coupon_code,
-        payment_method,
-        shipping_method,
-        warehouse_id
+        discount_code,
+        shipping_cents,
+        session_id
     from source
 
 )
-
 
 select * from renamed

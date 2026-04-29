@@ -1,0 +1,29 @@
+version: 2
+
+semantic_models:
+  - name: page_views
+    defaults:
+      agg_time_dimension: viewed_at
+    description: "Website page views"
+    model: ref('stg_page_views')
+    entities:
+      - name: view_id
+        type: primary
+      - name: customer_id
+        type: foreign
+    dimensions:
+      - name: viewed_at
+        type: time
+        type_params:
+          time_granularity: day
+      - name: device
+        type: categorical
+    measures:
+      - name: page_view_count
+        description: "Total page views"
+        agg: count
+        expr: view_id
+      - name: unique_sessions
+        description: "Count of distinct sessions"
+        agg: count_distinct
+        expr: session_id

@@ -9,12 +9,9 @@ sources:
       compliance_framework: CCPA / GDPR
     schema: raw
     loader: seed
-    loaded_at_field: _loaded_at
-    freshness:
-      warn_after: {count: 24, period: hour}
-      error_after: {count: 48, period: hour}
     tables:
       - name: customers
+        identifier: raw_customers
         description: "Raw customers data"
         columns:
           - name: customer_id
@@ -45,6 +42,7 @@ sources:
             description: "Updated At"
 
       - name: orders
+        identifier: raw_orders
         description: "Raw orders data"
         columns:
           - name: order_id
@@ -75,6 +73,7 @@ sources:
             description: "Warehouse Id"
 
       - name: order_items
+        identifier: raw_order_items
         description: "Raw order_items data"
         columns:
           - name: order_item_id
@@ -95,6 +94,7 @@ sources:
             description: "Is Gift"
 
       - name: products
+        identifier: raw_products
         description: "Raw products data"
         columns:
           - name: product_id
@@ -121,6 +121,7 @@ sources:
             description: "Created At"
 
       - name: inventory
+        identifier: raw_inventory
         description: "Raw inventory data"
         columns:
           - name: inventory_id
@@ -143,6 +144,7 @@ sources:
             description: "Updated At"
 
       - name: page_views
+        identifier: raw_page_views
         description: "Raw page_views data"
         columns:
           - name: page_view_id
@@ -171,6 +173,7 @@ sources:
             description: "Created At"
 
       - name: returns
+        identifier: raw_returns
         description: "Raw returns data"
         columns:
           - name: return_id
@@ -191,6 +194,7 @@ sources:
             description: "Processed At"
 
       - name: marketing_spend
+        identifier: raw_marketing_spend
         description: "Raw marketing_spend data"
         columns:
           - name: spend_id
@@ -211,6 +215,7 @@ sources:
             description: "Date"
 
       - name: reviews
+        identifier: raw_reviews
         description: "Raw reviews data"
         columns:
           - name: review_id
@@ -233,6 +238,7 @@ sources:
             description: "Created At"
 
       - name: warehouses
+        identifier: raw_warehouses
         description: "Raw warehouses data"
         columns:
           - name: warehouse_id
@@ -290,4 +296,3 @@ sources:
             description: "Added At"
           - name: notified_on_sale
             description: "Notified On Sale"
-

@@ -1,0 +1,29 @@
+version: 2
+
+semantic_models:
+  - name: returns
+    defaults:
+      agg_time_dimension: returned_at
+    description: "Product returns and refunds"
+    model: ref('stg_returns')
+    entities:
+      - name: return_id
+        type: primary
+      - name: order_id
+        type: foreign
+    dimensions:
+      - name: returned_at
+        type: time
+        type_params:
+          time_granularity: day
+      - name: reason_code
+        type: categorical
+    measures:
+      - name: return_count
+        description: "Total number of returns"
+        agg: count
+        expr: return_id
+      - name: total_refund_cents
+        description: "Total refund amount in cents"
+        agg: sum
+        expr: refund_cents

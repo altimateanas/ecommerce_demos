@@ -1,0 +1,31 @@
+version: 2
+
+semantic_models:
+  - name: marketing_spend
+    defaults:
+      agg_time_dimension: date
+    description: "Marketing campaign spend and performance"
+    model: ref('stg_marketing_spend')
+    entities:
+      - name: spend_id
+        type: primary
+    dimensions:
+      - name: date
+        type: time
+        type_params:
+          time_granularity: day
+      - name: channel
+        type: categorical
+    measures:
+      - name: total_spend_cents
+        description: "Total marketing spend in cents"
+        agg: sum
+        expr: spend_cents
+      - name: total_impressions
+        description: "Total ad impressions"
+        agg: sum
+        expr: impressions
+      - name: total_clicks
+        description: "Total ad clicks"
+        agg: sum
+        expr: clicks

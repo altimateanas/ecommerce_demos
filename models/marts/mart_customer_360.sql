@@ -7,68 +7,35 @@
         'owner': 'data-governance',
         'compliance': 'CCPA / GDPR'
     }
-) }}with customers as (
+) }}
 
+with customers as (
     select * from {{ ref('stg_customers') }}
+),
 
-)
-,
-
-orders as (
-
-    select * from {{ ref('stg_orders') }}
-
-)
-,
-
-page_views as (
-
-    select * from {{ ref('stg_page_views') }}
-
-)
-,
-
-returns as (
-
-    select * from {{ ref('stg_returns') }}
-
-)
-,
-
-reviews as (
-
-    select * from {{ ref('stg_reviews') }}
-
-)
-,
+customer_lifetime as (
+    select * from {{ ref('int_customer_lifetime') }}
+),
 
 final as (
-
     select
-        -- Primary key
-
-        -- Dimensions
-
-
-        -- PII columns (restricted access)
-        -- CCPA / GDPR: These fields require role-based access control
-        email,
-        full_name,
-        phone,
-        shipping_address,
-        billing_address
-
-
+        customers.customer_id,
+        customers.full_name,
+        customers.email,
+        customers.phone,
+        customers.shipping_address,
+        customers.billing_address,
+        customers.loyalty_tier,
+        customers.created_at,
+        coalesce(customer_lifetime.total_orders, 0) as total_orders,
+        coalesce(customer_lifetime.lifetime_revenue_cents, 0) as lifetime_revenue_cents,
+        customer_lifetime.first_order_date,
+        customer_lifetime.last_order_date,
+        coalesce(customer_lifetime.total_returns, 0) as total_returns,
+        coalesce(customer_lifetime.total_refund_cents, 0) as total_refund_cents
     from customers
-    left join orders
-        on customers.customer_id = orders.customer_id
-    left join page_views
-        on customers.customer_id = page_views.customer_id
-    left join returns
-        on customers.customer_id = returns.customer_id
-    left join reviews
-        on customers.customer_id = reviews.customer_id
-
+    left join customer_lifetime
+        on customers.customer_id = customer_lifetime.customer_id
 )
 
 select * from final

@@ -1,0 +1,33 @@
+version: 2
+
+semantic_models:
+  - name: products
+    defaults:
+      agg_time_dimension: created_at
+    description: "Product catalog"
+    model: ref('stg_products')
+    entities:
+      - name: product_id
+        type: primary
+    dimensions:
+      - name: created_at
+        type: time
+        type_params:
+          time_granularity: day
+      - name: category
+        type: categorical
+      - name: subcategory
+        type: categorical
+    measures:
+      - name: product_count
+        description: "Total number of products"
+        agg: count_distinct
+        expr: product_id
+      - name: avg_retail_price_cents
+        description: "Average retail price in cents"
+        agg: average
+        expr: retail_price_cents
+      - name: avg_cost_price_cents
+        description: "Average cost price in cents"
+        agg: average
+        expr: cost_price_cents

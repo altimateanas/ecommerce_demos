@@ -1,0 +1,7 @@
+version: 2
+
+models:
+  - name: metricflow_time_spine
+    description: "Time spine for MetricFlow - daily grain from 2020 to 2027"
+    config:
+      materialized: table

@@ -1,0 +1,29 @@
+version: 2
+
+semantic_models:
+  - name: reviews
+    defaults:
+      agg_time_dimension: created_at
+    description: "Product reviews and ratings"
+    model: ref('stg_reviews')
+    entities:
+      - name: review_id
+        type: primary
+      - name: product_id
+        type: foreign
+      - name: customer_id
+        type: foreign
+    dimensions:
+      - name: created_at
+        type: time
+        type_params:
+          time_granularity: day
+    measures:
+      - name: review_count
+        description: "Total number of reviews"
+        agg: count
+        expr: review_id
+      - name: avg_rating
+        description: "Average product rating (1-5)"
+        agg: average
+        expr: rating

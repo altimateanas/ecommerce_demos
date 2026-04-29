@@ -1,0 +1,178 @@
+version: 2
+
+metrics:
+
+  # ── Simple metrics (expose measures as queryable metrics) ────────
+
+  - name: total_revenue_cents
+    label: "Total Revenue (cents)"
+    description: "Sum of order totals in cents"
+    type: simple
+    type_params:
+      measure: total_revenue_cents
+
+  - name: order_count
+    label: "Order Count"
+    description: "Total number of orders"
+    type: simple
+    type_params:
+      measure: order_count
+
+  - name: customer_count
+    label: "Customer Count"
+    description: "Total distinct customers"
+    type: simple
+    type_params:
+      measure: customer_count
+
+  - name: total_spend_cents
+    label: "Total Marketing Spend (cents)"
+    description: "Sum of marketing spend in cents"
+    type: simple
+    type_params:
+      measure: total_spend_cents
+
+  - name: total_impressions
+    label: "Total Impressions"
+    description: "Total ad impressions"
+    type: simple
+    type_params:
+      measure: total_impressions
+
+  - name: total_clicks
+    label: "Total Clicks"
+    description: "Total ad clicks"
+    type: simple
+    type_params:
+      measure: total_clicks
+
+  - name: return_count
+    label: "Return Count"
+    description: "Total number of returns"
+    type: simple
+    type_params:
+      measure: return_count
+
+  - name: total_refund_cents
+    label: "Total Refunds (cents)"
+    description: "Sum of refund amounts in cents"
+    type: simple
+    type_params:
+      measure: total_refund_cents
+
+  - name: page_view_count
+    label: "Page Views"
+    description: "Total page views"
+    type: simple
+    type_params:
+      measure: page_view_count
+
+  - name: unique_sessions
+    label: "Unique Sessions"
+    description: "Count of distinct sessions"
+    type: simple
+    type_params:
+      measure: unique_sessions
+
+  - name: review_count
+    label: "Review Count"
+    description: "Total number of reviews"
+    type: simple
+    type_params:
+      measure: review_count
+
+  - name: avg_rating
+    label: "Average Rating"
+    description: "Average product rating (1-5)"
+    type: simple
+    type_params:
+      measure: avg_rating
+
+  # ── Derived metrics ──────────────────────────────────────────────
+
+  - name: revenue
+    label: "Revenue"
+    description: "Total gross revenue in dollars"
+    type: derived
+    type_params:
+      expr: total_revenue_cents / 100.0
+      metrics:
+        - name: total_revenue_cents
+
+  - name: average_order_value
+    label: "Average Order Value"
+    description: "Average order value in dollars"
+    type: derived
+    type_params:
+      expr: total_revenue_cents / order_count / 100.0
+      metrics:
+        - name: total_revenue_cents
+        - name: order_count
+
+  - name: revenue_per_customer
+    label: "Revenue per Customer"
+    description: "Average revenue per customer in dollars"
+    type: derived
+    type_params:
+      expr: total_revenue_cents / customer_count / 100.0
+      metrics:
+        - name: total_revenue_cents
+        - name: customer_count
+
+  - name: marketing_spend
+    label: "Marketing Spend"
+    description: "Total marketing spend in dollars"
+    type: derived
+    type_params:
+      expr: total_spend_cents / 100.0
+      metrics:
+        - name: total_spend_cents
+
+  - name: cost_per_click
+    label: "Cost per Click"
+    description: "Average cost per ad click in dollars"
+    type: derived
+    type_params:
+      expr: total_spend_cents / total_clicks / 100.0
+      metrics:
+        - name: total_spend_cents
+        - name: total_clicks
+
+  - name: click_through_rate
+    label: "Click-Through Rate"
+    description: "Percentage of impressions that resulted in clicks"
+    type: derived
+    type_params:
+      expr: total_clicks * 100.0 / total_impressions
+      metrics:
+        - name: total_clicks
+        - name: total_impressions
+
+  - name: return_rate
+    label: "Return Rate"
+    description: "Percentage of orders that were returned"
+    type: derived
+    type_params:
+      expr: return_count * 100.0 / order_count
+      metrics:
+        - name: return_count
+        - name: order_count
+
+  - name: total_refunds
+    label: "Total Refunds"
+    description: "Total refund amount in dollars"
+    type: derived
+    type_params:
+      expr: total_refund_cents / 100.0
+      metrics:
+        - name: total_refund_cents
+
+  - name: net_revenue
+    label: "Net Revenue"
+    description: "Revenue minus refunds in dollars"
+    type: derived
+    type_params:
+      expr: (total_revenue_cents - total_refund_cents) / 100.0
+      metrics:
+        - name: total_revenue_cents
+        - name: total_refund_cents

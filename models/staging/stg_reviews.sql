@@ -1,7 +1,9 @@
 {{ config(
     materialized='view',
     tags=['staging']
-) }}with source as (
+) }}
+
+with source as (
 
     select * from {{ source('raw', 'reviews') }}
 
@@ -14,14 +16,11 @@ renamed as (
         product_id,
         customer_id,
         rating,
-        title,
-        body,
-        is_verified_purchase,
-        helpful_votes,
+        review_text,
+        reviewer_name,
         created_at
     from source
 
 )
-
 
 select * from renamed
