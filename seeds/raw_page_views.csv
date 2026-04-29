@@ -1,0 +1,1001 @@
+view_id,session_id,customer_id,url,utm_params,device,referrer,viewed_at
+PV_00000001,SESS_0000000541,CUST_00000540,/cart,,desktop,https://www.google.com/,2021-01-20
+PV_00000002,SESS_0000000623,,/cart,,desktop,https://www.pinterest.com/,2022-03-01
+PV_00000003,SESS_0000000092,CUST_00001000,/account,"{""source"": ""email"", ""medium"": ""cpc"", ""campaign"": ""clearance""}",desktop,https://www.facebook.com/,2024-12-31
+PV_00000004,SESS_0000000654,CUST_00000898,/cart,,desktop,https://www.reddit.com/,2025-09-12
+PV_00000005,SESS_0000000452,CUST_00000829,/checkout,"{""source"": ""google"", ""medium"": ""referral"", ""campaign"": ""summer_sale""}",mobile,https://www.youtube.com/,2022-12-25
+PV_00000006,SESS_0000000614,CUST_00000952,/account,,desktop,https://www.google.com/,2023-12-02
+PV_00000007,SESS_0000000071,CUST_00000994,/cart,"{""source"": ""direct"", ""medium"": ""cpc"", ""campaign"": ""summer_sale""}",tablet,https://www.facebook.com/,2024-09-15
+PV_00000008,SESS_0000000525,CUST_00000055,/products/PROD_00000700,,mobile,https://www.tiktok.com/,2025-11-23
+PV_00000009,SESS_0000000401,CUST_00000786,/,,desktop,https://www.facebook.com/,2025-10-02
+PV_00000010,SESS_0000000669,,/cart,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""summer_sale""}",desktop,https://www.youtube.com/,2021-05-20
+PV_00000011,SESS_0000000081,CUST_00000305,/categories/clothing,,mobile,https://www.tiktok.com/,2022-04-28
+PV_00000012,SESS_0000000100,CUST_00000102,/cart,"{""source"": ""direct"", ""medium"": ""referral"", ""campaign"": ""winter_promo""}",desktop,https://www.instagram.com/,2021-04-30
+PV_00000013,SESS_0000000595,CUST_00000554,/,,tablet,https://www.youtube.com/,2024-02-10
+PV_00000014,SESS_0000000218,CUST_00000775,/search?q=headphones,"{""source"": ""facebook"", ""medium"": ""social"", ""campaign"": ""summer_sale""}",desktop,,2024-09-26
+PV_00000015,SESS_0000000884,CUST_00000388,/search?q=dress,,mobile,https://www.pinterest.com/,2022-09-21
+PV_00000016,SESS_0000000749,CUST_00000683,/products/PROD_00000384,,tablet,https://www.facebook.com/,2025-05-11
+PV_00000017,SESS_0000000125,CUST_00000208,/categories/toys,,mobile,https://www.instagram.com/,2023-05-10
+PV_00000018,SESS_0000000201,CUST_00000315,/products/PROD_00000305,,tablet,https://www.facebook.com/,2025-12-30
+PV_00000019,SESS_0000000002,CUST_00000049,/products/PROD_00000683,,tablet,https://www.bing.com/,2021-01-01
+PV_00000020,SESS_0000000574,,/,"{""source"": ""email"", ""medium"": ""social"", ""campaign"": ""loyalty_reward""}",tablet,,2021-09-24
+PV_00000021,SESS_0000000020,CUST_00000518,/products/PROD_00000196,,mobile,https://www.google.com/,2022-09-06
+PV_00000022,SESS_0000000983,CUST_00000148,/cart,"{""source"": ""email"", ""medium"": ""social"", ""campaign"": ""back_to_school""}",desktop,https://www.instagram.com/,2021-03-04
+PV_00000023,SESS_0000000722,CUST_00000799,/cart,,desktop,https://www.youtube.com/,2024-12-17
+PV_00000024,SESS_0000000952,CUST_00000211,/checkout,,desktop,https://www.tiktok.com/,2021-05-09
+PV_00000025,SESS_0000000858,CUST_00000372,/products/PROD_00000658,,tablet,https://www.google.com/,2024-11-20
+PV_00000026,SESS_0000000180,CUST_00000662,/products/PROD_00000704,,desktop,,2021-05-09
+PV_00000027,SESS_0000000409,CUST_00000597,/categories/home-garden,,desktop,https://www.bing.com/,2022-05-09
+PV_00000028,SESS_0000000062,CUST_00000978,/products/PROD_00000883,,mobile,https://www.bing.com/,2025-04-11
+PV_00000029,SESS_0000000273,CUST_00000672,/search?q=dress,,desktop,https://www.google.com/,2025-11-22
+PV_00000030,SESS_0000000807,,/checkout,,mobile,,2023-02-05
+PV_00000031,SESS_0000000753,CUST_00000674,/categories/beauty,"{""source"": ""direct"", ""medium"": ""social"", ""campaign"": ""winter_promo""}",tablet,https://www.pinterest.com/,2025-12-07
+PV_00000032,SESS_0000000763,CUST_00000499,/,,mobile,https://www.reddit.com/,2024-03-07
+PV_00000033,SESS_0000000010,CUST_00000155,/products/PROD_00000990,,mobile,https://www.tiktok.com/,2023-02-08
+PV_00000034,SESS_0000000699,CUST_00000230,/checkout,,mobile,https://www.google.com/,2025-01-07
+PV_00000035,SESS_0000000921,CUST_00000300,/products/PROD_00000375,,mobile,,2022-08-21
+PV_00000036,SESS_0000000622,,/checkout,,desktop,https://www.pinterest.com/,2022-06-10
+PV_00000037,SESS_0000000540,CUST_00000673,/categories/beauty,,mobile,https://www.facebook.com/,2024-05-18
+PV_00000038,SESS_0000000986,CUST_00000923,/products/PROD_00000028,"{""source"": ""tiktok"", ""medium"": ""referral"", ""campaign"": ""black_friday""}",desktop,https://www.tiktok.com/,2022-12-24
+PV_00000039,SESS_0000000460,CUST_00000247,/products/PROD_00000372,"{""source"": ""email"", ""medium"": ""referral"", ""campaign"": ""winter_promo""}",mobile,https://www.tiktok.com/,2021-11-10
+PV_00000040,SESS_0000000061,,/categories/clothing,"{""source"": ""direct"", ""medium"": ""organic"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.bing.com/,2021-06-13
+PV_00000041,SESS_0000000058,CUST_00000151,/cart,,desktop,https://www.instagram.com/,2024-12-22
+PV_00000042,SESS_0000000300,CUST_00000299,/products/PROD_00000305,,mobile,https://www.pinterest.com/,2024-07-04
+PV_00000043,SESS_0000000497,CUST_00000979,/cart,,mobile,https://www.bing.com/,2023-01-30
+PV_00000044,SESS_0000000339,CUST_00000054,/cart,,desktop,https://www.tiktok.com/,2025-08-23
+PV_00000045,SESS_0000000252,CUST_00000223,/cart,"{""source"": ""instagram"", ""medium"": ""cpc"", ""campaign"": ""new_arrivals""}",desktop,,2023-01-27
+PV_00000046,SESS_0000000407,CUST_00000766,/checkout,,mobile,https://www.youtube.com/,2024-09-26
+PV_00000047,SESS_0000000974,,/products/PROD_00000005,,mobile,https://www.instagram.com/,2025-09-23
+PV_00000048,SESS_0000000256,CUST_00000565,/categories/electronics,,mobile,https://www.bing.com/,2025-04-09
+PV_00000049,SESS_0000000381,,/account,"{""source"": ""facebook"", ""medium"": ""email"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.youtube.com/,2023-09-29
+PV_00000050,SESS_0000000145,CUST_00000757,/cart,,mobile,https://www.pinterest.com/,2024-07-16
+PV_00000051,SESS_0000000591,CUST_00000486,/cart,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""back_to_school""}",mobile,https://www.reddit.com/,2023-02-03
+PV_00000052,SESS_0000000341,CUST_00000552,/cart,,desktop,https://www.youtube.com/,2024-04-25
+PV_00000053,SESS_0000000806,CUST_00000444,/products/PROD_00000971,"{""source"": ""tiktok"", ""medium"": ""email"", ""campaign"": ""summer_sale""}",tablet,https://www.google.com/,2022-05-21
+PV_00000054,SESS_0000000798,CUST_00000854,/cart,,mobile,https://www.pinterest.com/,2023-03-27
+PV_00000055,SESS_0000000403,CUST_00000905,/account,"{""source"": ""instagram"", ""medium"": ""email"", ""campaign"": ""summer_sale""}",mobile,https://www.google.com/,2022-01-24
+PV_00000056,SESS_0000000288,CUST_00000863,/products/PROD_00000537,,mobile,https://www.instagram.com/,2021-04-04
+PV_00000057,SESS_0000000989,CUST_00000138,/,,desktop,https://www.facebook.com/,2023-12-22
+PV_00000058,SESS_0000000214,,/products/PROD_00000735,"{""source"": ""direct"", ""medium"": ""referral"", ""campaign"": ""summer_sale""}",mobile,https://www.youtube.com/,2025-06-06
+PV_00000059,SESS_0000000532,,/categories/electronics,,desktop,https://www.pinterest.com/,2021-03-04
+PV_00000060,SESS_0000000870,CUST_00000650,/,"{""source"": ""instagram"", ""medium"": ""referral"", ""campaign"": ""holiday_gift_guide""}",desktop,https://www.pinterest.com/,2021-12-28
+PV_00000061,SESS_0000000742,CUST_00000954,/checkout,,mobile,https://www.bing.com/,2023-05-28
+PV_00000062,SESS_0000000576,CUST_00000292,/,,desktop,https://www.bing.com/,2024-06-10
+PV_00000063,SESS_0000000548,CUST_00000210,/account,,desktop,https://www.pinterest.com/,2021-12-08
+PV_00000064,SESS_0000000961,CUST_00000684,/categories/beauty,,mobile,https://www.reddit.com/,2021-05-19
+PV_00000065,SESS_0000000211,CUST_00000697,/cart,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""loyalty_reward""}",tablet,https://www.instagram.com/,2023-10-18
+PV_00000066,SESS_0000000171,CUST_00000811,/products/PROD_00000272,,mobile,https://www.facebook.com/,2025-02-15
+PV_00000067,SESS_0000000538,,/products/PROD_00000694,,mobile,https://www.instagram.com/,2021-03-27
+PV_00000068,SESS_0000000263,CUST_00000211,/categories/home-garden,,tablet,https://www.instagram.com/,2022-11-21
+PV_00000069,SESS_0000000802,,/cart,,mobile,https://www.bing.com/,2024-06-04
+PV_00000070,SESS_0000000676,CUST_00000663,/categories/toys,"{""source"": ""google"", ""medium"": ""referral"", ""campaign"": ""summer_sale""}",tablet,https://www.google.com/,2021-11-05
+PV_00000071,SESS_0000000390,CUST_00000388,/checkout,,desktop,https://www.bing.com/,2022-03-29
+PV_00000072,SESS_0000000421,CUST_00000396,/cart,,mobile,https://www.youtube.com/,2023-11-09
+PV_00000073,SESS_0000000062,CUST_00000124,/products/PROD_00000483,,desktop,https://www.facebook.com/,2025-11-24
+PV_00000074,SESS_0000000086,CUST_00000561,/cart,,mobile,https://www.google.com/,2022-08-01
+PV_00000075,SESS_0000000585,CUST_00000920,/categories/clothing,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""clearance""}",mobile,,2023-08-02
+PV_00000076,SESS_0000000491,CUST_00000909,/categories/food-gourmet,,desktop,https://www.facebook.com/,2023-01-01
+PV_00000077,SESS_0000000896,CUST_00000124,/checkout,,mobile,https://www.tiktok.com/,2025-08-26
+PV_00000078,SESS_0000000060,CUST_00000068,/categories/beauty,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""winter_promo""}",mobile,,2021-06-25
+PV_00000079,SESS_0000000477,CUST_00000475,/,,mobile,,2023-12-04
+PV_00000080,SESS_0000000320,CUST_00000358,/cart,"{""source"": ""google"", ""medium"": ""social"", ""campaign"": ""new_arrivals""}",desktop,https://www.google.com/,2025-04-23
+PV_00000081,SESS_0000000690,CUST_00000743,/categories/food-gourmet,,mobile,https://www.facebook.com/,2025-12-22
+PV_00000082,SESS_0000000052,CUST_00000456,/checkout,,desktop,https://www.facebook.com/,2024-08-29
+PV_00000083,SESS_0000000657,CUST_00000346,/products/PROD_00000016,"{""source"": ""direct"", ""medium"": ""email"", ""campaign"": ""back_to_school""}",mobile,https://www.facebook.com/,2022-12-15
+PV_00000084,SESS_0000000828,CUST_00000930,/products/PROD_00000810,"{""source"": ""tiktok"", ""medium"": ""email"", ""campaign"": ""back_to_school""}",desktop,https://www.pinterest.com/,2023-01-30
+PV_00000085,SESS_0000000077,CUST_00000521,/products/PROD_00000425,,desktop,https://www.pinterest.com/,2022-11-22
+PV_00000086,SESS_0000000119,,/categories/clothing,,desktop,https://www.pinterest.com/,2024-01-10
+PV_00000087,SESS_0000000721,,/products/PROD_00000724,,desktop,https://www.tiktok.com/,2024-11-12
+PV_00000088,SESS_0000000182,CUST_00000883,/search?q=sale,,mobile,https://www.pinterest.com/,2025-02-17
+PV_00000089,SESS_0000000506,CUST_00000833,/categories/clothing,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""summer_sale""}",desktop,https://www.bing.com/,2023-02-10
+PV_00000090,SESS_0000000650,CUST_00000624,/cart,"{""source"": ""instagram"", ""medium"": ""cpc"", ""campaign"": ""loyalty_reward""}",mobile,https://www.pinterest.com/,2024-10-11
+PV_00000091,SESS_0000000637,,/products/PROD_00000177,"{""source"": ""instagram"", ""medium"": ""cpc"", ""campaign"": ""new_arrivals""}",tablet,https://www.google.com/,2025-10-10
+PV_00000092,SESS_0000000153,CUST_00000328,/products/PROD_00000543,,mobile,https://www.instagram.com/,2025-10-22
+PV_00000093,SESS_0000000018,CUST_00000330,/products/PROD_00000509,,mobile,https://www.youtube.com/,2024-09-11
+PV_00000094,SESS_0000000064,CUST_00000566,/cart,,mobile,https://www.google.com/,2024-03-31
+PV_00000095,SESS_0000000497,,/categories/home-garden,,desktop,https://www.tiktok.com/,2023-11-06
+PV_00000096,SESS_0000000748,CUST_00000443,/categories/books,,desktop,,2021-12-18
+PV_00000097,SESS_0000000079,,/categories/electronics,"{""source"": ""email"", ""medium"": ""social"", ""campaign"": ""black_friday""}",mobile,https://www.bing.com/,2021-10-29
+PV_00000098,SESS_0000000059,,/checkout,"{""source"": ""direct"", ""medium"": ""referral"", ""campaign"": ""loyalty_reward""}",desktop,https://www.google.com/,2023-07-29
+PV_00000099,SESS_0000000411,CUST_00000871,/products/PROD_00000038,"{""source"": ""email"", ""medium"": ""social"", ""campaign"": ""new_arrivals""}",tablet,https://www.youtube.com/,2021-11-29
+PV_00000100,SESS_0000000763,,/checkout,,desktop,https://www.youtube.com/,2023-12-13
+PV_00000101,SESS_0000000826,CUST_00000955,/categories/clothing,,desktop,https://www.facebook.com/,2024-04-21
+PV_00000102,SESS_0000000061,CUST_00000451,/cart,,desktop,https://www.youtube.com/,2023-11-01
+PV_00000103,SESS_0000000467,CUST_00000317,/products/PROD_00000611,"{""source"": ""google"", ""medium"": ""cpc"", ""campaign"": ""loyalty_reward""}",mobile,https://www.facebook.com/,2021-03-30
+PV_00000104,SESS_0000000630,CUST_00000487,/categories/clothing,,mobile,https://www.pinterest.com/,2021-05-21
+PV_00000105,SESS_0000000079,CUST_00000678,/products/PROD_00000556,,desktop,https://www.bing.com/,2021-10-04
+PV_00000106,SESS_0000000749,CUST_00000739,/search?q=gift,,mobile,https://www.youtube.com/,2021-11-24
+PV_00000107,SESS_0000000839,CUST_00000648,/categories/beauty,,tablet,https://www.youtube.com/,2025-12-23
+PV_00000108,SESS_0000000683,,/search?q=laptop,,mobile,,2022-11-17
+PV_00000109,SESS_0000000488,CUST_00000577,/categories/sports,,desktop,,2022-08-13
+PV_00000110,SESS_0000000244,CUST_00000005,/products/PROD_00000118,"{""source"": ""tiktok"", ""medium"": ""cpc"", ""campaign"": ""loyalty_reward""}",desktop,https://www.facebook.com/,2021-05-08
+PV_00000111,SESS_0000000208,,/categories/sports,,mobile,https://www.instagram.com/,2024-03-27
+PV_00000112,SESS_0000000856,CUST_00000371,/products/PROD_00000918,"{""source"": ""direct"", ""medium"": ""referral"", ""campaign"": ""loyalty_reward""}",mobile,https://www.bing.com/,2024-05-07
+PV_00000113,SESS_0000000087,CUST_00000731,/account,,tablet,,2021-12-12
+PV_00000114,SESS_0000000651,,/checkout,"{""source"": ""email"", ""medium"": ""social"", ""campaign"": ""loyalty_reward""}",mobile,https://www.youtube.com/,2025-10-18
+PV_00000115,SESS_0000000600,,/cart,,desktop,https://www.google.com/,2025-01-02
+PV_00000116,SESS_0000000645,CUST_00000555,/cart,,desktop,https://www.bing.com/,2022-03-16
+PV_00000117,SESS_0000000954,CUST_00000188,/categories/home-garden,"{""source"": ""instagram"", ""medium"": ""referral"", ""campaign"": ""back_to_school""}",mobile,https://www.google.com/,2023-07-29
+PV_00000118,SESS_0000000039,CUST_00000026,/search?q=sale,,desktop,https://www.reddit.com/,2023-05-23
+PV_00000119,SESS_0000000176,CUST_00000779,/products/PROD_00000404,"{""source"": ""tiktok"", ""medium"": ""cpc"", ""campaign"": ""new_arrivals""}",tablet,,2022-11-20
+PV_00000120,SESS_0000000478,CUST_00000162,/checkout,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""holiday_gift_guide""}",desktop,,2025-02-12
+PV_00000121,SESS_0000000592,CUST_00000745,/categories/electronics,,mobile,https://www.google.com/,2021-09-24
+PV_00000122,SESS_0000000020,,/search?q=sale,,desktop,https://www.youtube.com/,2023-02-07
+PV_00000123,SESS_0000000221,CUST_00000533,/checkout,,desktop,https://www.instagram.com/,2023-03-10
+PV_00000124,SESS_0000000849,,/search?q=gift,,mobile,,2023-06-17
+PV_00000125,SESS_0000000275,,/categories/home-garden,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.instagram.com/,2025-05-30
+PV_00000126,SESS_0000000700,CUST_00000640,/products/PROD_00000930,"{""source"": ""google"", ""medium"": ""email"", ""campaign"": ""winter_promo""}",desktop,https://www.facebook.com/,2022-02-14
+PV_00000127,SESS_0000000154,CUST_00000588,/categories/electronics,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""new_arrivals""}",desktop,https://www.pinterest.com/,2021-09-08
+PV_00000128,SESS_0000000463,CUST_00000073,/cart,,mobile,https://www.instagram.com/,2024-02-13
+PV_00000129,SESS_0000000409,CUST_00000233,/checkout,,mobile,https://www.reddit.com/,2021-12-10
+PV_00000130,SESS_0000000655,CUST_00000855,/products/PROD_00000222,,desktop,https://www.youtube.com/,2021-07-02
+PV_00000131,SESS_0000000251,CUST_00000106,/categories/toys,"{""source"": ""tiktok"", ""medium"": ""referral"", ""campaign"": ""black_friday""}",mobile,https://www.google.com/,2023-03-07
+PV_00000132,SESS_0000000212,CUST_00000901,/products/PROD_00000182,,desktop,https://www.bing.com/,2022-02-18
+PV_00000133,SESS_0000000478,CUST_00000009,/,,mobile,https://www.bing.com/,2022-11-30
+PV_00000134,SESS_0000000661,CUST_00000631,/products/PROD_00000730,"{""source"": ""direct"", ""medium"": ""organic"", ""campaign"": ""black_friday""}",mobile,https://www.reddit.com/,2022-05-26
+PV_00000135,SESS_0000000687,CUST_00000050,/cart,,desktop,,2021-08-14
+PV_00000136,SESS_0000000419,CUST_00000522,/products/PROD_00000908,,mobile,https://www.facebook.com/,2023-11-30
+PV_00000137,SESS_0000000172,,/products/PROD_00000088,,desktop,https://www.reddit.com/,2021-03-07
+PV_00000138,SESS_0000000507,CUST_00000442,/account,"{""source"": ""instagram"", ""medium"": ""social"", ""campaign"": ""back_to_school""}",desktop,https://www.facebook.com/,2025-12-04
+PV_00000139,SESS_0000000646,CUST_00000778,/products/PROD_00000787,,mobile,https://www.facebook.com/,2022-11-14
+PV_00000140,SESS_0000000628,,/products/PROD_00000492,,mobile,,2024-08-20
+PV_00000141,SESS_0000000869,CUST_00000036,/products/PROD_00000336,"{""source"": ""tiktok"", ""medium"": ""referral"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.bing.com/,2025-01-26
+PV_00000142,SESS_0000000203,CUST_00000202,/categories/beauty,,desktop,https://www.tiktok.com/,2022-07-12
+PV_00000143,SESS_0000000919,CUST_00000824,/cart,,mobile,https://www.pinterest.com/,2024-11-20
+PV_00000144,SESS_0000000492,,/products/PROD_00000633,,desktop,https://www.tiktok.com/,2025-03-20
+PV_00000145,SESS_0000000295,CUST_00000702,/cart,,desktop,https://www.google.com/,2022-04-11
+PV_00000146,SESS_0000000457,CUST_00000754,/products/PROD_00000362,"{""source"": ""tiktok"", ""medium"": ""organic"", ""campaign"": ""summer_sale""}",mobile,https://www.instagram.com/,2025-12-25
+PV_00000147,SESS_0000000146,CUST_00000805,/,,mobile,https://www.google.com/,2021-02-20
+PV_00000148,SESS_0000000238,CUST_00000169,/checkout,,tablet,https://www.facebook.com/,2022-02-11
+PV_00000149,SESS_0000000740,CUST_00000512,/search?q=laptop,"{""source"": ""instagram"", ""medium"": ""cpc"", ""campaign"": ""black_friday""}",mobile,https://www.facebook.com/,2024-12-15
+PV_00000150,SESS_0000000767,,/account,,desktop,https://www.bing.com/,2021-12-27
+PV_00000151,SESS_0000000424,CUST_00000560,/products/PROD_00000894,,tablet,https://www.tiktok.com/,2024-08-27
+PV_00000152,SESS_0000000292,CUST_00000150,/products/PROD_00000548,,desktop,,2025-05-16
+PV_00000153,SESS_0000000156,CUST_00000855,/cart,"{""source"": ""instagram"", ""medium"": ""cpc"", ""campaign"": ""summer_sale""}",desktop,https://www.facebook.com/,2025-11-28
+PV_00000154,SESS_0000000960,CUST_00000208,/products/PROD_00000223,,mobile,,2023-07-01
+PV_00000155,SESS_0000000851,CUST_00000061,/products/PROD_00000747,,tablet,https://www.youtube.com/,2025-12-08
+PV_00000156,SESS_0000000350,CUST_00000843,/products/PROD_00000124,,mobile,https://www.pinterest.com/,2023-01-29
+PV_00000157,SESS_0000000442,,/categories/toys,,mobile,https://www.bing.com/,2022-02-14
+PV_00000158,SESS_0000000934,CUST_00000239,/categories/clothing,,mobile,https://www.pinterest.com/,2023-10-05
+PV_00000159,SESS_0000000243,,/products/PROD_00000998,"{""source"": ""facebook"", ""medium"": ""email"", ""campaign"": ""new_arrivals""}",mobile,,2024-05-01
+PV_00000160,SESS_0000000207,CUST_00000867,/products/PROD_00000962,,mobile,https://www.pinterest.com/,2023-05-22
+PV_00000161,SESS_0000000428,CUST_00000048,/cart,"{""source"": ""instagram"", ""medium"": ""cpc"", ""campaign"": ""summer_sale""}",desktop,https://www.youtube.com/,2023-12-05
+PV_00000162,SESS_0000000766,CUST_00000448,/products/PROD_00000215,,desktop,https://www.pinterest.com/,2023-02-10
+PV_00000163,SESS_0000000972,CUST_00000757,/search?q=sale,,desktop,https://www.pinterest.com/,2023-11-01
+PV_00000164,SESS_0000000258,,/products/PROD_00000227,,mobile,https://www.facebook.com/,2025-11-23
+PV_00000165,SESS_0000000585,,/cart,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""loyalty_reward""}",mobile,https://www.facebook.com/,2023-09-01
+PV_00000166,SESS_0000000035,CUST_00000425,/categories/books,,mobile,https://www.google.com/,2022-05-10
+PV_00000167,SESS_0000000129,CUST_00000517,/products/PROD_00000549,,desktop,https://www.facebook.com/,2024-11-28
+PV_00000168,SESS_0000000430,CUST_00000612,/categories/electronics,,desktop,https://www.bing.com/,2022-11-11
+PV_00000169,SESS_0000000700,CUST_00000205,/categories/home-garden,"{""source"": ""email"", ""medium"": ""cpc"", ""campaign"": ""new_arrivals""}",mobile,https://www.instagram.com/,2025-02-09
+PV_00000170,SESS_0000000319,CUST_00000180,/,,desktop,https://www.tiktok.com/,2021-05-19
+PV_00000171,SESS_0000000095,CUST_00000529,/cart,"{""source"": ""direct"", ""medium"": ""organic"", ""campaign"": ""black_friday""}",mobile,https://www.tiktok.com/,2022-11-07
+PV_00000172,SESS_0000000220,CUST_00000090,/products/PROD_00000012,,desktop,https://www.tiktok.com/,2021-08-18
+PV_00000173,SESS_0000000301,,/products/PROD_00000122,,mobile,https://www.facebook.com/,2021-07-27
+PV_00000174,SESS_0000000637,CUST_00000108,/products/PROD_00000547,,mobile,https://www.youtube.com/,2024-05-22
+PV_00000175,SESS_0000000185,CUST_00000190,/products/PROD_00000489,"{""source"": ""tiktok"", ""medium"": ""cpc"", ""campaign"": ""loyalty_reward""}",mobile,https://www.google.com/,2022-12-20
+PV_00000176,SESS_0000000037,CUST_00000180,/categories/electronics,,desktop,https://www.reddit.com/,2025-06-23
+PV_00000177,SESS_0000000775,CUST_00000761,/search?q=camera,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.facebook.com/,2023-10-11
+PV_00000178,SESS_0000000622,,/categories/food-gourmet,,mobile,,2022-08-21
+PV_00000179,SESS_0000000400,CUST_00000020,/cart,,tablet,https://www.facebook.com/,2024-10-22
+PV_00000180,SESS_0000000690,,/cart,,mobile,https://www.youtube.com/,2024-02-29
+PV_00000181,SESS_0000000142,CUST_00000609,/checkout,,desktop,https://www.tiktok.com/,2024-12-31
+PV_00000182,SESS_0000000993,CUST_00000734,/products/PROD_00000337,"{""source"": ""facebook"", ""medium"": ""cpc"", ""campaign"": ""winter_promo""}",mobile,https://www.youtube.com/,2024-04-16
+PV_00000183,SESS_0000000134,CUST_00000656,/checkout,,mobile,https://www.facebook.com/,2021-12-05
+PV_00000184,SESS_0000000445,CUST_00000007,/,"{""source"": ""tiktok"", ""medium"": ""email"", ""campaign"": ""back_to_school""}",mobile,https://www.facebook.com/,2024-06-20
+PV_00000185,SESS_0000000661,CUST_00000862,/products/PROD_00000953,,desktop,https://www.bing.com/,2022-12-25
+PV_00000186,SESS_0000000906,,/products/PROD_00000328,"{""source"": ""facebook"", ""medium"": ""cpc"", ""campaign"": ""new_arrivals""}",desktop,https://www.instagram.com/,2023-06-04
+PV_00000187,SESS_0000000288,CUST_00000268,/search?q=laptop,,tablet,https://www.instagram.com/,2025-10-23
+PV_00000188,SESS_0000000902,CUST_00000427,/checkout,"{""source"": ""facebook"", ""medium"": ""organic"", ""campaign"": ""summer_sale""}",tablet,https://www.bing.com/,2022-11-29
+PV_00000189,SESS_0000000258,CUST_00000296,/products/PROD_00000626,"{""source"": ""instagram"", ""medium"": ""email"", ""campaign"": ""new_arrivals""}",desktop,https://www.pinterest.com/,2024-01-30
+PV_00000190,SESS_0000000039,CUST_00000513,/categories/food-gourmet,,desktop,https://www.bing.com/,2022-12-02
+PV_00000191,SESS_0000000305,,/categories/beauty,,desktop,https://www.instagram.com/,2021-08-19
+PV_00000192,SESS_0000000283,CUST_00000387,/categories/toys,,desktop,https://www.instagram.com/,2023-05-11
+PV_00000193,SESS_0000000824,CUST_00000264,/products/PROD_00000893,,desktop,https://www.bing.com/,2023-12-29
+PV_00000194,SESS_0000000526,CUST_00000090,/products/PROD_00000500,"{""source"": ""instagram"", ""medium"": ""email"", ""campaign"": ""loyalty_reward""}",desktop,https://www.instagram.com/,2023-01-19
+PV_00000195,SESS_0000000407,CUST_00000488,/cart,"{""source"": ""google"", ""medium"": ""email"", ""campaign"": ""winter_promo""}",mobile,https://www.facebook.com/,2022-12-24
+PV_00000196,SESS_0000000359,CUST_00000587,/checkout,,desktop,https://www.bing.com/,2025-02-19
+PV_00000197,SESS_0000000886,CUST_00000957,/,,mobile,https://www.instagram.com/,2021-03-14
+PV_00000198,SESS_0000000378,CUST_00000853,/products/PROD_00000366,,mobile,https://www.reddit.com/,2022-08-22
+PV_00000199,SESS_0000000469,,/checkout,,mobile,https://www.bing.com/,2025-01-29
+PV_00000200,SESS_0000000873,CUST_00000488,/products/PROD_00000774,"{""source"": ""facebook"", ""medium"": ""social"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.facebook.com/,2025-10-21
+PV_00000201,SESS_0000000947,,/categories/clothing,,mobile,https://www.pinterest.com/,2023-01-31
+PV_00000202,SESS_0000000990,CUST_00000341,/account,"{""source"": ""facebook"", ""medium"": ""email"", ""campaign"": ""clearance""}",mobile,https://www.facebook.com/,2025-08-05
+PV_00000203,SESS_0000000281,CUST_00000329,/categories/home-garden,,mobile,https://www.tiktok.com/,2021-12-31
+PV_00000204,SESS_0000000565,CUST_00000401,/products/PROD_00000815,,desktop,https://www.tiktok.com/,2022-02-22
+PV_00000205,SESS_0000000984,CUST_00000357,/products/PROD_00000861,,desktop,https://www.pinterest.com/,2025-04-23
+PV_00000206,SESS_0000000011,CUST_00000755,/categories/toys,"{""source"": ""facebook"", ""medium"": ""social"", ""campaign"": ""loyalty_reward""}",mobile,https://www.google.com/,2025-09-09
+PV_00000207,SESS_0000000675,CUST_00000499,/checkout,"{""source"": ""instagram"", ""medium"": ""cpc"", ""campaign"": ""back_to_school""}",mobile,,2022-02-25
+PV_00000208,SESS_0000000695,CUST_00000834,/search?q=gift,"{""source"": ""direct"", ""medium"": ""referral"", ""campaign"": ""summer_sale""}",tablet,https://www.youtube.com/,2021-05-25
+PV_00000209,SESS_0000000186,,/checkout,,desktop,https://www.tiktok.com/,2021-08-09
+PV_00000210,SESS_0000000964,CUST_00000119,/,,desktop,https://www.youtube.com/,2022-05-30
+PV_00000211,SESS_0000000549,CUST_00000047,/cart,"{""source"": ""facebook"", ""medium"": ""cpc"", ""campaign"": ""winter_promo""}",mobile,https://www.youtube.com/,2024-11-30
+PV_00000212,SESS_0000000996,CUST_00000168,/,"{""source"": ""google"", ""medium"": ""cpc"", ""campaign"": ""winter_promo""}",desktop,,2023-09-26
+PV_00000213,SESS_0000000973,CUST_00000348,/products/PROD_00000182,"{""source"": ""direct"", ""medium"": ""cpc"", ""campaign"": ""back_to_school""}",mobile,https://www.tiktok.com/,2023-05-16
+PV_00000214,SESS_0000000009,CUST_00000504,/account,,mobile,https://www.pinterest.com/,2023-12-19
+PV_00000215,SESS_0000000028,,/products/PROD_00000974,,mobile,https://www.google.com/,2025-08-08
+PV_00000216,SESS_0000000823,CUST_00000296,/account,,desktop,https://www.youtube.com/,2021-08-09
+PV_00000217,SESS_0000000686,CUST_00000513,/products/PROD_00000166,,mobile,https://www.reddit.com/,2024-08-19
+PV_00000218,SESS_0000000464,CUST_00000174,/cart,,mobile,https://www.instagram.com/,2025-11-02
+PV_00000219,SESS_0000000639,CUST_00000395,/cart,,mobile,https://www.tiktok.com/,2022-02-02
+PV_00000220,SESS_0000000511,CUST_00000679,/search?q=gift,,mobile,https://www.pinterest.com/,2025-04-02
+PV_00000221,SESS_0000000502,CUST_00000530,/checkout,,mobile,https://www.facebook.com/,2024-08-27
+PV_00000222,SESS_0000000582,CUST_00000603,/products/PROD_00000344,"{""source"": ""instagram"", ""medium"": ""cpc"", ""campaign"": ""summer_sale""}",mobile,https://www.pinterest.com/,2021-02-05
+PV_00000223,SESS_0000000795,CUST_00000303,/categories/books,,mobile,https://www.bing.com/,2022-03-19
+PV_00000224,SESS_0000000778,CUST_00000202,/products/PROD_00000874,,mobile,https://www.google.com/,2024-01-15
+PV_00000225,SESS_0000000663,CUST_00000996,/products/PROD_00000105,"{""source"": ""facebook"", ""medium"": ""cpc"", ""campaign"": ""winter_promo""}",desktop,https://www.facebook.com/,2023-09-07
+PV_00000226,SESS_0000000661,CUST_00000533,/products/PROD_00000548,"{""source"": ""direct"", ""medium"": ""organic"", ""campaign"": ""new_arrivals""}",mobile,https://www.bing.com/,2023-11-03
+PV_00000227,SESS_0000000218,CUST_00000156,/products/PROD_00000314,"{""source"": ""email"", ""medium"": ""referral"", ""campaign"": ""new_arrivals""}",mobile,https://www.instagram.com/,2022-03-19
+PV_00000228,SESS_0000000429,CUST_00000897,/categories/clothing,"{""source"": ""tiktok"", ""medium"": ""cpc"", ""campaign"": ""black_friday""}",desktop,https://www.facebook.com/,2024-07-02
+PV_00000229,SESS_0000000638,CUST_00000014,/account,"{""source"": ""direct"", ""medium"": ""social"", ""campaign"": ""black_friday""}",mobile,https://www.google.com/,2022-06-11
+PV_00000230,SESS_0000000003,CUST_00000020,/account,,desktop,https://www.bing.com/,2022-12-23
+PV_00000231,SESS_0000000187,CUST_00000756,/products/PROD_00000926,"{""source"": ""tiktok"", ""medium"": ""social"", ""campaign"": ""clearance""}",desktop,https://www.instagram.com/,2022-12-06
+PV_00000232,SESS_0000000043,,/products/PROD_00000598,"{""source"": ""instagram"", ""medium"": ""email"", ""campaign"": ""clearance""}",mobile,https://www.youtube.com/,2024-06-25
+PV_00000233,SESS_0000000611,CUST_00000457,/products/PROD_00000436,,desktop,https://www.pinterest.com/,2021-08-08
+PV_00000234,SESS_0000000775,CUST_00000173,/products/PROD_00000609,,mobile,https://www.youtube.com/,2022-01-14
+PV_00000235,SESS_0000000411,CUST_00000445,/products/PROD_00000512,"{""source"": ""google"", ""medium"": ""cpc"", ""campaign"": ""new_arrivals""}",mobile,https://www.bing.com/,2022-01-02
+PV_00000236,SESS_0000000190,CUST_00000923,/products/PROD_00000409,,desktop,https://www.youtube.com/,2021-09-22
+PV_00000237,SESS_0000000042,CUST_00000122,/categories/electronics,,tablet,https://www.bing.com/,2022-01-19
+PV_00000238,SESS_0000000097,CUST_00000497,/categories/home-garden,,desktop,https://www.reddit.com/,2024-01-18
+PV_00000239,SESS_0000000772,CUST_00000184,/categories/food-gourmet,"{""source"": ""instagram"", ""medium"": ""cpc"", ""campaign"": ""summer_sale""}",mobile,,2024-11-06
+PV_00000240,SESS_0000000730,,/products/PROD_00000613,,mobile,https://www.instagram.com/,2024-05-27
+PV_00000241,SESS_0000000958,,/cart,,mobile,https://www.youtube.com/,2023-07-03
+PV_00000242,SESS_0000000648,CUST_00000805,/checkout,,tablet,,2021-05-08
+PV_00000243,SESS_0000000852,CUST_00000850,/products/PROD_00000861,"{""source"": ""direct"", ""medium"": ""cpc"", ""campaign"": ""back_to_school""}",mobile,https://www.google.com/,2025-11-28
+PV_00000244,SESS_0000000657,CUST_00000671,/products/PROD_00000953,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""winter_promo""}",tablet,https://www.reddit.com/,2021-12-06
+PV_00000245,SESS_0000000517,CUST_00000049,/products/PROD_00000063,,desktop,https://www.tiktok.com/,2024-06-16
+PV_00000246,SESS_0000000959,,/products/PROD_00000032,"{""source"": ""google"", ""medium"": ""email"", ""campaign"": ""summer_sale""}",mobile,,2025-10-02
+PV_00000247,SESS_0000000881,CUST_00000807,/categories/sports,"{""source"": ""instagram"", ""medium"": ""social"", ""campaign"": ""loyalty_reward""}",mobile,https://www.google.com/,2024-08-26
+PV_00000248,SESS_0000000905,CUST_00000394,/products/PROD_00000211,"{""source"": ""facebook"", ""medium"": ""organic"", ""campaign"": ""holiday_gift_guide""}",tablet,https://www.tiktok.com/,2022-02-14
+PV_00000249,SESS_0000000136,CUST_00000393,/categories/books,,tablet,https://www.google.com/,2022-10-10
+PV_00000250,SESS_0000000510,CUST_00000348,/products/PROD_00000563,"{""source"": ""google"", ""medium"": ""cpc"", ""campaign"": ""winter_promo""}",mobile,https://www.instagram.com/,2021-03-15
+PV_00000251,SESS_0000000519,CUST_00000476,/cart,"{""source"": ""tiktok"", ""medium"": ""referral"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.tiktok.com/,2024-02-01
+PV_00000252,SESS_0000000037,CUST_00000141,/products/PROD_00000080,,desktop,https://www.google.com/,2024-02-02
+PV_00000253,SESS_0000000996,,/categories/food-gourmet,"{""source"": ""instagram"", ""medium"": ""referral"", ""campaign"": ""clearance""}",desktop,https://www.reddit.com/,2024-11-01
+PV_00000254,SESS_0000000823,CUST_00000652,/products/PROD_00000232,,desktop,https://www.youtube.com/,2021-01-27
+PV_00000255,SESS_0000000579,CUST_00000584,/products/PROD_00000878,,desktop,https://www.google.com/,2025-02-13
+PV_00000256,SESS_0000000904,CUST_00000471,/,,desktop,https://www.tiktok.com/,2024-11-12
+PV_00000257,SESS_0000000837,CUST_00000754,/cart,,desktop,https://www.tiktok.com/,2021-11-14
+PV_00000258,SESS_0000000517,CUST_00000773,/products/PROD_00000019,,desktop,https://www.google.com/,2022-11-19
+PV_00000259,SESS_0000000785,CUST_00000263,/cart,,tablet,https://www.facebook.com/,2024-04-04
+PV_00000260,SESS_0000000879,CUST_00000143,/cart,,desktop,https://www.reddit.com/,2023-08-22
+PV_00000261,SESS_0000000058,CUST_00000707,/categories/sports,,desktop,https://www.facebook.com/,2021-10-08
+PV_00000262,SESS_0000000959,CUST_00000146,/categories/books,"{""source"": ""tiktok"", ""medium"": ""cpc"", ""campaign"": ""black_friday""}",mobile,https://www.instagram.com/,2021-08-01
+PV_00000263,SESS_0000000155,CUST_00000294,/,,mobile,,2024-12-16
+PV_00000264,SESS_0000000872,CUST_00000538,/products/PROD_00000615,,desktop,https://www.reddit.com/,2021-11-26
+PV_00000265,SESS_0000000999,CUST_00000509,/products/PROD_00000881,,desktop,https://www.google.com/,2021-12-09
+PV_00000266,SESS_0000000113,CUST_00000422,/products/PROD_00000666,,desktop,https://www.reddit.com/,2025-03-17
+PV_00000267,SESS_0000000460,CUST_00000571,/checkout,"{""source"": ""instagram"", ""medium"": ""cpc"", ""campaign"": ""loyalty_reward""}",desktop,https://www.instagram.com/,2024-01-31
+PV_00000268,SESS_0000000604,CUST_00000564,/account,,desktop,https://www.google.com/,2024-01-13
+PV_00000269,SESS_0000000836,,/checkout,,mobile,https://www.instagram.com/,2023-07-13
+PV_00000270,SESS_0000000756,,/checkout,"{""source"": ""tiktok"", ""medium"": ""social"", ""campaign"": ""clearance""}",mobile,https://www.youtube.com/,2023-12-07
+PV_00000271,SESS_0000000796,,/search?q=camera,,mobile,https://www.reddit.com/,2024-01-05
+PV_00000272,SESS_0000000601,,/cart,,desktop,https://www.google.com/,2025-12-05
+PV_00000273,SESS_0000000442,CUST_00000318,/checkout,,desktop,https://www.facebook.com/,2022-02-26
+PV_00000274,SESS_0000000690,CUST_00000059,/search?q=gift,"{""source"": ""facebook"", ""medium"": ""organic"", ""campaign"": ""new_arrivals""}",desktop,https://www.reddit.com/,2022-02-05
+PV_00000275,SESS_0000000228,CUST_00000258,/products/PROD_00000987,,desktop,,2021-05-20
+PV_00000276,SESS_0000000874,,/cart,"{""source"": ""direct"", ""medium"": ""cpc"", ""campaign"": ""summer_sale""}",mobile,https://www.reddit.com/,2024-05-22
+PV_00000277,SESS_0000000579,CUST_00000793,/cart,,tablet,https://www.reddit.com/,2023-11-20
+PV_00000278,SESS_0000000122,CUST_00000425,/account,"{""source"": ""instagram"", ""medium"": ""email"", ""campaign"": ""back_to_school""}",desktop,https://www.google.com/,2021-09-28
+PV_00000279,SESS_0000000671,CUST_00000531,/,,tablet,https://www.reddit.com/,2022-12-03
+PV_00000280,SESS_0000000357,CUST_00000166,/checkout,,tablet,https://www.pinterest.com/,2021-12-14
+PV_00000281,SESS_0000000268,,/account,"{""source"": ""google"", ""medium"": ""cpc"", ""campaign"": ""back_to_school""}",desktop,,2022-11-06
+PV_00000282,SESS_0000000695,CUST_00000935,/categories/clothing,,desktop,https://www.instagram.com/,2025-11-22
+PV_00000283,SESS_0000000485,CUST_00000004,/products/PROD_00000108,,desktop,https://www.tiktok.com/,2024-07-22
+PV_00000284,SESS_0000000869,CUST_00000003,/products/PROD_00000812,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""summer_sale""}",mobile,https://www.bing.com/,2021-01-19
+PV_00000285,SESS_0000000004,CUST_00000418,/categories/toys,,desktop,https://www.bing.com/,2022-05-09
+PV_00000286,SESS_0000000478,,/categories/books,,desktop,https://www.google.com/,2021-01-26
+PV_00000287,SESS_0000000121,CUST_00000906,/categories/sports,"{""source"": ""instagram"", ""medium"": ""social"", ""campaign"": ""back_to_school""}",tablet,https://www.youtube.com/,2024-10-07
+PV_00000288,SESS_0000000742,,/categories/electronics,,desktop,,2023-06-19
+PV_00000289,SESS_0000000810,CUST_00000539,/account,,desktop,https://www.reddit.com/,2025-12-27
+PV_00000290,SESS_0000000486,CUST_00000880,/products/PROD_00000995,,mobile,https://www.pinterest.com/,2024-11-08
+PV_00000291,SESS_0000000219,CUST_00000346,/,,mobile,,2023-10-15
+PV_00000292,SESS_0000000694,,/account,"{""source"": ""email"", ""medium"": ""referral"", ""campaign"": ""back_to_school""}",desktop,https://www.instagram.com/,2025-01-12
+PV_00000293,SESS_0000000278,CUST_00000897,/categories/home-garden,,desktop,https://www.google.com/,2024-09-12
+PV_00000294,SESS_0000000257,CUST_00000044,/categories/sports,,mobile,https://www.facebook.com/,2022-04-17
+PV_00000295,SESS_0000000304,CUST_00000724,/checkout,,mobile,https://www.reddit.com/,2023-11-05
+PV_00000296,SESS_0000000043,CUST_00000564,/cart,,tablet,https://www.bing.com/,2023-11-26
+PV_00000297,SESS_0000000870,CUST_00000153,/products/PROD_00000595,,desktop,https://www.youtube.com/,2023-05-06
+PV_00000298,SESS_0000000916,,/products/PROD_00000804,,mobile,https://www.tiktok.com/,2021-12-15
+PV_00000299,SESS_0000000530,CUST_00000321,/products/PROD_00000374,,desktop,,2022-02-27
+PV_00000300,SESS_0000000710,CUST_00000464,/products/PROD_00000421,,tablet,https://www.tiktok.com/,2022-07-17
+PV_00000301,SESS_0000000689,,/products/PROD_00000715,,desktop,https://www.instagram.com/,2021-01-25
+PV_00000302,SESS_0000000588,CUST_00000580,/products/PROD_00000041,,desktop,https://www.reddit.com/,2025-10-12
+PV_00000303,SESS_0000000913,CUST_00000227,/cart,"{""source"": ""tiktok"", ""medium"": ""email"", ""campaign"": ""winter_promo""}",desktop,https://www.tiktok.com/,2024-07-29
+PV_00000304,SESS_0000000693,,/search?q=sale,,desktop,https://www.facebook.com/,2024-08-06
+PV_00000305,SESS_0000000150,CUST_00000333,/cart,,desktop,https://www.instagram.com/,2023-12-09
+PV_00000306,SESS_0000000594,CUST_00000469,/account,"{""source"": ""google"", ""medium"": ""organic"", ""campaign"": ""summer_sale""}",desktop,https://www.bing.com/,2024-08-06
+PV_00000307,SESS_0000000010,CUST_00000015,/checkout,,desktop,https://www.facebook.com/,2025-12-17
+PV_00000308,SESS_0000000792,CUST_00000057,/cart,,desktop,https://www.google.com/,2022-12-20
+PV_00000309,SESS_0000000212,CUST_00000330,/categories/electronics,,mobile,https://www.facebook.com/,2024-10-01
+PV_00000310,SESS_0000000652,CUST_00000064,/products/PROD_00000033,,desktop,https://www.pinterest.com/,2022-11-29
+PV_00000311,SESS_0000000260,CUST_00000230,/checkout,,mobile,https://www.pinterest.com/,2025-05-13
+PV_00000312,SESS_0000000938,CUST_00000011,/account,"{""source"": ""instagram"", ""medium"": ""social"", ""campaign"": ""clearance""}",mobile,https://www.facebook.com/,2025-05-22
+PV_00000313,SESS_0000000382,CUST_00000633,/categories/sports,,desktop,https://www.youtube.com/,2025-09-06
+PV_00000314,SESS_0000000389,CUST_00000224,/products/PROD_00000229,,desktop,https://www.bing.com/,2021-01-14
+PV_00000315,SESS_0000000922,CUST_00000737,/checkout,,mobile,https://www.google.com/,2022-08-28
+PV_00000316,SESS_0000000740,CUST_00000637,/products/PROD_00000688,"{""source"": ""email"", ""medium"": ""referral"", ""campaign"": ""back_to_school""}",desktop,https://www.bing.com/,2021-11-08
+PV_00000317,SESS_0000000955,CUST_00000660,/products/PROD_00000964,,desktop,https://www.pinterest.com/,2023-05-12
+PV_00000318,SESS_0000000958,CUST_00000740,/checkout,,desktop,,2023-08-21
+PV_00000319,SESS_0000000336,CUST_00000542,/categories/home-garden,,desktop,https://www.pinterest.com/,2022-05-17
+PV_00000320,SESS_0000000005,,/cart,,desktop,https://www.instagram.com/,2024-10-28
+PV_00000321,SESS_0000000922,CUST_00000522,/account,,tablet,https://www.pinterest.com/,2022-06-20
+PV_00000322,SESS_0000000083,CUST_00000054,/categories/clothing,,mobile,https://www.instagram.com/,2025-05-12
+PV_00000323,SESS_0000000006,CUST_00000698,/categories/beauty,,mobile,https://www.youtube.com/,2021-12-13
+PV_00000324,SESS_0000000152,CUST_00000719,/products/PROD_00000845,,desktop,https://www.tiktok.com/,2022-12-05
+PV_00000325,SESS_0000000991,CUST_00000767,/products/PROD_00000272,"{""source"": ""instagram"", ""medium"": ""email"", ""campaign"": ""summer_sale""}",tablet,https://www.bing.com/,2024-02-24
+PV_00000326,SESS_0000000735,CUST_00000157,/checkout,,mobile,https://www.pinterest.com/,2024-01-14
+PV_00000327,SESS_0000000181,CUST_00000641,/categories/electronics,,mobile,https://www.youtube.com/,2021-07-10
+PV_00000328,SESS_0000000775,,/products/PROD_00000008,,mobile,https://www.tiktok.com/,2025-04-23
+PV_00000329,SESS_0000000778,CUST_00000405,/products/PROD_00000403,,desktop,https://www.pinterest.com/,2023-12-30
+PV_00000330,SESS_0000000167,,/categories/sports,"{""source"": ""google"", ""medium"": ""social"", ""campaign"": ""back_to_school""}",mobile,https://www.bing.com/,2025-06-19
+PV_00000331,SESS_0000000470,CUST_00000707,/categories/electronics,,mobile,https://www.pinterest.com/,2025-06-14
+PV_00000332,SESS_0000000078,,/cart,"{""source"": ""instagram"", ""medium"": ""referral"", ""campaign"": ""back_to_school""}",tablet,https://www.bing.com/,2023-11-18
+PV_00000333,SESS_0000000412,CUST_00000934,/categories/sports,"{""source"": ""tiktok"", ""medium"": ""referral"", ""campaign"": ""new_arrivals""}",desktop,https://www.instagram.com/,2025-09-27
+PV_00000334,SESS_0000000554,CUST_00000403,/products/PROD_00000800,,tablet,https://www.instagram.com/,2025-04-28
+PV_00000335,SESS_0000000574,CUST_00000900,/categories/sports,,desktop,,2025-11-27
+PV_00000336,SESS_0000000381,CUST_00000588,/account,"{""source"": ""facebook"", ""medium"": ""cpc"", ""campaign"": ""new_arrivals""}",desktop,https://www.bing.com/,2025-05-03
+PV_00000337,SESS_0000000948,CUST_00000089,/products/PROD_00000537,,mobile,https://www.google.com/,2025-02-21
+PV_00000338,SESS_0000000790,CUST_00000866,/cart,,mobile,https://www.instagram.com/,2023-06-19
+PV_00000339,SESS_0000000313,,/categories/home-garden,"{""source"": ""tiktok"", ""medium"": ""referral"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.google.com/,2022-01-30
+PV_00000340,SESS_0000000864,CUST_00000186,/cart,,mobile,https://www.youtube.com/,2025-09-27
+PV_00000341,SESS_0000000395,CUST_00000838,/products/PROD_00000281,,desktop,https://www.facebook.com/,2024-10-26
+PV_00000342,SESS_0000000910,CUST_00000780,/account,"{""source"": ""direct"", ""medium"": ""cpc"", ""campaign"": ""winter_promo""}",mobile,https://www.bing.com/,2022-07-19
+PV_00000343,SESS_0000000543,CUST_00000895,/cart,,desktop,https://www.pinterest.com/,2022-11-14
+PV_00000344,SESS_0000000004,CUST_00000079,/checkout,,mobile,https://www.youtube.com/,2024-07-29
+PV_00000345,SESS_0000000109,CUST_00000145,/products/PROD_00000343,"{""source"": ""instagram"", ""medium"": ""referral"", ""campaign"": ""loyalty_reward""}",desktop,https://www.reddit.com/,2023-07-09
+PV_00000346,SESS_0000000918,CUST_00000641,/cart,,desktop,https://www.tiktok.com/,2021-07-18
+PV_00000347,SESS_0000000886,CUST_00000014,/checkout,,tablet,,2021-11-14
+PV_00000348,SESS_0000000093,CUST_00000631,/products/PROD_00000492,,desktop,https://www.pinterest.com/,2024-11-17
+PV_00000349,SESS_0000000099,,/products/PROD_00000729,,mobile,https://www.reddit.com/,2022-11-04
+PV_00000350,SESS_0000000192,,/cart,"{""source"": ""tiktok"", ""medium"": ""email"", ""campaign"": ""loyalty_reward""}",desktop,https://www.google.com/,2023-09-20
+PV_00000351,SESS_0000000333,,/products/PROD_00000044,,desktop,https://www.pinterest.com/,2024-12-04
+PV_00000352,SESS_0000000212,CUST_00000066,/cart,,mobile,https://www.pinterest.com/,2024-11-22
+PV_00000353,SESS_0000000595,CUST_00000246,/products/PROD_00000670,,desktop,https://www.bing.com/,2021-12-05
+PV_00000354,SESS_0000000207,CUST_00000602,/products/PROD_00000269,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""clearance""}",mobile,https://www.bing.com/,2021-08-28
+PV_00000355,SESS_0000000627,CUST_00000430,/cart,,mobile,https://www.pinterest.com/,2023-12-25
+PV_00000356,SESS_0000000986,CUST_00000690,/products/PROD_00000733,,mobile,https://www.google.com/,2024-11-14
+PV_00000357,SESS_0000000764,,/search?q=gift,,mobile,https://www.instagram.com/,2021-11-20
+PV_00000358,SESS_0000000980,CUST_00000232,/,,mobile,https://www.tiktok.com/,2022-12-09
+PV_00000359,SESS_0000000573,CUST_00000436,/cart,,mobile,https://www.youtube.com/,2025-06-20
+PV_00000360,SESS_0000000356,CUST_00000353,/checkout,,mobile,,2025-11-16
+PV_00000361,SESS_0000000902,,/,,mobile,https://www.tiktok.com/,2023-05-13
+PV_00000362,SESS_0000000253,,/products/PROD_00000431,"{""source"": ""email"", ""medium"": ""cpc"", ""campaign"": ""new_arrivals""}",mobile,https://www.youtube.com/,2021-07-13
+PV_00000363,SESS_0000000591,CUST_00000383,/checkout,,desktop,,2022-05-21
+PV_00000364,SESS_0000000196,CUST_00000710,/products/PROD_00000131,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""black_friday""}",desktop,,2022-03-22
+PV_00000365,SESS_0000000262,CUST_00000060,/categories/home-garden,,desktop,https://www.youtube.com/,2022-04-06
+PV_00000366,SESS_0000000322,,/categories/food-gourmet,,desktop,https://www.reddit.com/,2023-08-18
+PV_00000367,SESS_0000000420,CUST_00000470,/cart,"{""source"": ""instagram"", ""medium"": ""social"", ""campaign"": ""loyalty_reward""}",desktop,https://www.instagram.com/,2023-12-18
+PV_00000368,SESS_0000000498,CUST_00000411,/products/PROD_00000143,,mobile,https://www.reddit.com/,2021-10-26
+PV_00000369,SESS_0000000911,CUST_00000083,/products/PROD_00000578,,desktop,https://www.instagram.com/,2025-08-06
+PV_00000370,SESS_0000000332,CUST_00000074,/cart,,mobile,https://www.reddit.com/,2024-02-19
+PV_00000371,SESS_0000000296,CUST_00000311,/products/PROD_00000125,,mobile,https://www.google.com/,2023-12-29
+PV_00000372,SESS_0000000236,CUST_00000454,/checkout,,desktop,https://www.youtube.com/,2025-12-21
+PV_00000373,SESS_0000000681,CUST_00000026,/cart,,desktop,https://www.bing.com/,2024-03-10
+PV_00000374,SESS_0000000007,,/products/PROD_00000428,,desktop,https://www.facebook.com/,2025-11-04
+PV_00000375,SESS_0000000534,CUST_00000377,/products/PROD_00000437,,mobile,https://www.instagram.com/,2022-07-30
+PV_00000376,SESS_0000000072,CUST_00000243,/cart,"{""source"": ""google"", ""medium"": ""referral"", ""campaign"": ""loyalty_reward""}",mobile,,2022-04-08
+PV_00000377,SESS_0000000500,CUST_00000835,/categories/electronics,"{""source"": ""email"", ""medium"": ""referral"", ""campaign"": ""loyalty_reward""}",mobile,https://www.pinterest.com/,2023-10-12
+PV_00000378,SESS_0000000618,CUST_00000628,/products/PROD_00000644,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""winter_promo""}",desktop,https://www.tiktok.com/,2023-09-22
+PV_00000379,SESS_0000000139,,/products/PROD_00000328,,mobile,https://www.pinterest.com/,2022-03-06
+PV_00000380,SESS_0000000386,,/products/PROD_00000812,,mobile,https://www.pinterest.com/,2024-08-31
+PV_00000381,SESS_0000000542,CUST_00000774,/products/PROD_00000119,,desktop,https://www.youtube.com/,2021-03-14
+PV_00000382,SESS_0000000324,,/categories/beauty,,mobile,https://www.google.com/,2024-08-09
+PV_00000383,SESS_0000000949,CUST_00000266,/checkout,,mobile,https://www.facebook.com/,2023-05-20
+PV_00000384,SESS_0000000601,CUST_00000550,/categories/sports,,desktop,https://www.tiktok.com/,2024-08-05
+PV_00000385,SESS_0000000917,CUST_00000380,/checkout,,mobile,https://www.tiktok.com/,2023-07-08
+PV_00000386,SESS_0000000665,,/products/PROD_00000013,,desktop,https://www.facebook.com/,2025-12-13
+PV_00000387,SESS_0000000073,,/categories/electronics,"{""source"": ""email"", ""medium"": ""referral"", ""campaign"": ""black_friday""}",desktop,,2022-11-09
+PV_00000388,SESS_0000000840,CUST_00000524,/cart,,desktop,https://www.facebook.com/,2025-12-17
+PV_00000389,SESS_0000000389,CUST_00000814,/cart,,desktop,https://www.youtube.com/,2021-06-08
+PV_00000390,SESS_0000000238,CUST_00000049,/cart,,desktop,https://www.reddit.com/,2024-07-23
+PV_00000391,SESS_0000000988,CUST_00000254,/cart,,mobile,https://www.tiktok.com/,2023-05-13
+PV_00000392,SESS_0000000322,CUST_00000859,/cart,,tablet,https://www.youtube.com/,2025-02-23
+PV_00000393,SESS_0000000341,,/products/PROD_00000781,,mobile,https://www.tiktok.com/,2024-12-23
+PV_00000394,SESS_0000000763,CUST_00000249,/cart,,desktop,,2025-01-01
+PV_00000395,SESS_0000000305,CUST_00000072,/cart,"{""source"": ""google"", ""medium"": ""referral"", ""campaign"": ""back_to_school""}",tablet,https://www.bing.com/,2021-08-19
+PV_00000396,SESS_0000000008,CUST_00000447,/search?q=dress,,desktop,https://www.instagram.com/,2025-02-24
+PV_00000397,SESS_0000000994,CUST_00000506,/cart,,desktop,https://www.tiktok.com/,2022-02-04
+PV_00000398,SESS_0000000983,CUST_00000709,/cart,,mobile,https://www.google.com/,2021-03-04
+PV_00000399,SESS_0000000207,CUST_00000253,/categories/electronics,"{""source"": ""tiktok"", ""medium"": ""social"", ""campaign"": ""black_friday""}",mobile,https://www.youtube.com/,2022-02-13
+PV_00000400,SESS_0000000411,CUST_00000996,/,,desktop,https://www.facebook.com/,2023-07-13
+PV_00000401,SESS_0000000258,CUST_00000870,/search?q=sale,,mobile,https://www.tiktok.com/,2024-11-14
+PV_00000402,SESS_0000000796,CUST_00000299,/checkout,"{""source"": ""direct"", ""medium"": ""organic"", ""campaign"": ""loyalty_reward""}",desktop,https://www.reddit.com/,2022-02-15
+PV_00000403,SESS_0000000651,,/cart,,mobile,https://www.pinterest.com/,2021-10-03
+PV_00000404,SESS_0000000046,,/products/PROD_00000300,,mobile,https://www.instagram.com/,2024-04-22
+PV_00000405,SESS_0000000126,CUST_00000357,/cart,,mobile,https://www.youtube.com/,2025-12-18
+PV_00000406,SESS_0000000021,CUST_00000157,/cart,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""new_arrivals""}",tablet,https://www.google.com/,2024-01-03
+PV_00000407,SESS_0000000170,CUST_00000342,/checkout,,mobile,,2024-08-10
+PV_00000408,SESS_0000000544,CUST_00000974,/products/PROD_00000549,"{""source"": ""tiktok"", ""medium"": ""referral"", ""campaign"": ""back_to_school""}",desktop,https://www.google.com/,2023-11-30
+PV_00000409,SESS_0000000416,CUST_00000894,/cart,,mobile,https://www.facebook.com/,2024-12-17
+PV_00000410,SESS_0000000455,CUST_00000202,/products/PROD_00000978,,desktop,https://www.google.com/,2025-12-12
+PV_00000411,SESS_0000000662,CUST_00000779,/checkout,"{""source"": ""direct"", ""medium"": ""social"", ""campaign"": ""loyalty_reward""}",tablet,https://www.pinterest.com/,2023-11-16
+PV_00000412,SESS_0000000206,CUST_00000035,/products/PROD_00000787,,mobile,https://www.tiktok.com/,2023-02-11
+PV_00000413,SESS_0000000333,CUST_00000767,/cart,,desktop,https://www.facebook.com/,2025-05-27
+PV_00000414,SESS_0000000021,CUST_00000535,/products/PROD_00000800,,mobile,https://www.bing.com/,2025-12-07
+PV_00000415,SESS_0000000918,CUST_00000456,/products/PROD_00000618,,desktop,https://www.pinterest.com/,2021-11-04
+PV_00000416,SESS_0000000802,CUST_00000917,/cart,,desktop,,2023-12-14
+PV_00000417,SESS_0000000650,,/products/PROD_00000233,"{""source"": ""google"", ""medium"": ""email"", ""campaign"": ""new_arrivals""}",mobile,https://www.reddit.com/,2024-12-25
+PV_00000418,SESS_0000000065,CUST_00000028,/cart,"{""source"": ""direct"", ""medium"": ""email"", ""campaign"": ""loyalty_reward""}",desktop,https://www.instagram.com/,2023-11-08
+PV_00000419,SESS_0000000577,,/account,,tablet,https://www.google.com/,2023-01-23
+PV_00000420,SESS_0000000088,,/search?q=laptop,"{""source"": ""email"", ""medium"": ""referral"", ""campaign"": ""loyalty_reward""}",desktop,https://www.pinterest.com/,2024-05-15
+PV_00000421,SESS_0000000835,CUST_00000314,/products/PROD_00000729,"{""source"": ""tiktok"", ""medium"": ""social"", ""campaign"": ""clearance""}",mobile,https://www.youtube.com/,2022-06-21
+PV_00000422,SESS_0000000479,,/checkout,,mobile,https://www.reddit.com/,2022-11-20
+PV_00000423,SESS_0000000043,CUST_00000284,/products/PROD_00000570,"{""source"": ""facebook"", ""medium"": ""social"", ""campaign"": ""back_to_school""}",mobile,https://www.bing.com/,2025-12-25
+PV_00000424,SESS_0000000883,CUST_00000298,/account,"{""source"": ""tiktok"", ""medium"": ""organic"", ""campaign"": ""summer_sale""}",desktop,https://www.reddit.com/,2024-03-30
+PV_00000425,SESS_0000000937,CUST_00000475,/checkout,"{""source"": ""instagram"", ""medium"": ""email"", ""campaign"": ""black_friday""}",mobile,https://www.tiktok.com/,2025-06-27
+PV_00000426,SESS_0000000141,CUST_00001000,/products/PROD_00000582,"{""source"": ""email"", ""medium"": ""social"", ""campaign"": ""new_arrivals""}",mobile,https://www.reddit.com/,2025-01-19
+PV_00000427,SESS_0000000374,CUST_00000597,/categories/home-garden,,mobile,https://www.bing.com/,2024-05-07
+PV_00000428,SESS_0000000516,CUST_00000969,/products/PROD_00000701,"{""source"": ""email"", ""medium"": ""referral"", ""campaign"": ""clearance""}",desktop,https://www.youtube.com/,2025-04-10
+PV_00000429,SESS_0000000500,CUST_00000349,/checkout,,mobile,,2022-08-01
+PV_00000430,SESS_0000000279,CUST_00000636,/categories/clothing,,tablet,https://www.facebook.com/,2024-04-01
+PV_00000431,SESS_0000000326,CUST_00000445,/cart,,mobile,https://www.bing.com/,2023-12-24
+PV_00000432,SESS_0000000418,,/cart,"{""source"": ""google"", ""medium"": ""cpc"", ""campaign"": ""summer_sale""}",mobile,https://www.google.com/,2024-02-25
+PV_00000433,SESS_0000000553,CUST_00000417,/search?q=camera,,mobile,https://www.pinterest.com/,2021-12-06
+PV_00000434,SESS_0000000914,,/account,,desktop,https://www.tiktok.com/,2022-07-08
+PV_00000435,SESS_0000000888,CUST_00000165,/categories/electronics,"{""source"": ""direct"", ""medium"": ""cpc"", ""campaign"": ""new_arrivals""}",tablet,https://www.pinterest.com/,2022-07-31
+PV_00000436,SESS_0000000996,CUST_00000559,/cart,"{""source"": ""tiktok"", ""medium"": ""email"", ""campaign"": ""loyalty_reward""}",mobile,https://www.pinterest.com/,2024-01-06
+PV_00000437,SESS_0000000602,CUST_00000420,/checkout,,desktop,https://www.tiktok.com/,2025-12-09
+PV_00000438,SESS_0000000993,CUST_00000371,/,,desktop,https://www.tiktok.com/,2025-11-24
+PV_00000439,SESS_0000000768,,/products/PROD_00000759,,desktop,https://www.reddit.com/,2022-03-08
+PV_00000440,SESS_0000000929,CUST_00000266,/products/PROD_00000557,,mobile,https://www.bing.com/,2022-09-13
+PV_00000441,SESS_0000000921,CUST_00000279,/products/PROD_00000911,"{""source"": ""facebook"", ""medium"": ""social"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.youtube.com/,2021-03-29
+PV_00000442,SESS_0000000308,CUST_00000988,/categories/books,,mobile,https://www.google.com/,2022-12-31
+PV_00000443,SESS_0000000657,,/products/PROD_00000399,"{""source"": ""facebook"", ""medium"": ""email"", ""campaign"": ""loyalty_reward""}",tablet,https://www.youtube.com/,2025-03-26
+PV_00000444,SESS_0000000307,CUST_00000517,/categories/clothing,,desktop,https://www.instagram.com/,2025-10-09
+PV_00000445,SESS_0000000899,CUST_00000082,/cart,"{""source"": ""email"", ""medium"": ""referral"", ""campaign"": ""summer_sale""}",mobile,,2022-03-31
+PV_00000446,SESS_0000000823,,/categories/beauty,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""loyalty_reward""}",mobile,https://www.instagram.com/,2022-06-10
+PV_00000447,SESS_0000000470,CUST_00000774,/cart,,desktop,,2022-02-20
+PV_00000448,SESS_0000000184,,/products/PROD_00000960,,mobile,https://www.reddit.com/,2022-11-21
+PV_00000449,SESS_0000000631,CUST_00000938,/,,desktop,https://www.pinterest.com/,2025-01-12
+PV_00000450,SESS_0000000625,CUST_00000303,/account,,desktop,,2024-04-24
+PV_00000451,SESS_0000000291,,/cart,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""clearance""}",desktop,,2024-12-20
+PV_00000452,SESS_0000000249,CUST_00000028,/,,mobile,https://www.bing.com/,2023-12-18
+PV_00000453,SESS_0000000324,CUST_00000781,/products/PROD_00000951,,mobile,https://www.google.com/,2022-05-21
+PV_00000454,SESS_0000000443,CUST_00000498,/checkout,,mobile,https://www.pinterest.com/,2022-03-10
+PV_00000455,SESS_0000000604,CUST_00000537,/products/PROD_00000715,,mobile,https://www.bing.com/,2021-01-22
+PV_00000456,SESS_0000000059,CUST_00000519,/categories/beauty,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""back_to_school""}",desktop,https://www.tiktok.com/,2024-12-16
+PV_00000457,SESS_0000000269,CUST_00000194,/products/PROD_00000486,"{""source"": ""google"", ""medium"": ""organic"", ""campaign"": ""clearance""}",desktop,https://www.youtube.com/,2025-04-25
+PV_00000458,SESS_0000000318,CUST_00000592,/categories/books,,desktop,https://www.facebook.com/,2024-12-06
+PV_00000459,SESS_0000000094,CUST_00000442,/products/PROD_00000564,,desktop,https://www.tiktok.com/,2021-07-01
+PV_00000460,SESS_0000000254,CUST_00000834,/cart,"{""source"": ""email"", ""medium"": ""social"", ""campaign"": ""black_friday""}",tablet,https://www.pinterest.com/,2024-12-01
+PV_00000461,SESS_0000000687,,/products/PROD_00000717,,mobile,https://www.tiktok.com/,2021-04-22
+PV_00000462,SESS_0000000460,CUST_00000258,/,,desktop,https://www.tiktok.com/,2021-09-15
+PV_00000463,SESS_0000000515,CUST_00000113,/cart,,desktop,https://www.tiktok.com/,2023-04-09
+PV_00000464,SESS_0000000533,,/products/PROD_00000371,"{""source"": ""instagram"", ""medium"": ""cpc"", ""campaign"": ""loyalty_reward""}",mobile,,2023-07-05
+PV_00000465,SESS_0000000104,CUST_00000714,/products/PROD_00000981,"{""source"": ""google"", ""medium"": ""email"", ""campaign"": ""black_friday""}",mobile,https://www.facebook.com/,2025-02-09
+PV_00000466,SESS_0000000833,CUST_00000014,/checkout,"{""source"": ""email"", ""medium"": ""social"", ""campaign"": ""back_to_school""}",mobile,https://www.bing.com/,2024-07-13
+PV_00000467,SESS_0000000402,,/products/PROD_00000485,,desktop,https://www.instagram.com/,2021-11-24
+PV_00000468,SESS_0000000781,CUST_00000911,/categories/clothing,"{""source"": ""facebook"", ""medium"": ""email"", ""campaign"": ""back_to_school""}",mobile,https://www.tiktok.com/,2022-03-05
+PV_00000469,SESS_0000000967,CUST_00000597,/cart,,desktop,https://www.google.com/,2022-07-28
+PV_00000470,SESS_0000000333,CUST_00000140,/products/PROD_00000628,"{""source"": ""instagram"", ""medium"": ""email"", ""campaign"": ""summer_sale""}",mobile,https://www.instagram.com/,2021-10-29
+PV_00000471,SESS_0000000721,CUST_00000371,/products/PROD_00000661,,desktop,https://www.facebook.com/,2022-08-02
+PV_00000472,SESS_0000000877,CUST_00000427,/categories/beauty,,desktop,https://www.bing.com/,2024-11-03
+PV_00000473,SESS_0000000608,CUST_00000097,/products/PROD_00000192,"{""source"": ""google"", ""medium"": ""social"", ""campaign"": ""black_friday""}",mobile,https://www.youtube.com/,2022-04-12
+PV_00000474,SESS_0000000093,CUST_00000697,/products/PROD_00000745,,desktop,https://www.google.com/,2025-03-27
+PV_00000475,SESS_0000000557,CUST_00000488,/products/PROD_00000836,,mobile,https://www.pinterest.com/,2023-06-19
+PV_00000476,SESS_0000000574,CUST_00000342,/products/PROD_00000221,,desktop,,2022-10-27
+PV_00000477,SESS_0000000542,CUST_00000870,/products/PROD_00000047,,desktop,https://www.google.com/,2023-01-31
+PV_00000478,SESS_0000000971,CUST_00000492,/search?q=laptop,,mobile,https://www.reddit.com/,2024-09-24
+PV_00000479,SESS_0000000782,CUST_00000500,/categories/books,,desktop,https://www.bing.com/,2023-10-12
+PV_00000480,SESS_0000000437,CUST_00000432,/checkout,,desktop,https://www.facebook.com/,2021-01-18
+PV_00000481,SESS_0000000010,CUST_00000189,/products/PROD_00000007,,desktop,https://www.youtube.com/,2025-10-25
+PV_00000482,SESS_0000000456,CUST_00000082,/products/PROD_00000696,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""winter_promo""}",mobile,https://www.pinterest.com/,2021-06-10
+PV_00000483,SESS_0000000415,CUST_00000812,/checkout,,mobile,https://www.pinterest.com/,2025-11-12
+PV_00000484,SESS_0000000518,CUST_00000180,/cart,,tablet,https://www.pinterest.com/,2021-03-10
+PV_00000485,SESS_0000000979,,/products/PROD_00000366,,mobile,https://www.youtube.com/,2024-12-08
+PV_00000486,SESS_0000000375,CUST_00000898,/categories/books,"{""source"": ""facebook"", ""medium"": ""cpc"", ""campaign"": ""clearance""}",mobile,https://www.youtube.com/,2023-11-09
+PV_00000487,SESS_0000000531,CUST_00000861,/categories/electronics,,mobile,https://www.instagram.com/,2023-09-15
+PV_00000488,SESS_0000000524,,/checkout,,mobile,https://www.facebook.com/,2021-06-27
+PV_00000489,SESS_0000000373,CUST_00000415,/products/PROD_00000023,,desktop,https://www.reddit.com/,2022-04-05
+PV_00000490,SESS_0000000704,,/categories/books,,mobile,,2024-12-13
+PV_00000491,SESS_0000000615,CUST_00000381,/cart,,mobile,https://www.tiktok.com/,2025-08-11
+PV_00000492,SESS_0000000882,CUST_00000722,/search?q=shoes,,mobile,https://www.reddit.com/,2023-11-04
+PV_00000493,SESS_0000000762,,/checkout,,desktop,https://www.youtube.com/,2022-11-24
+PV_00000494,SESS_0000000756,,/products/PROD_00000309,,mobile,https://www.youtube.com/,2021-05-27
+PV_00000495,SESS_0000000850,CUST_00000072,/cart,,mobile,https://www.tiktok.com/,2024-07-19
+PV_00000496,SESS_0000000439,CUST_00000673,/checkout,"{""source"": ""google"", ""medium"": ""organic"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.tiktok.com/,2022-07-11
+PV_00000497,SESS_0000000195,CUST_00000133,/cart,"{""source"": ""tiktok"", ""medium"": ""referral"", ""campaign"": ""black_friday""}",tablet,https://www.pinterest.com/,2021-05-15
+PV_00000498,SESS_0000000265,CUST_00000240,/checkout,,mobile,https://www.reddit.com/,2024-06-10
+PV_00000499,SESS_0000000507,,/account,,desktop,https://www.reddit.com/,2023-07-29
+PV_00000500,SESS_0000000646,CUST_00000570,/products/PROD_00000891,,mobile,,2021-01-30
+PV_00000501,SESS_0000000897,CUST_00000461,/products/PROD_00000082,,mobile,https://www.tiktok.com/,2021-09-28
+PV_00000502,SESS_0000000426,CUST_00000125,/checkout,,mobile,https://www.bing.com/,2024-08-30
+PV_00000503,SESS_0000001000,CUST_00000011,/products/PROD_00000263,,mobile,https://www.reddit.com/,2021-06-05
+PV_00000504,SESS_0000000861,CUST_00000468,/products/PROD_00000867,,desktop,,2025-06-10
+PV_00000505,SESS_0000000951,CUST_00000407,/categories/electronics,,desktop,https://www.pinterest.com/,2022-09-29
+PV_00000506,SESS_0000000689,CUST_00000941,/checkout,,desktop,https://www.pinterest.com/,2021-08-04
+PV_00000507,SESS_0000000867,CUST_00000027,/products/PROD_00000568,"{""source"": ""facebook"", ""medium"": ""email"", ""campaign"": ""winter_promo""}",desktop,https://www.instagram.com/,2024-11-29
+PV_00000508,SESS_0000000099,,/cart,"{""source"": ""instagram"", ""medium"": ""email"", ""campaign"": ""black_friday""}",mobile,,2023-10-31
+PV_00000509,SESS_0000000030,CUST_00000222,/products/PROD_00000867,,desktop,https://www.pinterest.com/,2022-09-17
+PV_00000510,SESS_0000000291,CUST_00000312,/products/PROD_00000189,,desktop,https://www.instagram.com/,2023-01-16
+PV_00000511,SESS_0000000575,CUST_00000382,/products/PROD_00000988,"{""source"": ""direct"", ""medium"": ""social"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.google.com/,2021-02-22
+PV_00000512,SESS_0000000487,CUST_00000762,/products/PROD_00000005,,desktop,https://www.reddit.com/,2024-06-02
+PV_00000513,SESS_0000000406,CUST_00000315,/checkout,,desktop,https://www.tiktok.com/,2022-12-04
+PV_00000514,SESS_0000000939,CUST_00000208,/,,mobile,https://www.pinterest.com/,2024-10-05
+PV_00000515,SESS_0000000028,CUST_00000621,/checkout,"{""source"": ""email"", ""medium"": ""social"", ""campaign"": ""loyalty_reward""}",desktop,https://www.youtube.com/,2024-03-10
+PV_00000516,SESS_0000000146,CUST_00000296,/products/PROD_00000394,,mobile,https://www.reddit.com/,2024-05-05
+PV_00000517,SESS_0000000288,CUST_00000402,/categories/home-garden,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""summer_sale""}",mobile,,2024-12-26
+PV_00000518,SESS_0000000581,CUST_00000435,/products/PROD_00000708,"{""source"": ""direct"", ""medium"": ""organic"", ""campaign"": ""holiday_gift_guide""}",tablet,https://www.youtube.com/,2024-03-17
+PV_00000519,SESS_0000000950,CUST_00000573,/products/PROD_00000426,"{""source"": ""google"", ""medium"": ""referral"", ""campaign"": ""clearance""}",desktop,https://www.instagram.com/,2023-02-16
+PV_00000520,SESS_0000000252,CUST_00000122,/categories/sports,,desktop,https://www.youtube.com/,2022-12-23
+PV_00000521,SESS_0000000162,CUST_00000751,/cart,"{""source"": ""instagram"", ""medium"": ""cpc"", ""campaign"": ""loyalty_reward""}",mobile,https://www.tiktok.com/,2021-10-19
+PV_00000522,SESS_0000000927,CUST_00000106,/products/PROD_00000135,"{""source"": ""google"", ""medium"": ""social"", ""campaign"": ""winter_promo""}",desktop,https://www.reddit.com/,2024-12-15
+PV_00000523,SESS_0000000110,CUST_00000791,/products/PROD_00000535,"{""source"": ""direct"", ""medium"": ""social"", ""campaign"": ""back_to_school""}",mobile,https://www.youtube.com/,2024-11-30
+PV_00000524,SESS_0000000865,CUST_00000036,/account,,desktop,,2022-04-23
+PV_00000525,SESS_0000000644,,/categories/food-gourmet,,mobile,https://www.instagram.com/,2025-06-02
+PV_00000526,SESS_0000000398,,/account,"{""source"": ""instagram"", ""medium"": ""email"", ""campaign"": ""clearance""}",mobile,https://www.google.com/,2023-12-23
+PV_00000527,SESS_0000000271,CUST_00000568,/search?q=laptop,,tablet,https://www.facebook.com/,2023-07-12
+PV_00000528,SESS_0000000188,CUST_00000167,/categories/home-garden,,mobile,https://www.pinterest.com/,2021-02-12
+PV_00000529,SESS_0000000532,CUST_00000221,/products/PROD_00000261,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""clearance""}",desktop,https://www.tiktok.com/,2022-12-18
+PV_00000530,SESS_0000000276,CUST_00000076,/checkout,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""clearance""}",mobile,https://www.bing.com/,2024-04-09
+PV_00000531,SESS_0000000689,CUST_00000722,/products/PROD_00000598,"{""source"": ""instagram"", ""medium"": ""referral"", ""campaign"": ""black_friday""}",mobile,https://www.facebook.com/,2021-08-07
+PV_00000532,SESS_0000000611,CUST_00000211,/products/PROD_00000740,,tablet,https://www.pinterest.com/,2023-05-26
+PV_00000533,SESS_0000000247,CUST_00000228,/checkout,,tablet,,2025-12-26
+PV_00000534,SESS_0000000324,CUST_00000737,/categories/toys,"{""source"": ""tiktok"", ""medium"": ""organic"", ""campaign"": ""clearance""}",tablet,https://www.bing.com/,2024-10-11
+PV_00000535,SESS_0000000018,CUST_00000453,/products/PROD_00000179,"{""source"": ""google"", ""medium"": ""cpc"", ""campaign"": ""winter_promo""}",mobile,https://www.google.com/,2023-11-19
+PV_00000536,SESS_0000000408,CUST_00000766,/cart,,mobile,https://www.facebook.com/,2023-11-07
+PV_00000537,SESS_0000000411,CUST_00000487,/cart,,mobile,,2021-04-17
+PV_00000538,SESS_0000000801,CUST_00000668,/products/PROD_00000524,,tablet,https://www.bing.com/,2025-11-27
+PV_00000539,SESS_0000000125,CUST_00000474,/products/PROD_00000815,"{""source"": ""instagram"", ""medium"": ""email"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.instagram.com/,2025-11-03
+PV_00000540,SESS_0000000320,CUST_00000875,/products/PROD_00000746,,mobile,https://www.reddit.com/,2024-07-20
+PV_00000541,SESS_0000000153,CUST_00000661,/products/PROD_00000183,"{""source"": ""facebook"", ""medium"": ""referral"", ""campaign"": ""holiday_gift_guide""}",tablet,https://www.google.com/,2021-08-30
+PV_00000542,SESS_0000000581,CUST_00000830,/checkout,,mobile,https://www.instagram.com/,2022-01-20
+PV_00000543,SESS_0000000658,CUST_00000791,/cart,"{""source"": ""instagram"", ""medium"": ""cpc"", ""campaign"": ""clearance""}",desktop,https://www.tiktok.com/,2021-12-19
+PV_00000544,SESS_0000000557,CUST_00000917,/cart,"{""source"": ""instagram"", ""medium"": ""referral"", ""campaign"": ""back_to_school""}",desktop,https://www.tiktok.com/,2023-10-19
+PV_00000545,SESS_0000000878,CUST_00000971,/products/PROD_00000941,,desktop,https://www.bing.com/,2022-01-20
+PV_00000546,SESS_0000000020,CUST_00000490,/products/PROD_00000702,,mobile,https://www.reddit.com/,2024-08-21
+PV_00000547,SESS_0000000803,CUST_00000376,/products/PROD_00000838,,mobile,,2023-11-17
+PV_00000548,SESS_0000000247,CUST_00000231,/products/PROD_00000727,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""black_friday""}",mobile,https://www.bing.com/,2021-02-13
+PV_00000549,SESS_0000000390,CUST_00000912,/products/PROD_00000770,,mobile,https://www.facebook.com/,2024-11-16
+PV_00000550,SESS_0000000347,CUST_00000702,/categories/beauty,,tablet,https://www.pinterest.com/,2021-12-22
+PV_00000551,SESS_0000000476,,/products/PROD_00000782,,desktop,https://www.facebook.com/,2025-03-02
+PV_00000552,SESS_0000000203,CUST_00000475,/checkout,,mobile,https://www.bing.com/,2022-11-25
+PV_00000553,SESS_0000000009,,/checkout,"{""source"": ""direct"", ""medium"": ""cpc"", ""campaign"": ""back_to_school""}",desktop,https://www.reddit.com/,2022-11-12
+PV_00000554,SESS_0000000692,CUST_00000620,/categories/sports,,mobile,https://www.youtube.com/,2021-01-29
+PV_00000555,SESS_0000000668,,/products/PROD_00000288,,mobile,https://www.tiktok.com/,2025-12-22
+PV_00000556,SESS_0000000531,CUST_00000645,/,,mobile,https://www.reddit.com/,2024-01-30
+PV_00000557,SESS_0000000103,CUST_00000686,/search?q=camera,,mobile,https://www.reddit.com/,2023-02-25
+PV_00000558,SESS_0000000246,CUST_00000576,/products/PROD_00000507,,desktop,https://www.bing.com/,2021-08-24
+PV_00000559,SESS_0000000597,CUST_00000210,/cart,,desktop,https://www.tiktok.com/,2024-08-30
+PV_00000560,SESS_0000000319,CUST_00000297,/checkout,,desktop,https://www.reddit.com/,2022-07-21
+PV_00000561,SESS_0000000351,CUST_00000610,/categories/electronics,,desktop,https://www.tiktok.com/,2025-12-22
+PV_00000562,SESS_0000000234,CUST_00000172,/products/PROD_00000936,,mobile,https://www.tiktok.com/,2025-11-21
+PV_00000563,SESS_0000000647,CUST_00000089,/categories/home-garden,,mobile,https://www.pinterest.com/,2024-11-09
+PV_00000564,SESS_0000000037,CUST_00000874,/categories/home-garden,,mobile,https://www.reddit.com/,2025-12-08
+PV_00000565,SESS_0000000345,CUST_00000226,/categories/food-gourmet,"{""source"": ""google"", ""medium"": ""organic"", ""campaign"": ""loyalty_reward""}",tablet,,2021-09-15
+PV_00000566,SESS_0000000604,CUST_00000143,/account,"{""source"": ""facebook"", ""medium"": ""organic"", ""campaign"": ""new_arrivals""}",mobile,https://www.reddit.com/,2022-07-14
+PV_00000567,SESS_0000000292,,/cart,,desktop,https://www.pinterest.com/,2022-05-10
+PV_00000568,SESS_0000000017,CUST_00000691,/products/PROD_00000086,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""winter_promo""}",mobile,https://www.instagram.com/,2021-06-25
+PV_00000569,SESS_0000000090,CUST_00000054,/categories/food-gourmet,,mobile,https://www.bing.com/,2025-12-09
+PV_00000570,SESS_0000000348,CUST_00000196,/cart,,mobile,https://www.google.com/,2021-05-27
+PV_00000571,SESS_0000000677,CUST_00000729,/products/PROD_00000122,,mobile,https://www.reddit.com/,2025-05-18
+PV_00000572,SESS_0000000977,CUST_00000489,/products/PROD_00000251,,mobile,https://www.facebook.com/,2024-12-06
+PV_00000573,SESS_0000000444,,/account,,mobile,https://www.pinterest.com/,2022-12-12
+PV_00000574,SESS_0000000253,,/categories/books,,tablet,https://www.youtube.com/,2021-02-15
+PV_00000575,SESS_0000000817,CUST_00000430,/products/PROD_00000683,,tablet,https://www.reddit.com/,2021-01-15
+PV_00000576,SESS_0000000593,CUST_00000537,/products/PROD_00000443,,mobile,https://www.instagram.com/,2022-01-10
+PV_00000577,SESS_0000000993,,/categories/electronics,"{""source"": ""direct"", ""medium"": ""referral"", ""campaign"": ""loyalty_reward""}",mobile,https://www.google.com/,2023-08-18
+PV_00000578,SESS_0000000184,CUST_00000675,/categories/toys,,desktop,https://www.pinterest.com/,2023-05-22
+PV_00000579,SESS_0000000290,CUST_00000500,/products/PROD_00000812,"{""source"": ""facebook"", ""medium"": ""referral"", ""campaign"": ""summer_sale""}",mobile,https://www.reddit.com/,2023-12-20
+PV_00000580,SESS_0000000761,CUST_00000624,/cart,,desktop,,2024-12-09
+PV_00000581,SESS_0000000215,CUST_00000841,/products/PROD_00000706,,mobile,https://www.bing.com/,2022-12-13
+PV_00000582,SESS_0000000158,CUST_00000206,/products/PROD_00000394,,desktop,https://www.google.com/,2021-11-29
+PV_00000583,SESS_0000000923,CUST_00000918,/categories/food-gourmet,"{""source"": ""tiktok"", ""medium"": ""referral"", ""campaign"": ""clearance""}",desktop,https://www.google.com/,2024-12-31
+PV_00000584,SESS_0000000691,CUST_00000880,/products/PROD_00000019,,desktop,https://www.bing.com/,2022-11-07
+PV_00000585,SESS_0000000393,CUST_00000137,/,,desktop,https://www.bing.com/,2022-07-31
+PV_00000586,SESS_0000000020,CUST_00000408,/products/PROD_00000605,,desktop,,2024-12-02
+PV_00000587,SESS_0000000471,CUST_00000279,/cart,,desktop,https://www.facebook.com/,2025-11-08
+PV_00000588,SESS_0000000431,CUST_00000445,/products/PROD_00000465,,mobile,https://www.bing.com/,2025-10-07
+PV_00000589,SESS_0000000659,CUST_00000677,/products/PROD_00000691,"{""source"": ""tiktok"", ""medium"": ""organic"", ""campaign"": ""back_to_school""}",mobile,https://www.facebook.com/,2021-11-11
+PV_00000590,SESS_0000000997,CUST_00000941,/checkout,,mobile,https://www.facebook.com/,2023-09-09
+PV_00000591,SESS_0000000068,CUST_00000271,/categories/beauty,,mobile,https://www.reddit.com/,2021-08-15
+PV_00000592,SESS_0000000077,CUST_00000441,/cart,,mobile,,2025-11-30
+PV_00000593,SESS_0000000102,CUST_00000228,/categories/toys,,tablet,,2022-02-07
+PV_00000594,SESS_0000000652,CUST_00000127,/categories/books,"{""source"": ""tiktok"", ""medium"": ""cpc"", ""campaign"": ""back_to_school""}",mobile,https://www.google.com/,2021-12-29
+PV_00000595,SESS_0000000893,CUST_00000270,/checkout,,mobile,https://www.bing.com/,2025-08-05
+PV_00000596,SESS_0000000585,,/cart,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.instagram.com/,2025-12-05
+PV_00000597,SESS_0000000207,CUST_00000760,/cart,,desktop,https://www.google.com/,2024-08-26
+PV_00000598,SESS_0000000213,CUST_00000852,/checkout,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""black_friday""}",desktop,https://www.facebook.com/,2021-10-22
+PV_00000599,SESS_0000000079,CUST_00000487,/account,"{""source"": ""google"", ""medium"": ""email"", ""campaign"": ""winter_promo""}",mobile,https://www.youtube.com/,2023-07-29
+PV_00000600,SESS_0000000113,CUST_00000548,/products/PROD_00000073,,desktop,https://www.facebook.com/,2025-02-10
+PV_00000601,SESS_0000000765,,/categories/beauty,,mobile,https://www.facebook.com/,2023-12-09
+PV_00000602,SESS_0000000133,CUST_00000657,/products/PROD_00000701,,desktop,https://www.tiktok.com/,2021-11-07
+PV_00000603,SESS_0000000197,CUST_00000986,/products/PROD_00000562,"{""source"": ""direct"", ""medium"": ""cpc"", ""campaign"": ""loyalty_reward""}",mobile,https://www.instagram.com/,2021-12-09
+PV_00000604,SESS_0000000025,,/categories/toys,,tablet,https://www.pinterest.com/,2025-06-06
+PV_00000605,SESS_0000000472,,/checkout,,desktop,https://www.pinterest.com/,2023-11-02
+PV_00000606,SESS_0000000613,CUST_00000899,/categories/sports,"{""source"": ""facebook"", ""medium"": ""email"", ""campaign"": ""clearance""}",desktop,https://www.youtube.com/,2024-09-15
+PV_00000607,SESS_0000000757,CUST_00000019,/cart,"{""source"": ""direct"", ""medium"": ""cpc"", ""campaign"": ""summer_sale""}",desktop,https://www.tiktok.com/,2022-12-10
+PV_00000608,SESS_0000000543,CUST_00000425,/products/PROD_00000669,"{""source"": ""google"", ""medium"": ""social"", ""campaign"": ""clearance""}",mobile,https://www.bing.com/,2023-11-07
+PV_00000609,SESS_0000000942,CUST_00000936,/categories/toys,,desktop,,2025-12-13
+PV_00000610,SESS_0000000290,CUST_00000058,/account,,mobile,https://www.facebook.com/,2022-11-05
+PV_00000611,SESS_0000000256,CUST_00000423,/products/PROD_00000842,,desktop,https://www.youtube.com/,2024-07-01
+PV_00000612,SESS_0000000937,CUST_00000775,/products/PROD_00000351,"{""source"": ""direct"", ""medium"": ""organic"", ""campaign"": ""back_to_school""}",desktop,https://www.bing.com/,2021-12-09
+PV_00000613,SESS_0000000206,CUST_00000548,/categories/food-gourmet,"{""source"": ""google"", ""medium"": ""referral"", ""campaign"": ""black_friday""}",desktop,https://www.google.com/,2021-10-24
+PV_00000614,SESS_0000000475,CUST_00000723,/cart,,mobile,https://www.youtube.com/,2024-12-18
+PV_00000615,SESS_0000000068,CUST_00000844,/categories/books,,desktop,https://www.pinterest.com/,2025-04-18
+PV_00000616,SESS_0000000215,CUST_00000660,/categories/clothing,,mobile,https://www.bing.com/,2024-06-16
+PV_00000617,SESS_0000000634,CUST_00000102,/cart,,desktop,https://www.facebook.com/,2021-11-28
+PV_00000618,SESS_0000000422,CUST_00000076,/products/PROD_00000200,,desktop,https://www.facebook.com/,2022-04-10
+PV_00000619,SESS_0000000558,CUST_00000925,/checkout,,desktop,https://www.tiktok.com/,2025-09-28
+PV_00000620,SESS_0000000581,,/products/PROD_00000508,,mobile,https://www.reddit.com/,2022-08-05
+PV_00000621,SESS_0000000539,CUST_00000980,/products/PROD_00000898,,mobile,https://www.reddit.com/,2025-02-15
+PV_00000622,SESS_0000000683,CUST_00000580,/cart,"{""source"": ""direct"", ""medium"": ""referral"", ""campaign"": ""winter_promo""}",mobile,https://www.facebook.com/,2022-07-29
+PV_00000623,SESS_0000000757,CUST_00000066,/checkout,,desktop,https://www.bing.com/,2025-11-12
+PV_00000624,SESS_0000000462,CUST_00000815,/checkout,,desktop,https://www.pinterest.com/,2025-10-06
+PV_00000625,SESS_0000000455,,/cart,,desktop,https://www.facebook.com/,2021-04-16
+PV_00000626,SESS_0000000301,CUST_00000151,/products/PROD_00000698,,desktop,https://www.tiktok.com/,2024-12-07
+PV_00000627,SESS_0000000786,,/products/PROD_00000617,"{""source"": ""tiktok"", ""medium"": ""referral"", ""campaign"": ""winter_promo""}",desktop,https://www.instagram.com/,2021-12-07
+PV_00000628,SESS_0000000288,CUST_00000786,/products/PROD_00000469,"{""source"": ""google"", ""medium"": ""referral"", ""campaign"": ""clearance""}",desktop,https://www.tiktok.com/,2022-02-07
+PV_00000629,SESS_0000000761,,/,,desktop,https://www.reddit.com/,2023-05-27
+PV_00000630,SESS_0000000002,CUST_00000790,/,"{""source"": ""google"", ""medium"": ""cpc"", ""campaign"": ""loyalty_reward""}",mobile,https://www.youtube.com/,2023-12-12
+PV_00000631,SESS_0000000937,CUST_00000997,/search?q=gift,,mobile,https://www.facebook.com/,2022-11-01
+PV_00000632,SESS_0000000020,CUST_00000068,/products/PROD_00000654,,desktop,https://www.youtube.com/,2023-12-12
+PV_00000633,SESS_0000000477,CUST_00000235,/categories/clothing,,mobile,,2021-12-08
+PV_00000634,SESS_0000000954,CUST_00000715,/cart,,mobile,https://www.pinterest.com/,2021-02-24
+PV_00000635,SESS_0000000491,CUST_00000745,/cart,,desktop,https://www.google.com/,2023-12-08
+PV_00000636,SESS_0000000986,CUST_00000675,/cart,,mobile,,2023-10-14
+PV_00000637,SESS_0000000806,CUST_00000971,/checkout,"{""source"": ""direct"", ""medium"": ""social"", ""campaign"": ""black_friday""}",tablet,https://www.facebook.com/,2024-08-06
+PV_00000638,SESS_0000000257,CUST_00000098,/products/PROD_00000223,,mobile,https://www.google.com/,2024-05-01
+PV_00000639,SESS_0000000453,,/products/PROD_00000490,,mobile,https://www.youtube.com/,2025-08-26
+PV_00000640,SESS_0000000438,,/products/PROD_00000686,,mobile,https://www.google.com/,2023-05-26
+PV_00000641,SESS_0000000761,CUST_00000504,/products/PROD_00000703,,mobile,https://www.youtube.com/,2021-01-21
+PV_00000642,SESS_0000000398,,/products/PROD_00000652,"{""source"": ""tiktok"", ""medium"": ""referral"", ""campaign"": ""holiday_gift_guide""}",desktop,https://www.facebook.com/,2024-03-16
+PV_00000643,SESS_0000000153,CUST_00000490,/products/PROD_00000297,,mobile,https://www.bing.com/,2024-07-02
+PV_00000644,SESS_0000000649,CUST_00000992,/products/PROD_00000119,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""loyalty_reward""}",desktop,https://www.bing.com/,2023-10-24
+PV_00000645,SESS_0000000222,CUST_00000427,/cart,"{""source"": ""tiktok"", ""medium"": ""cpc"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.tiktok.com/,2024-08-06
+PV_00000646,SESS_0000000723,CUST_00000227,/,"{""source"": ""facebook"", ""medium"": ""referral"", ""campaign"": ""holiday_gift_guide""}",desktop,https://www.facebook.com/,2022-10-29
+PV_00000647,SESS_0000000701,CUST_00000753,/checkout,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""new_arrivals""}",desktop,https://www.bing.com/,2021-11-20
+PV_00000648,SESS_0000000436,CUST_00000587,/products/PROD_00000631,,mobile,https://www.google.com/,2024-06-06
+PV_00000649,SESS_0000000744,,/products/PROD_00000973,"{""source"": ""facebook"", ""medium"": ""organic"", ""campaign"": ""back_to_school""}",mobile,https://www.facebook.com/,2022-04-21
+PV_00000650,SESS_0000000136,CUST_00000563,/products/PROD_00000881,"{""source"": ""direct"", ""medium"": ""referral"", ""campaign"": ""back_to_school""}",desktop,https://www.facebook.com/,2023-05-18
+PV_00000651,SESS_0000000528,CUST_00000228,/search?q=gift,"{""source"": ""facebook"", ""medium"": ""email"", ""campaign"": ""back_to_school""}",mobile,https://www.google.com/,2023-08-12
+PV_00000652,SESS_0000000626,CUST_00000706,/categories/beauty,,desktop,,2023-07-08
+PV_00000653,SESS_0000000776,CUST_00000792,/products/PROD_00000631,,mobile,https://www.youtube.com/,2023-12-30
+PV_00000654,SESS_0000000279,CUST_00000238,/checkout,,desktop,https://www.instagram.com/,2021-03-13
+PV_00000655,SESS_0000000585,CUST_00000381,/products/PROD_00000649,,desktop,https://www.youtube.com/,2025-12-23
+PV_00000656,SESS_0000000736,,/,,desktop,https://www.bing.com/,2024-10-10
+PV_00000657,SESS_0000000485,CUST_00000924,/products/PROD_00000255,,desktop,https://www.instagram.com/,2023-03-04
+PV_00000658,SESS_0000000546,CUST_00000387,/products/PROD_00000264,,mobile,https://www.tiktok.com/,2021-12-25
+PV_00000659,SESS_0000000245,CUST_00000669,/categories/clothing,"{""source"": ""google"", ""medium"": ""cpc"", ""campaign"": ""clearance""}",desktop,https://www.google.com/,2021-07-15
+PV_00000660,SESS_0000000750,CUST_00000254,/,,mobile,https://www.youtube.com/,2024-06-25
+PV_00000661,SESS_0000000018,CUST_00000308,/,,desktop,https://www.youtube.com/,2022-10-13
+PV_00000662,SESS_0000000877,CUST_00000822,/categories/toys,,desktop,,2022-03-14
+PV_00000663,SESS_0000000556,CUST_00000314,/products/PROD_00000035,,mobile,https://www.facebook.com/,2022-12-15
+PV_00000664,SESS_0000000143,CUST_00000301,/categories/beauty,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""new_arrivals""}",desktop,https://www.reddit.com/,2023-12-26
+PV_00000665,SESS_0000000501,CUST_00000118,/search?q=laptop,,desktop,https://www.reddit.com/,2024-06-24
+PV_00000666,SESS_0000000527,CUST_00000845,/cart,,desktop,https://www.bing.com/,2024-04-20
+PV_00000667,SESS_0000000093,CUST_00000050,/checkout,"{""source"": ""direct"", ""medium"": ""social"", ""campaign"": ""clearance""}",desktop,https://www.reddit.com/,2025-06-03
+PV_00000668,SESS_0000000383,CUST_00000790,/categories/beauty,"{""source"": ""google"", ""medium"": ""social"", ""campaign"": ""clearance""}",mobile,https://www.tiktok.com/,2022-02-15
+PV_00000669,SESS_0000000889,CUST_00000564,/categories/sports,,mobile,https://www.facebook.com/,2024-03-31
+PV_00000670,SESS_0000000279,CUST_00000181,/categories/sports,"{""source"": ""google"", ""medium"": ""referral"", ""campaign"": ""back_to_school""}",desktop,https://www.pinterest.com/,2021-09-04
+PV_00000671,SESS_0000000727,CUST_00000543,/cart,"{""source"": ""instagram"", ""medium"": ""social"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.reddit.com/,2023-11-19
+PV_00000672,SESS_0000000449,,/,"{""source"": ""facebook"", ""medium"": ""social"", ""campaign"": ""winter_promo""}",tablet,https://www.tiktok.com/,2023-12-19
+PV_00000673,SESS_0000000761,CUST_00000503,/categories/toys,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""summer_sale""}",mobile,,2022-02-09
+PV_00000674,SESS_0000000982,CUST_00000496,/categories/home-garden,"{""source"": ""instagram"", ""medium"": ""email"", ""campaign"": ""clearance""}",desktop,https://www.facebook.com/,2022-12-25
+PV_00000675,SESS_0000000583,CUST_00000944,/products/PROD_00000288,,desktop,https://www.instagram.com/,2025-03-08
+PV_00000676,SESS_0000000621,CUST_00000246,/products/PROD_00000687,"{""source"": ""facebook"", ""medium"": ""email"", ""campaign"": ""clearance""}",mobile,https://www.pinterest.com/,2021-11-20
+PV_00000677,SESS_0000000288,CUST_00000602,/account,,desktop,https://www.tiktok.com/,2023-03-26
+PV_00000678,SESS_0000000476,CUST_00000543,/products/PROD_00000666,"{""source"": ""facebook"", ""medium"": ""cpc"", ""campaign"": ""clearance""}",desktop,,2025-11-07
+PV_00000679,SESS_0000000882,,/checkout,,desktop,,2023-09-12
+PV_00000680,SESS_0000000672,CUST_00000230,/cart,,desktop,,2024-11-01
+PV_00000681,SESS_0000000801,,/checkout,,mobile,https://www.google.com/,2025-03-07
+PV_00000682,SESS_0000000171,,/account,,mobile,https://www.youtube.com/,2022-01-10
+PV_00000683,SESS_0000000525,CUST_00000609,/cart,,desktop,https://www.youtube.com/,2022-02-14
+PV_00000684,SESS_0000000372,CUST_00000579,/,,mobile,https://www.pinterest.com/,2024-11-28
+PV_00000685,SESS_0000000732,CUST_00000704,/products/PROD_00000823,,mobile,https://www.bing.com/,2024-11-24
+PV_00000686,SESS_0000000393,CUST_00000211,/cart,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""summer_sale""}",mobile,https://www.bing.com/,2021-05-27
+PV_00000687,SESS_0000000958,CUST_00000649,/checkout,,tablet,https://www.facebook.com/,2022-10-26
+PV_00000688,SESS_0000000185,CUST_00000430,/products/PROD_00000019,,tablet,https://www.tiktok.com/,2022-12-30
+PV_00000689,SESS_0000000510,CUST_00000339,/cart,,mobile,https://www.google.com/,2025-03-12
+PV_00000690,SESS_0000000432,,/checkout,,mobile,https://www.bing.com/,2023-02-23
+PV_00000691,SESS_0000000939,CUST_00000056,/checkout,,desktop,https://www.tiktok.com/,2025-11-01
+PV_00000692,SESS_0000000835,,/products/PROD_00000745,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""winter_promo""}",mobile,,2025-12-29
+PV_00000693,SESS_0000000209,CUST_00000762,/cart,,mobile,https://www.youtube.com/,2024-12-16
+PV_00000694,SESS_0000000994,CUST_00000282,/products/PROD_00000622,,mobile,https://www.youtube.com/,2024-06-11
+PV_00000695,SESS_0000000800,CUST_00000572,/cart,,desktop,,2022-12-25
+PV_00000696,SESS_0000000329,CUST_00000128,/categories/sports,,desktop,https://www.pinterest.com/,2021-06-13
+PV_00000697,SESS_0000000361,,/categories/toys,,desktop,https://www.youtube.com/,2023-12-10
+PV_00000698,SESS_0000000444,CUST_00000726,/categories/toys,"{""source"": ""email"", ""medium"": ""social"", ""campaign"": ""new_arrivals""}",mobile,https://www.youtube.com/,2022-12-01
+PV_00000699,SESS_0000000897,CUST_00000639,/products/PROD_00000675,,tablet,https://www.youtube.com/,2022-11-22
+PV_00000700,SESS_0000000441,CUST_00000508,/products/PROD_00000344,,desktop,https://www.tiktok.com/,2024-08-02
+PV_00000701,SESS_0000000369,CUST_00000584,/products/PROD_00000308,,tablet,https://www.reddit.com/,2023-06-05
+PV_00000702,SESS_0000000106,CUST_00000216,/cart,,desktop,https://www.instagram.com/,2024-11-23
+PV_00000703,SESS_0000000724,CUST_00000090,/checkout,,tablet,,2022-12-30
+PV_00000704,SESS_0000000325,CUST_00000944,/products/PROD_00000568,,mobile,https://www.facebook.com/,2021-11-22
+PV_00000705,SESS_0000000232,,/products/PROD_00000099,,desktop,https://www.bing.com/,2023-05-30
+PV_00000706,SESS_0000000725,CUST_00000233,/categories/home-garden,,desktop,https://www.google.com/,2025-11-22
+PV_00000707,SESS_0000000837,CUST_00000745,/cart,"{""source"": ""tiktok"", ""medium"": ""email"", ""campaign"": ""black_friday""}",desktop,https://www.bing.com/,2025-01-04
+PV_00000708,SESS_0000000708,CUST_00000575,/products/PROD_00000620,,tablet,https://www.facebook.com/,2022-01-15
+PV_00000709,SESS_0000000249,CUST_00000888,/products/PROD_00000565,,desktop,https://www.reddit.com/,2022-12-25
+PV_00000710,SESS_0000000317,CUST_00000247,/products/PROD_00000006,,mobile,https://www.google.com/,2025-11-03
+PV_00000711,SESS_0000000264,CUST_00000442,/products/PROD_00000231,"{""source"": ""direct"", ""medium"": ""social"", ""campaign"": ""holiday_gift_guide""}",desktop,https://www.reddit.com/,2021-10-29
+PV_00000712,SESS_0000000729,CUST_00000899,/products/PROD_00000994,,tablet,https://www.tiktok.com/,2022-05-12
+PV_00000713,SESS_0000000503,,/products/PROD_00000082,,desktop,https://www.google.com/,2022-06-01
+PV_00000714,SESS_0000000263,CUST_00000948,/cart,,desktop,https://www.google.com/,2023-12-08
+PV_00000715,SESS_0000000933,CUST_00000882,/cart,,desktop,https://www.bing.com/,2023-01-27
+PV_00000716,SESS_0000000682,CUST_00000958,/products/PROD_00000335,,mobile,https://www.instagram.com/,2021-07-14
+PV_00000717,SESS_0000000416,CUST_00000002,/cart,,desktop,,2024-03-12
+PV_00000718,SESS_0000000913,CUST_00000161,/categories/sports,,mobile,,2021-08-30
+PV_00000719,SESS_0000000668,CUST_00000140,/account,,desktop,,2024-01-17
+PV_00000720,SESS_0000000070,CUST_00000304,/products/PROD_00000753,"{""source"": ""instagram"", ""medium"": ""social"", ""campaign"": ""clearance""}",mobile,https://www.google.com/,2023-09-19
+PV_00000721,SESS_0000000234,CUST_00000460,/cart,,mobile,https://www.tiktok.com/,2023-08-17
+PV_00000722,SESS_0000000432,CUST_00000821,/cart,,desktop,https://www.google.com/,2021-06-14
+PV_00000723,SESS_0000000054,CUST_00000714,/products/PROD_00000799,,desktop,https://www.google.com/,2024-04-06
+PV_00000724,SESS_0000000170,CUST_00000125,/account,,mobile,,2023-03-18
+PV_00000725,SESS_0000000036,,/categories/books,"{""source"": ""google"", ""medium"": ""referral"", ""campaign"": ""new_arrivals""}",desktop,https://www.reddit.com/,2023-01-28
+PV_00000726,SESS_0000000834,CUST_00000885,/cart,"{""source"": ""facebook"", ""medium"": ""email"", ""campaign"": ""winter_promo""}",desktop,https://www.google.com/,2023-12-29
+PV_00000727,SESS_0000000927,,/products/PROD_00000826,,mobile,https://www.instagram.com/,2024-01-16
+PV_00000728,SESS_0000000961,CUST_00000594,/products/PROD_00000791,,desktop,https://www.bing.com/,2021-02-06
+PV_00000729,SESS_0000000259,CUST_00000954,/categories/beauty,"{""source"": ""instagram"", ""medium"": ""cpc"", ""campaign"": ""clearance""}",mobile,https://www.facebook.com/,2021-11-01
+PV_00000730,SESS_0000000251,CUST_00000324,/products/PROD_00000553,,desktop,https://www.tiktok.com/,2022-03-31
+PV_00000731,SESS_0000000013,,/categories/books,,desktop,https://www.facebook.com/,2024-07-09
+PV_00000732,SESS_0000000671,CUST_00000407,/products/PROD_00000783,,mobile,,2023-12-13
+PV_00000733,SESS_0000000541,CUST_00000469,/cart,,desktop,,2024-11-27
+PV_00000734,SESS_0000000057,,/categories/electronics,,desktop,https://www.bing.com/,2024-11-13
+PV_00000735,SESS_0000000161,CUST_00000862,/products/PROD_00000723,"{""source"": ""direct"", ""medium"": ""cpc"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.bing.com/,2025-05-10
+PV_00000736,SESS_0000000437,CUST_00000240,/cart,,desktop,https://www.facebook.com/,2022-12-13
+PV_00000737,SESS_0000000778,CUST_00000213,/categories/home-garden,,mobile,https://www.pinterest.com/,2022-11-17
+PV_00000738,SESS_0000000230,CUST_00000983,/products/PROD_00000587,,tablet,https://www.google.com/,2025-03-17
+PV_00000739,SESS_0000000831,CUST_00000149,/products/PROD_00000478,"{""source"": ""direct"", ""medium"": ""email"", ""campaign"": ""loyalty_reward""}",mobile,https://www.pinterest.com/,2022-04-02
+PV_00000740,SESS_0000000841,,/products/PROD_00000498,,desktop,https://www.reddit.com/,2023-05-30
+PV_00000741,SESS_0000000193,,/products/PROD_00000907,,mobile,https://www.tiktok.com/,2021-12-27
+PV_00000742,SESS_0000000620,,/account,,desktop,https://www.facebook.com/,2025-10-05
+PV_00000743,SESS_0000000357,CUST_00000505,/categories/sports,"{""source"": ""facebook"", ""medium"": ""organic"", ""campaign"": ""holiday_gift_guide""}",desktop,https://www.instagram.com/,2023-01-20
+PV_00000744,SESS_0000000352,CUST_00000696,/products/PROD_00000449,,mobile,https://www.facebook.com/,2022-01-31
+PV_00000745,SESS_0000000865,CUST_00000525,/products/PROD_00000588,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""summer_sale""}",desktop,https://www.tiktok.com/,2024-08-12
+PV_00000746,SESS_0000000258,CUST_00000380,/products/PROD_00000260,,desktop,https://www.instagram.com/,2022-04-19
+PV_00000747,SESS_0000000622,CUST_00000744,/categories/beauty,,desktop,https://www.reddit.com/,2025-11-16
+PV_00000748,SESS_0000000642,CUST_00000662,/products/PROD_00000200,,tablet,https://www.bing.com/,2022-12-05
+PV_00000749,SESS_0000000635,CUST_00000775,/categories/sports,,desktop,,2024-06-07
+PV_00000750,SESS_0000000965,CUST_00000024,/products/PROD_00000939,,desktop,https://www.reddit.com/,2022-11-17
+PV_00000751,SESS_0000000970,CUST_00000701,/checkout,,mobile,https://www.pinterest.com/,2025-01-18
+PV_00000752,SESS_0000000628,CUST_00000133,/products/PROD_00000936,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""loyalty_reward""}",mobile,https://www.facebook.com/,2025-08-24
+PV_00000753,SESS_0000000742,CUST_00000050,/categories/electronics,"{""source"": ""facebook"", ""medium"": ""referral"", ""campaign"": ""back_to_school""}",desktop,https://www.youtube.com/,2024-12-22
+PV_00000754,SESS_0000000293,,/cart,,tablet,https://www.pinterest.com/,2025-04-28
+PV_00000755,SESS_0000000386,,/categories/food-gourmet,,desktop,,2021-09-06
+PV_00000756,SESS_0000000745,CUST_00000026,/checkout,"{""source"": ""email"", ""medium"": ""cpc"", ""campaign"": ""clearance""}",desktop,https://www.tiktok.com/,2025-10-30
+PV_00000757,SESS_0000000829,CUST_00000650,/cart,,desktop,https://www.tiktok.com/,2024-02-29
+PV_00000758,SESS_0000000234,CUST_00000011,/categories/clothing,,mobile,https://www.bing.com/,2025-06-18
+PV_00000759,SESS_0000000296,CUST_00000808,/categories/beauty,,desktop,https://www.tiktok.com/,2024-07-25
+PV_00000760,SESS_0000000703,,/search?q=dress,"{""source"": ""tiktok"", ""medium"": ""cpc"", ""campaign"": ""loyalty_reward""}",mobile,https://www.reddit.com/,2022-01-05
+PV_00000761,SESS_0000000537,CUST_00000011,/cart,,tablet,https://www.facebook.com/,2024-01-24
+PV_00000762,SESS_0000000379,CUST_00000112,/account,,desktop,https://www.facebook.com/,2021-08-10
+PV_00000763,SESS_0000000678,CUST_00000606,/products/PROD_00000384,,tablet,https://www.reddit.com/,2024-08-21
+PV_00000764,SESS_0000000805,CUST_00000772,/categories/toys,,desktop,https://www.facebook.com/,2023-01-23
+PV_00000765,SESS_0000000210,CUST_00000770,/account,,desktop,https://www.youtube.com/,2021-11-22
+PV_00000766,SESS_0000000539,CUST_00000973,/products/PROD_00000023,,mobile,https://www.youtube.com/,2025-12-15
+PV_00000767,SESS_0000000852,CUST_00000167,/search?q=dress,,mobile,https://www.pinterest.com/,2025-09-04
+PV_00000768,SESS_0000000178,CUST_00000721,/products/PROD_00000698,,mobile,https://www.google.com/,2025-08-16
+PV_00000769,SESS_0000000930,CUST_00000407,/account,,mobile,https://www.bing.com/,2024-12-22
+PV_00000770,SESS_0000000556,CUST_00000045,/categories/home-garden,,tablet,https://www.bing.com/,2024-08-12
+PV_00000771,SESS_0000000072,,/products/PROD_00000333,"{""source"": ""facebook"", ""medium"": ""email"", ""campaign"": ""holiday_gift_guide""}",mobile,,2024-05-14
+PV_00000772,SESS_0000000900,,/,"{""source"": ""tiktok"", ""medium"": ""email"", ""campaign"": ""clearance""}",desktop,https://www.tiktok.com/,2021-09-16
+PV_00000773,SESS_0000000508,CUST_00000938,/products/PROD_00000103,,tablet,https://www.bing.com/,2025-09-02
+PV_00000774,SESS_0000000222,CUST_00000359,/products/PROD_00000500,"{""source"": ""instagram"", ""medium"": ""email"", ""campaign"": ""winter_promo""}",tablet,https://www.youtube.com/,2025-07-17
+PV_00000775,SESS_0000000948,CUST_00000554,/products/PROD_00000828,,desktop,https://www.tiktok.com/,2024-11-19
+PV_00000776,SESS_0000000823,CUST_00000285,/cart,,mobile,https://www.pinterest.com/,2025-11-02
+PV_00000777,SESS_0000000228,CUST_00000400,/search?q=headphones,,mobile,https://www.instagram.com/,2023-11-24
+PV_00000778,SESS_0000000841,CUST_00000451,/products/PROD_00000848,"{""source"": ""direct"", ""medium"": ""social"", ""campaign"": ""loyalty_reward""}",mobile,https://www.pinterest.com/,2023-04-27
+PV_00000779,SESS_0000000233,CUST_00000612,/categories/home-garden,,desktop,https://www.reddit.com/,2025-12-05
+PV_00000780,SESS_0000000268,CUST_00000444,/products/PROD_00000189,,mobile,https://www.tiktok.com/,2023-06-06
+PV_00000781,SESS_0000000910,CUST_00000388,/cart,,tablet,https://www.instagram.com/,2024-04-11
+PV_00000782,SESS_0000000254,CUST_00000356,/products/PROD_00000581,,desktop,https://www.bing.com/,2022-12-10
+PV_00000783,SESS_0000000675,CUST_00000784,/products/PROD_00000114,,mobile,https://www.bing.com/,2024-03-30
+PV_00000784,SESS_0000000006,CUST_00000425,/products/PROD_00000104,,mobile,https://www.youtube.com/,2024-10-20
+PV_00000785,SESS_0000000047,CUST_00000006,/categories/sports,"{""source"": ""direct"", ""medium"": ""cpc"", ""campaign"": ""loyalty_reward""}",desktop,https://www.instagram.com/,2024-03-01
+PV_00000786,SESS_0000000407,CUST_00000554,/,,desktop,,2023-10-07
+PV_00000787,SESS_0000000883,CUST_00000896,/categories/toys,,mobile,https://www.facebook.com/,2022-09-02
+PV_00000788,SESS_0000000580,CUST_00000441,/products/PROD_00000021,,desktop,https://www.instagram.com/,2024-04-17
+PV_00000789,SESS_0000000254,CUST_00000924,/categories/clothing,"{""source"": ""tiktok"", ""medium"": ""referral"", ""campaign"": ""clearance""}",desktop,https://www.google.com/,2025-09-21
+PV_00000790,SESS_0000000449,CUST_00000356,/checkout,,mobile,https://www.bing.com/,2021-01-17
+PV_00000791,SESS_0000000059,CUST_00000919,/products/PROD_00000778,,mobile,https://www.facebook.com/,2021-11-08
+PV_00000792,SESS_0000000393,,/products/PROD_00000855,,desktop,https://www.pinterest.com/,2021-10-19
+PV_00000793,SESS_0000000631,CUST_00000588,/products/PROD_00000209,,mobile,,2025-10-27
+PV_00000794,SESS_0000000698,CUST_00000554,/cart,"{""source"": ""direct"", ""medium"": ""social"", ""campaign"": ""summer_sale""}",mobile,https://www.facebook.com/,2024-06-02
+PV_00000795,SESS_0000000560,CUST_00000863,/categories/toys,,desktop,https://www.youtube.com/,2025-11-22
+PV_00000796,SESS_0000000191,CUST_00000268,/categories/home-garden,,mobile,https://www.google.com/,2023-12-18
+PV_00000797,SESS_0000000265,CUST_00000892,/products/PROD_00000706,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""clearance""}",mobile,https://www.pinterest.com/,2023-05-31
+PV_00000798,SESS_0000000684,,/products/PROD_00000859,"{""source"": ""direct"", ""medium"": ""cpc"", ""campaign"": ""holiday_gift_guide""}",desktop,https://www.reddit.com/,2024-12-25
+PV_00000799,SESS_0000000558,CUST_00000217,/search?q=shoes,,mobile,,2021-11-30
+PV_00000800,SESS_0000000143,,/products/PROD_00000393,"{""source"": ""google"", ""medium"": ""email"", ""campaign"": ""back_to_school""}",mobile,https://www.instagram.com/,2022-12-16
+PV_00000801,SESS_0000000246,CUST_00000442,/account,,desktop,https://www.facebook.com/,2023-06-11
+PV_00000802,SESS_0000000216,CUST_00000691,/categories/books,,desktop,https://www.bing.com/,2022-08-29
+PV_00000803,SESS_0000000437,CUST_00000541,/products/PROD_00000516,,mobile,https://www.bing.com/,2022-12-08
+PV_00000804,SESS_0000000688,CUST_00000275,/categories/home-garden,,desktop,https://www.reddit.com/,2021-07-10
+PV_00000805,SESS_0000000840,CUST_00000470,/account,,desktop,https://www.bing.com/,2021-12-30
+PV_00000806,SESS_0000000476,CUST_00000216,/categories/toys,"{""source"": ""facebook"", ""medium"": ""referral"", ""campaign"": ""winter_promo""}",desktop,https://www.youtube.com/,2022-11-09
+PV_00000807,SESS_0000000384,CUST_00000865,/,,mobile,,2024-12-28
+PV_00000808,SESS_0000000938,,/products/PROD_00000598,,desktop,https://www.instagram.com/,2021-12-17
+PV_00000809,SESS_0000000878,CUST_00000813,/categories/food-gourmet,,mobile,https://www.tiktok.com/,2022-11-18
+PV_00000810,SESS_0000000657,CUST_00001000,/checkout,"{""source"": ""tiktok"", ""medium"": ""referral"", ""campaign"": ""holiday_gift_guide""}",mobile,,2021-06-08
+PV_00000811,SESS_0000000547,CUST_00000566,/account,"{""source"": ""email"", ""medium"": ""email"", ""campaign"": ""loyalty_reward""}",mobile,https://www.pinterest.com/,2023-11-27
+PV_00000812,SESS_0000000415,,/categories/food-gourmet,,mobile,https://www.youtube.com/,2024-01-29
+PV_00000813,SESS_0000000132,,/cart,,mobile,https://www.instagram.com/,2025-06-09
+PV_00000814,SESS_0000000816,CUST_00000194,/products/PROD_00000819,,mobile,,2025-02-16
+PV_00000815,SESS_0000000398,CUST_00000712,/products/PROD_00000681,,mobile,,2022-07-28
+PV_00000816,SESS_0000000507,CUST_00000013,/products/PROD_00000036,,desktop,https://www.youtube.com/,2021-11-10
+PV_00000817,SESS_0000000153,,/products/PROD_00000757,"{""source"": ""direct"", ""medium"": ""organic"", ""campaign"": ""black_friday""}",desktop,https://www.facebook.com/,2021-11-26
+PV_00000818,SESS_0000000814,,/products/PROD_00000424,,mobile,https://www.bing.com/,2025-12-06
+PV_00000819,SESS_0000000560,CUST_00000396,/products/PROD_00000351,,mobile,,2024-06-27
+PV_00000820,SESS_0000000168,CUST_00000881,/search?q=camera,"{""source"": ""facebook"", ""medium"": ""cpc"", ""campaign"": ""holiday_gift_guide""}",desktop,,2021-04-14
+PV_00000821,SESS_0000000690,CUST_00000839,/cart,"{""source"": ""facebook"", ""medium"": ""referral"", ""campaign"": ""back_to_school""}",desktop,https://www.instagram.com/,2021-11-10
+PV_00000822,SESS_0000000775,,/categories/home-garden,,mobile,https://www.facebook.com/,2023-07-29
+PV_00000823,SESS_0000000607,CUST_00000270,/search?q=gift,,desktop,https://www.reddit.com/,2022-01-20
+PV_00000824,SESS_0000000828,CUST_00000298,/products/PROD_00000216,"{""source"": ""google"", ""medium"": ""social"", ""campaign"": ""black_friday""}",tablet,https://www.bing.com/,2025-01-09
+PV_00000825,SESS_0000000803,CUST_00000611,/categories/electronics,,mobile,https://www.instagram.com/,2023-12-10
+PV_00000826,SESS_0000000230,,/cart,"{""source"": ""tiktok"", ""medium"": ""social"", ""campaign"": ""summer_sale""}",desktop,https://www.tiktok.com/,2024-02-01
+PV_00000827,SESS_0000000703,CUST_00000844,/products/PROD_00000667,"{""source"": ""instagram"", ""medium"": ""organic"", ""campaign"": ""back_to_school""}",desktop,https://www.facebook.com/,2023-06-03
+PV_00000828,SESS_0000000404,CUST_00000616,/cart,,desktop,https://www.facebook.com/,2022-05-17
+PV_00000829,SESS_0000000144,CUST_00000432,/products/PROD_00000296,"{""source"": ""google"", ""medium"": ""cpc"", ""campaign"": ""summer_sale""}",desktop,https://www.bing.com/,2023-12-23
+PV_00000830,SESS_0000000918,CUST_00000889,/products/PROD_00000462,,mobile,https://www.facebook.com/,2024-10-12
+PV_00000831,SESS_0000000676,CUST_00000408,/products/PROD_00000045,,mobile,https://www.google.com/,2022-12-08
+PV_00000832,SESS_0000000531,CUST_00000065,/account,"{""source"": ""google"", ""medium"": ""organic"", ""campaign"": ""summer_sale""}",tablet,https://www.tiktok.com/,2023-09-14
+PV_00000833,SESS_0000000898,CUST_00000657,/cart,,mobile,https://www.youtube.com/,2025-04-07
+PV_00000834,SESS_0000000068,CUST_00000038,/cart,,mobile,https://www.tiktok.com/,2021-11-20
+PV_00000835,SESS_0000000098,CUST_00000028,/categories/toys,,tablet,https://www.google.com/,2023-11-17
+PV_00000836,SESS_0000000007,CUST_00000289,/products/PROD_00000056,,tablet,https://www.google.com/,2022-11-20
+PV_00000837,SESS_0000000815,CUST_00000920,/cart,,mobile,,2024-09-08
+PV_00000838,SESS_0000000177,CUST_00000879,/categories/clothing,"{""source"": ""facebook"", ""medium"": ""email"", ""campaign"": ""new_arrivals""}",mobile,https://www.google.com/,2021-02-15
+PV_00000839,SESS_0000000206,CUST_00000237,/products/PROD_00000777,"{""source"": ""facebook"", ""medium"": ""referral"", ""campaign"": ""back_to_school""}",mobile,https://www.bing.com/,2024-06-21
+PV_00000840,SESS_0000000299,,/cart,,desktop,https://www.bing.com/,2021-09-08
+PV_00000841,SESS_0000000800,CUST_00000384,/products/PROD_00000751,"{""source"": ""tiktok"", ""medium"": ""organic"", ""campaign"": ""loyalty_reward""}",desktop,https://www.google.com/,2021-06-07
+PV_00000842,SESS_0000000913,CUST_00000326,/products/PROD_00000833,,mobile,https://www.google.com/,2024-10-31
+PV_00000843,SESS_0000000229,CUST_00000085,/checkout,"{""source"": ""email"", ""medium"": ""social"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.youtube.com/,2024-04-08
+PV_00000844,SESS_0000000896,CUST_00000749,/cart,,mobile,https://www.pinterest.com/,2025-08-20
+PV_00000845,SESS_0000000631,CUST_00000246,/cart,"{""source"": ""facebook"", ""medium"": ""cpc"", ""campaign"": ""loyalty_reward""}",mobile,https://www.bing.com/,2023-10-19
+PV_00000846,SESS_0000000270,,/categories/toys,,mobile,https://www.youtube.com/,2023-11-05
+PV_00000847,SESS_0000000081,CUST_00000929,/products/PROD_00000499,,desktop,https://www.instagram.com/,2024-09-18
+PV_00000848,SESS_0000000672,CUST_00000887,/cart,"{""source"": ""email"", ""medium"": ""referral"", ""campaign"": ""loyalty_reward""}",desktop,https://www.bing.com/,2022-10-28
+PV_00000849,SESS_0000000188,CUST_00000266,/cart,,desktop,https://www.youtube.com/,2021-03-31
+PV_00000850,SESS_0000000700,CUST_00000761,/categories/electronics,,desktop,https://www.pinterest.com/,2022-03-15
+PV_00000851,SESS_0000000820,,/search?q=headphones,,mobile,https://www.tiktok.com/,2022-04-03
+PV_00000852,SESS_0000000501,CUST_00000205,/search?q=shoes,"{""source"": ""instagram"", ""medium"": ""social"", ""campaign"": ""black_friday""}",desktop,,2022-11-09
+PV_00000853,SESS_0000000706,CUST_00000228,/categories/clothing,,desktop,https://www.google.com/,2025-11-16
+PV_00000854,SESS_0000000487,CUST_00000240,/checkout,,desktop,https://www.bing.com/,2025-01-12
+PV_00000855,SESS_0000000772,CUST_00000073,/categories/toys,"{""source"": ""instagram"", ""medium"": ""social"", ""campaign"": ""winter_promo""}",mobile,,2025-11-09
+PV_00000856,SESS_0000000488,CUST_00000671,/categories/food-gourmet,,desktop,https://www.google.com/,2025-12-30
+PV_00000857,SESS_0000000990,CUST_00000388,/products/PROD_00000434,"{""source"": ""instagram"", ""medium"": ""cpc"", ""campaign"": ""clearance""}",mobile,https://www.instagram.com/,2023-03-24
+PV_00000858,SESS_0000000478,CUST_00000378,/categories/electronics,,desktop,https://www.bing.com/,2022-03-08
+PV_00000859,SESS_0000000703,CUST_00000212,/account,,desktop,,2023-11-29
+PV_00000860,SESS_0000000289,CUST_00000648,/checkout,,mobile,https://www.google.com/,2025-07-17
+PV_00000861,SESS_0000000106,CUST_00000795,/checkout,,tablet,https://www.youtube.com/,2023-06-10
+PV_00000862,SESS_0000000641,,/products/PROD_00000194,,mobile,https://www.facebook.com/,2023-09-15
+PV_00000863,SESS_0000000609,CUST_00000649,/products/PROD_00000843,,mobile,https://www.reddit.com/,2021-11-08
+PV_00000864,SESS_0000000996,CUST_00000171,/products/PROD_00000801,,mobile,https://www.bing.com/,2023-02-20
+PV_00000865,SESS_0000000576,,/products/PROD_00000466,,mobile,https://www.bing.com/,2022-12-21
+PV_00000866,SESS_0000000640,CUST_00000677,/categories/electronics,,desktop,https://www.bing.com/,2022-11-22
+PV_00000867,SESS_0000000223,CUST_00000809,/products/PROD_00000059,,mobile,https://www.tiktok.com/,2025-08-01
+PV_00000868,SESS_0000000805,,/categories/beauty,"{""source"": ""tiktok"", ""medium"": ""organic"", ""campaign"": ""back_to_school""}",tablet,https://www.youtube.com/,2021-05-25
+PV_00000869,SESS_0000000974,CUST_00000222,/categories/beauty,,mobile,https://www.youtube.com/,2025-12-09
+PV_00000870,SESS_0000000382,,/products/PROD_00000478,,mobile,https://www.bing.com/,2021-01-21
+PV_00000871,SESS_0000000838,CUST_00000388,/products/PROD_00000103,"{""source"": ""google"", ""medium"": ""referral"", ""campaign"": ""clearance""}",mobile,,2025-11-17
+PV_00000872,SESS_0000000903,CUST_00000372,/,,desktop,https://www.youtube.com/,2023-11-20
+PV_00000873,SESS_0000000104,CUST_00000129,/products/PROD_00000945,,mobile,https://www.google.com/,2024-09-07
+PV_00000874,SESS_0000000664,CUST_00000404,/products/PROD_00000592,,mobile,https://www.pinterest.com/,2021-12-21
+PV_00000875,SESS_0000000114,,/checkout,,mobile,https://www.facebook.com/,2024-05-12
+PV_00000876,SESS_0000000508,CUST_00000173,/search?q=shoes,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""summer_sale""}",tablet,https://www.instagram.com/,2025-07-19
+PV_00000877,SESS_0000000964,,/cart,,mobile,https://www.reddit.com/,2021-11-12
+PV_00000878,SESS_0000000055,CUST_00000860,/products/PROD_00000322,,tablet,https://www.youtube.com/,2021-11-02
+PV_00000879,SESS_0000000121,CUST_00000988,/products/PROD_00000549,,desktop,https://www.bing.com/,2022-09-11
+PV_00000880,SESS_0000000217,CUST_00000453,/search?q=shoes,,mobile,https://www.tiktok.com/,2021-11-30
+PV_00000881,SESS_0000000635,CUST_00000608,/checkout,"{""source"": ""email"", ""medium"": ""referral"", ""campaign"": ""new_arrivals""}",desktop,https://www.instagram.com/,2021-09-27
+PV_00000882,SESS_0000000003,,/categories/sports,"{""source"": ""facebook"", ""medium"": ""referral"", ""campaign"": ""holiday_gift_guide""}",desktop,,2024-07-10
+PV_00000883,SESS_0000000092,CUST_00000052,/products/PROD_00000876,,mobile,https://www.tiktok.com/,2022-02-03
+PV_00000884,SESS_0000000407,,/products/PROD_00000391,"{""source"": ""google"", ""medium"": ""email"", ""campaign"": ""black_friday""}",mobile,,2024-06-12
+PV_00000885,SESS_0000000676,CUST_00000576,/products/PROD_00000678,,tablet,,2025-05-31
+PV_00000886,SESS_0000000441,,/cart,,mobile,https://www.instagram.com/,2024-05-07
+PV_00000887,SESS_0000000631,CUST_00000106,/products/PROD_00000662,,tablet,https://www.instagram.com/,2021-10-18
+PV_00000888,SESS_0000000432,CUST_00000848,/search?q=shoes,,desktop,https://www.pinterest.com/,2023-12-10
+PV_00000889,SESS_0000000909,CUST_00000200,/products/PROD_00000081,,mobile,https://www.google.com/,2022-12-26
+PV_00000890,SESS_0000000061,CUST_00000844,/cart,"{""source"": ""google"", ""medium"": ""social"", ""campaign"": ""new_arrivals""}",mobile,https://www.youtube.com/,2022-11-16
+PV_00000891,SESS_0000000726,CUST_00000352,/products/PROD_00000225,,mobile,https://www.youtube.com/,2022-10-16
+PV_00000892,SESS_0000000473,,/categories/electronics,,desktop,,2025-11-04
+PV_00000893,SESS_0000000247,CUST_00000963,/products/PROD_00000035,,mobile,https://www.facebook.com/,2024-11-15
+PV_00000894,SESS_0000000747,,/checkout,,mobile,https://www.pinterest.com/,2021-11-08
+PV_00000895,SESS_0000000920,CUST_00000612,/categories/sports,,mobile,https://www.bing.com/,2023-07-05
+PV_00000896,SESS_0000000939,CUST_00000849,/products/PROD_00000224,"{""source"": ""google"", ""medium"": ""organic"", ""campaign"": ""new_arrivals""}",mobile,https://www.facebook.com/,2022-10-16
+PV_00000897,SESS_0000000869,CUST_00000539,/checkout,"{""source"": ""tiktok"", ""medium"": ""email"", ""campaign"": ""black_friday""}",desktop,https://www.google.com/,2025-12-14
+PV_00000898,SESS_0000000372,CUST_00000245,/categories/clothing,,desktop,https://www.tiktok.com/,2025-12-14
+PV_00000899,SESS_0000000289,,/account,"{""source"": ""facebook"", ""medium"": ""social"", ""campaign"": ""black_friday""}",desktop,https://www.facebook.com/,2022-10-19
+PV_00000900,SESS_0000000590,CUST_00000575,/account,,tablet,https://www.instagram.com/,2022-11-23
+PV_00000901,SESS_0000000024,CUST_00000854,/account,,mobile,https://www.facebook.com/,2023-12-31
+PV_00000902,SESS_0000000406,CUST_00000886,/products/PROD_00000863,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""loyalty_reward""}",mobile,,2023-07-13
+PV_00000903,SESS_0000000308,CUST_00000429,/products/PROD_00000311,"{""source"": ""direct"", ""medium"": ""organic"", ""campaign"": ""black_friday""}",mobile,https://www.tiktok.com/,2022-02-02
+PV_00000904,SESS_0000000613,CUST_00000954,/search?q=shoes,,tablet,https://www.google.com/,2024-05-27
+PV_00000905,SESS_0000000372,CUST_00000038,/categories/clothing,"{""source"": ""instagram"", ""medium"": ""social"", ""campaign"": ""winter_promo""}",desktop,https://www.pinterest.com/,2022-11-08
+PV_00000906,SESS_0000000763,,/products/PROD_00000540,,desktop,https://www.tiktok.com/,2024-05-11
+PV_00000907,SESS_0000000635,CUST_00000302,/checkout,,mobile,https://www.pinterest.com/,2022-12-18
+PV_00000908,SESS_0000000215,CUST_00000639,/products/PROD_00000369,,mobile,https://www.pinterest.com/,2024-09-01
+PV_00000909,SESS_0000000262,CUST_00000071,/cart,,mobile,,2024-06-14
+PV_00000910,SESS_0000000915,,/checkout,,desktop,https://www.bing.com/,2023-09-23
+PV_00000911,SESS_0000000844,CUST_00000646,/checkout,,desktop,https://www.tiktok.com/,2024-09-12
+PV_00000912,SESS_0000000346,CUST_00000765,/products/PROD_00000827,,mobile,https://www.facebook.com/,2023-05-29
+PV_00000913,SESS_0000000413,CUST_00000525,/categories/home-garden,,mobile,https://www.youtube.com/,2021-10-10
+PV_00000914,SESS_0000000123,CUST_00000174,/categories/beauty,"{""source"": ""direct"", ""medium"": ""organic"", ""campaign"": ""new_arrivals""}",mobile,https://www.tiktok.com/,2021-12-17
+PV_00000915,SESS_0000000764,CUST_00000975,/categories/sports,"{""source"": ""tiktok"", ""medium"": ""cpc"", ""campaign"": ""winter_promo""}",desktop,https://www.youtube.com/,2022-04-23
+PV_00000916,SESS_0000000320,CUST_00000090,/products/PROD_00000497,,mobile,https://www.pinterest.com/,2021-06-04
+PV_00000917,SESS_0000000910,CUST_00000368,/categories/electronics,,desktop,https://www.instagram.com/,2024-09-28
+PV_00000918,SESS_0000000337,CUST_00000801,/categories/beauty,,mobile,https://www.google.com/,2022-12-05
+PV_00000919,SESS_0000000158,CUST_00000207,/categories/beauty,,mobile,https://www.reddit.com/,2021-08-16
+PV_00000920,SESS_0000000327,CUST_00000062,/checkout,,desktop,https://www.instagram.com/,2025-02-18
+PV_00000921,SESS_0000000661,CUST_00000319,/categories/food-gourmet,,desktop,https://www.youtube.com/,2024-07-23
+PV_00000922,SESS_0000000065,CUST_00000824,/products/PROD_00000791,,desktop,https://www.instagram.com/,2023-05-08
+PV_00000923,SESS_0000000369,,/cart,,tablet,https://www.google.com/,2022-04-26
+PV_00000924,SESS_0000000870,,/checkout,,mobile,,2021-11-22
+PV_00000925,SESS_0000000004,CUST_00000105,/products/PROD_00000577,"{""source"": ""direct"", ""medium"": ""cpc"", ""campaign"": ""back_to_school""}",mobile,https://www.reddit.com/,2023-05-23
+PV_00000926,SESS_0000000686,CUST_00000239,/cart,,mobile,https://www.facebook.com/,2025-07-27
+PV_00000927,SESS_0000000648,,/products/PROD_00000054,,tablet,https://www.facebook.com/,2021-12-22
+PV_00000928,SESS_0000000914,CUST_00000127,/products/PROD_00000630,,mobile,,2023-12-06
+PV_00000929,SESS_0000000756,,/account,,desktop,https://www.google.com/,2025-11-30
+PV_00000930,SESS_0000000060,CUST_00000220,/account,,desktop,https://www.instagram.com/,2024-04-01
+PV_00000931,SESS_0000000045,CUST_00000408,/categories/toys,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""clearance""}",mobile,https://www.bing.com/,2023-04-08
+PV_00000932,SESS_0000000584,CUST_00000946,/cart,"{""source"": ""facebook"", ""medium"": ""referral"", ""campaign"": ""holiday_gift_guide""}",desktop,https://www.google.com/,2024-10-11
+PV_00000933,SESS_0000000607,,/,,desktop,https://www.facebook.com/,2025-03-01
+PV_00000934,SESS_0000000543,CUST_00000929,/search?q=gift,,tablet,https://www.youtube.com/,2023-12-24
+PV_00000935,SESS_0000000156,CUST_00000972,/categories/electronics,"{""source"": ""tiktok"", ""medium"": ""social"", ""campaign"": ""clearance""}",tablet,,2025-06-24
+PV_00000936,SESS_0000000888,CUST_00000586,/categories/toys,,tablet,,2023-10-07
+PV_00000937,SESS_0000000752,CUST_00000647,/categories/books,,desktop,https://www.pinterest.com/,2025-03-14
+PV_00000938,SESS_0000000064,CUST_00000430,/products/PROD_00000373,"{""source"": ""instagram"", ""medium"": ""email"", ""campaign"": ""back_to_school""}",desktop,https://www.instagram.com/,2025-11-23
+PV_00000939,SESS_0000000421,,/categories/clothing,,desktop,https://www.facebook.com/,2023-09-05
+PV_00000940,SESS_0000000323,CUST_00000574,/checkout,,mobile,https://www.google.com/,2024-01-13
+PV_00000941,SESS_0000000109,CUST_00000513,/checkout,,mobile,,2024-01-24
+PV_00000942,SESS_0000000463,CUST_00000079,/,,mobile,https://www.reddit.com/,2024-12-16
+PV_00000943,SESS_0000000580,CUST_00000886,/products/PROD_00000400,,tablet,https://www.instagram.com/,2025-02-25
+PV_00000944,SESS_0000000547,CUST_00000065,/categories/sports,,mobile,https://www.reddit.com/,2021-03-08
+PV_00000945,SESS_0000000251,CUST_00000941,/products/PROD_00000184,,desktop,https://www.instagram.com/,2024-11-07
+PV_00000946,SESS_0000000866,CUST_00000980,/products/PROD_00000861,,desktop,,2024-12-18
+PV_00000947,SESS_0000000510,,/account,"{""source"": ""google"", ""medium"": ""social"", ""campaign"": ""back_to_school""}",desktop,https://www.google.com/,2024-09-02
+PV_00000948,SESS_0000000548,CUST_00000066,/categories/electronics,,desktop,https://www.google.com/,2024-10-04
+PV_00000949,SESS_0000000441,,/checkout,"{""source"": ""direct"", ""medium"": ""referral"", ""campaign"": ""loyalty_reward""}",desktop,https://www.instagram.com/,2021-04-11
+PV_00000950,SESS_0000000454,,/products/PROD_00000706,,mobile,https://www.youtube.com/,2023-04-13
+PV_00000951,SESS_0000000644,,/categories/home-garden,,desktop,https://www.facebook.com/,2025-02-14
+PV_00000952,SESS_0000000817,CUST_00000054,/cart,,mobile,https://www.google.com/,2025-11-08
+PV_00000953,SESS_0000000734,CUST_00000221,/products/PROD_00000074,"{""source"": ""google"", ""medium"": ""cpc"", ""campaign"": ""new_arrivals""}",mobile,https://www.pinterest.com/,2022-03-13
+PV_00000954,SESS_0000000679,CUST_00000236,/products/PROD_00000269,"{""source"": ""direct"", ""medium"": ""referral"", ""campaign"": ""new_arrivals""}",desktop,,2023-12-15
+PV_00000955,SESS_0000000274,CUST_00000889,/products/PROD_00000015,,desktop,https://www.google.com/,2025-01-11
+PV_00000956,SESS_0000000060,CUST_00000612,/cart,,desktop,https://www.instagram.com/,2024-11-23
+PV_00000957,SESS_0000000342,,/search?q=headphones,,desktop,https://www.reddit.com/,2024-02-16
+PV_00000958,SESS_0000000394,CUST_00000438,/checkout,,mobile,https://www.bing.com/,2021-02-15
+PV_00000959,SESS_0000000113,CUST_00000103,/search?q=sale,,mobile,https://www.tiktok.com/,2024-10-29
+PV_00000960,SESS_0000000221,CUST_00000436,/checkout,"{""source"": ""google"", ""medium"": ""email"", ""campaign"": ""winter_promo""}",mobile,https://www.youtube.com/,2024-12-10
+PV_00000961,SESS_0000000791,CUST_00000694,/,"{""source"": ""tiktok"", ""medium"": ""organic"", ""campaign"": ""back_to_school""}",desktop,https://www.google.com/,2024-10-26
+PV_00000962,SESS_0000000068,CUST_00000963,/categories/food-gourmet,"{""source"": ""tiktok"", ""medium"": ""organic"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.tiktok.com/,2024-12-04
+PV_00000963,SESS_0000000315,CUST_00000421,/categories/home-garden,,mobile,https://www.pinterest.com/,2023-03-17
+PV_00000964,SESS_0000000467,,/categories/books,,desktop,https://www.reddit.com/,2025-12-26
+PV_00000965,SESS_0000000858,CUST_00000524,/checkout,"{""source"": ""facebook"", ""medium"": ""cpc"", ""campaign"": ""new_arrivals""}",desktop,https://www.pinterest.com/,2024-12-08
+PV_00000966,SESS_0000000263,,/products/PROD_00000917,"{""source"": ""email"", ""medium"": ""organic"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.google.com/,2023-12-14
+PV_00000967,SESS_0000000781,CUST_00000506,/products/PROD_00000205,,desktop,,2025-11-08
+PV_00000968,SESS_0000000131,CUST_00000404,/account,,mobile,https://www.tiktok.com/,2025-09-21
+PV_00000969,SESS_0000000424,CUST_00000343,/products/PROD_00000651,,desktop,,2025-02-05
+PV_00000970,SESS_0000000267,CUST_00000598,/search?q=camera,"{""source"": ""instagram"", ""medium"": ""referral"", ""campaign"": ""black_friday""}",desktop,https://www.pinterest.com/,2023-12-02
+PV_00000971,SESS_0000000720,,/cart,,mobile,https://www.pinterest.com/,2023-11-03
+PV_00000972,SESS_0000000212,CUST_00000327,/products/PROD_00000110,,mobile,https://www.facebook.com/,2022-11-04
+PV_00000973,SESS_0000000563,CUST_00000214,/cart,,mobile,https://www.instagram.com/,2022-05-05
+PV_00000974,SESS_0000000983,,/checkout,"{""source"": ""tiktok"", ""medium"": ""email"", ""campaign"": ""clearance""}",desktop,,2023-10-02
+PV_00000975,SESS_0000000919,CUST_00000322,/products/PROD_00000718,,tablet,https://www.instagram.com/,2023-12-14
+PV_00000976,SESS_0000000288,CUST_00000078,/checkout,,mobile,https://www.pinterest.com/,2022-04-19
+PV_00000977,SESS_0000000425,CUST_00000055,/checkout,,desktop,https://www.reddit.com/,2025-10-26
+PV_00000978,SESS_0000000554,CUST_00000784,/products/PROD_00000064,,desktop,https://www.bing.com/,2023-11-27
+PV_00000979,SESS_0000000759,CUST_00000856,/products/PROD_00000764,,mobile,https://www.tiktok.com/,2023-11-02
+PV_00000980,SESS_0000000934,CUST_00000071,/products/PROD_00000948,,mobile,https://www.pinterest.com/,2023-03-29
+PV_00000981,SESS_0000000707,CUST_00000068,/products/PROD_00000961,,desktop,https://www.tiktok.com/,2021-05-22
+PV_00000982,SESS_0000000244,CUST_00000180,/products/PROD_00000779,"{""source"": ""instagram"", ""medium"": ""social"", ""campaign"": ""summer_sale""}",tablet,https://www.reddit.com/,2025-07-20
+PV_00000983,SESS_0000000712,CUST_00000380,/cart,"{""source"": ""instagram"", ""medium"": ""email"", ""campaign"": ""back_to_school""}",mobile,https://www.google.com/,2022-10-13
+PV_00000984,SESS_0000000870,CUST_00000933,/products/PROD_00000352,"{""source"": ""facebook"", ""medium"": ""social"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.pinterest.com/,2024-04-14
+PV_00000985,SESS_0000000633,CUST_00000686,/,,mobile,https://www.bing.com/,2024-01-19
+PV_00000986,SESS_0000001000,CUST_00000681,/products/PROD_00000844,"{""source"": ""tiktok"", ""medium"": ""referral"", ""campaign"": ""clearance""}",mobile,https://www.reddit.com/,2023-12-19
+PV_00000987,SESS_0000000334,CUST_00000901,/categories/clothing,,desktop,https://www.youtube.com/,2023-11-01
+PV_00000988,SESS_0000000328,CUST_00000450,/cart,,mobile,https://www.google.com/,2021-12-16
+PV_00000989,SESS_0000000715,CUST_00000261,/,"{""source"": ""email"", ""medium"": ""social"", ""campaign"": ""loyalty_reward""}",tablet,https://www.pinterest.com/,2022-07-16
+PV_00000990,SESS_0000000106,CUST_00000447,/categories/books,,mobile,,2023-10-30
+PV_00000991,SESS_0000000762,CUST_00000637,/products/PROD_00000300,"{""source"": ""facebook"", ""medium"": ""organic"", ""campaign"": ""summer_sale""}",desktop,https://www.reddit.com/,2024-12-23
+PV_00000992,SESS_0000000887,CUST_00000131,/,,desktop,https://www.bing.com/,2023-03-20
+PV_00000993,SESS_0000000938,CUST_00000234,/products/PROD_00000494,,tablet,https://www.tiktok.com/,2022-01-10
+PV_00000994,SESS_0000000939,CUST_00000904,/products/PROD_00000654,,desktop,https://www.youtube.com/,2021-08-03
+PV_00000995,SESS_0000000801,,/categories/electronics,"{""source"": ""email"", ""medium"": ""social"", ""campaign"": ""holiday_gift_guide""}",mobile,https://www.facebook.com/,2024-06-03
+PV_00000996,SESS_0000000079,CUST_00000330,/checkout,,mobile,https://www.tiktok.com/,2023-02-27
+PV_00000997,SESS_0000000165,CUST_00000637,/products/PROD_00000611,,desktop,https://www.reddit.com/,2021-11-01
+PV_00000998,SESS_0000000846,CUST_00000866,/categories/books,,mobile,,2024-07-01
+PV_00000999,SESS_0000000631,CUST_00000891,/categories/electronics,,desktop,,2022-01-19
+PV_00001000,SESS_0000000986,,/account,,mobile,https://www.pinterest.com/,2023-09-23

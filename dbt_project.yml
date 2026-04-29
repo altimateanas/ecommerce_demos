@@ -1,0 +1,64 @@
+# dbt_project.yml — CartWave Analytics
+# Auto-generated for the ecommerce demo repository
+
+name: 'cartwave_analytics'
+version: '1.0.0'
+config-version: 2
+
+profile: 'cartwave-analytics'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+  - "logs"
+
+
+models:
+  cartwave_analytics:
+    staging:
+      +materialized: view
+      +schema: staging
+      +tags: ['staging']
+      +docs:
+        show: true
+    intermediate:
+      +materialized: table
+      +schema: intermediate
+      +tags: ['intermediate']
+    marts:
+      +materialized: table
+      +schema: marts
+      +tags: ['marts']
+      pii:
+        +materialized: table
+        +schema: marts_pii
+        +tags: ['pii', 'restricted']
+        +meta:
+          contains_pii: true
+          compliance_framework: 'CCPA / GDPR'
+
+seeds:
+  cartwave_analytics:
+    +schema: raw
+    +quote_columns: false
+
+vars:
+  company_name: 'CartWave'
+  compliance_framework: 'CCPA / GDPR'
+  default_currency: 'USD'
+  tax_calculation_enabled: true
+  sensitive_data_type: 'email addresses, shipping addresses, payment methods, browsing behavior'
+
+on-run-start:
+  - "{{ log('Starting CartWave dbt run', info=True) }}"
+
+on-run-end:
+  - "{{ log('Completed CartWave dbt run', info=True) }}"

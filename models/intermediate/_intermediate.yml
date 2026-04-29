@@ -1,0 +1,39 @@
+version: 2
+
+models:
+  - name: int_order_enriched
+    description: "Orders with customer demographics and product details"
+    config:
+      materialized: table
+    columns:
+
+  - name: int_customer_lifetime
+    description: "Customer lifetime value, order frequency, return rate"
+    config:
+      materialized: table
+    columns:
+
+  - name: int_product_performance
+    description: "Product-level metrics: revenue, units, avg rating, return rate"
+    config:
+      materialized: table
+    columns:
+
+  - name: int_session_funnel
+    description: "Sessionized funnel: home → category → product → cart → checkout"
+    config:
+      materialized: table
+    columns:
+
+  - name: int_marketing_attribution
+    description: "Multi-touch attribution: first-click, last-click, linear"
+    config:
+      materialized: table
+    columns:
+
+  - name: int_inventory_health
+    description: "Stock levels, days of supply, reorder alerts"
+    config:
+      materialized: table
+    columns:
+

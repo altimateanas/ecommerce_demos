@@ -1,0 +1,187 @@
+# .github/workflows/sql-quality-gate.yml
+# Checks SQL files in PRs for common anti-patterns and quality issues.
+# CartWave — Ecommerce
+
+name: SQL Quality Gate
+
+on:
+  pull_request:
+    paths:
+      - 'models/**/*.sql'
+      - 'macros/**/*.sql'
+      - 'tests/**/*.sql'
+      - 'analyses/**/*.sql'
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  sql-quality-check:
+    name: Check SQL Anti-Patterns
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get changed SQL files
+        id: changed
+        run: |
+          FILES=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- '*.sql')
+          if [ -z "$FILES" ]; then
+            echo "No SQL files changed."
+            echo "files=" >> $GITHUB_OUTPUT
+          else
+            echo "Changed SQL files:"
+            echo "$FILES"
+            # Store as multiline output
+            {
+              echo 'files<<EOF'
+              echo "$FILES"
+              echo 'EOF'
+            } >> $GITHUB_OUTPUT
+          fi
+
+      - name: Check for SELECT *
+        if: steps.changed.outputs.files != ''
+        run: |
+          echo "## Checking for SELECT * anti-pattern..."
+          VIOLATIONS=""
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            # Ignore test files where SELECT * is acceptable
+            if [[ "$file" == tests/* ]]; then continue; fi
+            if grep -inP '^\s*select\s+\*' "$file" 2>/dev/null; then
+              VIOLATIONS="$VIOLATIONS\n  - $file"
+            fi
+          done <<< "${{ steps.changed.outputs.files }}"
+
+          if [ -n "$VIOLATIONS" ]; then
+            echo "::warning::SELECT * found in:$VIOLATIONS"
+            echo "**Prefer explicit column lists** to avoid schema drift issues."
+          fi
+
+      - name: Check for cartesian joins (missing JOIN condition)
+        if: steps.changed.outputs.files != ''
+        run: |
+          echo "## Checking for potential cartesian joins..."
+          VIOLATIONS=""
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            # Look for FROM with multiple tables and no JOIN keyword
+            if grep -inP 'from\s+\w+\s*,\s*\w+' "$file" 2>/dev/null; then
+              VIOLATIONS="$VIOLATIONS\n  - $file (comma-separated FROM clause)"
+            fi
+            # Look for CROSS JOIN
+            if grep -inP 'cross\s+join' "$file" 2>/dev/null; then
+              VIOLATIONS="$VIOLATIONS\n  - $file (explicit CROSS JOIN)"
+            fi
+          done <<< "${{ steps.changed.outputs.files }}"
+
+          if [ -n "$VIOLATIONS" ]; then
+            echo "::error::Potential cartesian joins found:$VIOLATIONS"
+            exit 1
+          fi
+
+      - name: Check for non-sargable predicates
+        if: steps.changed.outputs.files != ''
+        run: |
+          echo "## Checking for non-sargable WHERE predicates..."
+          VIOLATIONS=""
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            # Functions wrapping indexed columns in WHERE
+            if grep -inP 'where\s+.*\b(upper|lower|trim|cast|to_char|date_trunc)\s*\(' "$file" 2>/dev/null; then
+              VIOLATIONS="$VIOLATIONS\n  - $file"
+            fi
+          done <<< "${{ steps.changed.outputs.files }}"
+
+          if [ -n "$VIOLATIONS" ]; then
+            echo "::warning::Non-sargable predicates found in:$VIOLATIONS"
+            echo "Functions on columns in WHERE clauses prevent index usage."
+          fi
+
+      - name: Check for UNION instead of UNION ALL
+        if: steps.changed.outputs.files != ''
+        run: |
+          echo "## Checking for UNION without ALL..."
+          VIOLATIONS=""
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            # Match UNION that is NOT followed by ALL
+            if grep -inP '\bunion\b(?!\s+all)' "$file" 2>/dev/null; then
+              VIOLATIONS="$VIOLATIONS\n  - $file"
+            fi
+          done <<< "${{ steps.changed.outputs.files }}"
+
+          if [ -n "$VIOLATIONS" ]; then
+            echo "::warning::UNION without ALL found in:$VIOLATIONS"
+            echo "UNION removes duplicates (extra sort). Use UNION ALL unless dedup is intentional."
+          fi
+
+      - name: Check for ORDER BY in subqueries
+        if: steps.changed.outputs.files != ''
+        run: |
+          echo "## Checking for ORDER BY inside subqueries/CTEs..."
+          VIOLATIONS=""
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            # Heuristic: ORDER BY not in the last SELECT of the file
+            # This is a simplified check
+            ORDER_COUNT=$(grep -cinP 'order\s+by' "$file" 2>/dev/null || echo 0)
+            if [ "$ORDER_COUNT" -gt 1 ]; then
+              VIOLATIONS="$VIOLATIONS\n  - $file (multiple ORDER BY — check if any are in subqueries)"
+            fi
+          done <<< "${{ steps.changed.outputs.files }}"
+
+          if [ -n "$VIOLATIONS" ]; then
+            echo "::warning::Multiple ORDER BY clauses found:$VIOLATIONS"
+            echo "ORDER BY in CTEs/subqueries is ignored by most engines and wastes compute."
+          fi
+
+      - name: Check for missing LIMIT on raw table queries
+        if: steps.changed.outputs.files != ''
+        run: |
+          echo "## Checking analyses for missing LIMIT..."
+          VIOLATIONS=""
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            # Only check analyses (ad-hoc queries should have LIMIT)
+            if [[ "$file" != analyses/* ]]; then continue; fi
+            if ! grep -iqP '\blimit\b' "$file" 2>/dev/null; then
+              VIOLATIONS="$VIOLATIONS\n  - $file"
+            fi
+          done <<< "${{ steps.changed.outputs.files }}"
+
+          if [ -n "$VIOLATIONS" ]; then
+            echo "::warning::Analysis queries missing LIMIT:$VIOLATIONS"
+          fi
+
+      - name: Post summary comment
+        if: always() && steps.changed.outputs.files != ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = `### SQL Quality Gate Results
+
+            Checked SQL files in this PR for common anti-patterns:
+            - \`SELECT *\` (prefer explicit columns)
+            - Cartesian joins (missing JOIN conditions)
+            - Non-sargable predicates (functions on columns in WHERE)
+            - \`UNION\` without \`ALL\` (unnecessary dedup sort)
+            - \`ORDER BY\` in subqueries (ignored by optimizer)
+            - Missing \`LIMIT\` in analysis queries
+
+            See job logs for details.
+
+            _Powered by CartWave SQL Quality Gate_`;
+
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: body
+            });

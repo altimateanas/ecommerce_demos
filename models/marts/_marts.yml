@@ -1,0 +1,28 @@
+version: 2
+
+models:
+  - name: mart_customer_cohorts
+    description: "Cohort retention analysis by acquisition month and channel"
+    config:
+      materialized: table
+    columns:
+
+  - name: mart_product_catalog
+    description: "Product performance with inventory status"
+    config:
+      materialized: table
+    columns:
+
+  - name: mart_marketing_roi
+    description: "ROAS and CAC by channel and campaign"
+    config:
+      materialized: table
+    columns:
+
+  - name: mart_return_analysis
+    description: "Return rates by product, reason, and customer segment"
+    config:
+      materialized: table
+    columns:
+
+

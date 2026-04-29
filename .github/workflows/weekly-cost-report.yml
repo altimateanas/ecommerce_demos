@@ -1,0 +1,179 @@
+# .github/workflows/weekly-cost-report.yml
+# Generates a weekly Snowflake cost/usage report every Monday at 9am UTC.
+# CartWave — Ecommerce
+
+name: Weekly Snowflake Cost Report
+
+on:
+  schedule:
+    # Every Monday at 9:00 AM UTC
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: 'Number of days to look back'
+        required: false
+        default: '7'
+
+permissions:
+  contents: read
+  issues: write
+
+env:
+  SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
+  SNOWFLAKE_USER: ${{ secrets.SNOWFLAKE_USER }}
+  SNOWFLAKE_PASSWORD: ${{ secrets.SNOWFLAKE_PASSWORD }}
+  SNOWFLAKE_DATABASE: 
+  SNOWFLAKE_WAREHOUSE: ANALYTICS_WH
+
+jobs:
+  cost-report:
+    name: Generate Cost Report
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install snowflake-connector-python tabulate
+
+      - name: Generate cost report
+        id: report
+        run: |
+          LOOKBACK=${{ github.event.inputs.lookback_days || '7' }}
+          python3 << 'PYEOF'
+          import os
+          import snowflake.connector
+          from tabulate import tabulate
+          from datetime import datetime, timedelta
+
+          lookback = int(os.environ.get('LOOKBACK', '7'))
+
+          conn = snowflake.connector.connect(
+              account=os.environ['SNOWFLAKE_ACCOUNT'],
+              user=os.environ['SNOWFLAKE_USER'],
+              password=os.environ['SNOWFLAKE_PASSWORD'],
+              database='SNOWFLAKE',
+              schema='ACCOUNT_USAGE',
+              warehouse=os.environ.get('SNOWFLAKE_WAREHOUSE', 'ANALYTICS_WH'),
+          )
+
+          cur = conn.cursor()
+
+          # ---- Warehouse credit usage ----
+          cur.execute(f"""
+              SELECT
+                  warehouse_name,
+                  ROUND(SUM(credits_used), 2) AS total_credits,
+                  ROUND(SUM(credits_used) * 3.00, 2) AS estimated_cost_usd,
+                  COUNT(DISTINCT DATE_TRUNC('day', start_time)) AS active_days,
+                  ROUND(AVG(credits_used), 4) AS avg_credits_per_query
+              FROM SNOWFLAKE.ACCOUNT_USAGE.WAREHOUSE_METERING_HISTORY
+              WHERE start_time >= DATEADD('day', -{lookback}, CURRENT_TIMESTAMP())
+              GROUP BY warehouse_name
+              ORDER BY total_credits DESC
+          """)
+          wh_rows = cur.fetchall()
+          wh_headers = ['Warehouse', 'Credits', 'Est. Cost ($)', 'Active Days', 'Avg Credits/Query']
+
+          # ---- Long-running queries ----
+          cur.execute(f"""
+              SELECT
+                  query_id,
+                  warehouse_name,
+                  user_name,
+                  ROUND(execution_time / 1000 / 60, 1) AS minutes,
+                  query_type,
+                  LEFT(query_text, 80) AS query_preview
+              FROM SNOWFLAKE.ACCOUNT_USAGE.QUERY_HISTORY
+              WHERE start_time >= DATEADD('day', -{lookback}, CURRENT_TIMESTAMP())
+                AND execution_time > 60000  -- > 60 seconds
+              ORDER BY execution_time DESC
+              LIMIT 10
+          """)
+          slow_rows = cur.fetchall()
+          slow_headers = ['Query ID', 'Warehouse', 'User', 'Minutes', 'Type', 'Preview']
+
+          # ---- Warehouses with no AUTO_SUSPEND ----
+          cur.execute("""
+              SELECT
+                  "name" AS warehouse_name,
+                  "size" AS wh_size,
+                  "auto_suspend" AS auto_suspend_sec
+              FROM INFORMATION_SCHEMA.WAREHOUSES
+              WHERE "auto_suspend" IS NULL OR "auto_suspend" = 0
+          """)
+          nosuspend_rows = cur.fetchall()
+          nosuspend_headers = ['Warehouse', 'Size', 'Auto-Suspend (sec)']
+
+          # ---- Build report ----
+          report_lines = []
+          report_lines.append(f"# CartWave Snowflake Cost Report")
+          report_lines.append(f"**Period:** Last {lookback} days (generated {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')})\n")
+
+          report_lines.append("## Warehouse Credit Usage")
+          if wh_rows:
+              report_lines.append(tabulate(wh_rows, headers=wh_headers, tablefmt='github'))
+              total_cost = sum(r[2] for r in wh_rows)
+              report_lines.append(f"\n**Total estimated cost: ${total_cost:.2f}**\n")
+          else:
+              report_lines.append("No warehouse usage in this period.\n")
+
+          report_lines.append("## Top 10 Slowest Queries (> 60s)")
+          if slow_rows:
+              report_lines.append(tabulate(slow_rows, headers=slow_headers, tablefmt='github'))
+          else:
+              report_lines.append("No slow queries found.\n")
+
+          report_lines.append("\n## Warehouses Without AUTO_SUSPEND")
+          if nosuspend_rows:
+              report_lines.append(tabulate(nosuspend_rows, headers=nosuspend_headers, tablefmt='github'))
+              report_lines.append("\n> **Action Required:** These warehouses will run indefinitely and waste credits.")
+          else:
+              report_lines.append("All warehouses have AUTO_SUSPEND configured.\n")
+
+          full_report = "\n".join(report_lines)
+          print(full_report)
+
+          # Write to file for the next step
+          with open('cost_report.md', 'w') as f:
+              f.write(full_report)
+
+          conn.close()
+          PYEOF
+        env:
+          LOOKBACK: ${{ github.event.inputs.lookback_days || '7' }}
+
+      - name: Create GitHub Issue with report
+        if: success()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = fs.readFileSync('cost_report.md', 'utf8');
+            const today = new Date().toISOString().split('T')[0];
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Snowflake Cost Report - ${today}`,
+              body: report,
+              labels: ['cost-report', 'automated']
+            });
+
+      - name: Post to Slack (optional)
+        if: success() && env.SLACK_WEBHOOK_URL != ''
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          TOTAL=$(grep "Total estimated cost" cost_report.md | head -1 || echo "N/A")
+          curl -X POST "$SLACK_WEBHOOK_URL" \
+            -H 'Content-type: application/json' \
+            -d "{\"text\": \"CartWave Weekly Snowflake Cost Report: ${TOTAL}. Check GitHub Issues for details.\"}"

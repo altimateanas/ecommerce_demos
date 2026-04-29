@@ -1,0 +1,44 @@
+# profiles.yml — CartWave dbt profiles
+# Three targets: DuckDB (local dev), Snowflake (cloud), PostgreSQL (docker)
+
+cartwave-analytics:
+  target: dev
+
+  outputs:
+    # -------------------------------------------------------------------
+    # LOCAL DEVELOPMENT — DuckDB (no setup required, just `dbt run`)
+    # -------------------------------------------------------------------
+    dev:
+      type: duckdb
+      path: "warehouses/cartwave.duckdb"
+      schema: main
+      threads: 4
+
+    # -------------------------------------------------------------------
+    # CLOUD — Snowflake (requires env vars or ~/.snowflake/config)
+    # -------------------------------------------------------------------
+    snowflake:
+      type: snowflake
+      account: "{{ env_var("SNOWFLAKE_ACCOUNT") }}"
+      user: "{{ env_var("SNOWFLAKE_USER") }}"
+      password: "{{ env_var("SNOWFLAKE_PASSWORD") }}"
+      role: "ANALYST"
+      database: "CARTWAVE"
+      warehouse: "ANALYTICS_WH"
+      schema: "STAGING"
+      threads: 8
+      client_session_keep_alive: true
+      query_tag: "dbt_cartwave_analytics"
+
+    # -------------------------------------------------------------------
+    # DOCKER — PostgreSQL (for Airflow metadata + app tables)
+    # -------------------------------------------------------------------
+    postgres:
+      type: postgres
+      host: localhost
+      port: 5433
+      user: "cartwave_user"
+      password: "cartwave_pass"
+      dbname: "cartwave_db"
+      schema: public
+      threads: 4

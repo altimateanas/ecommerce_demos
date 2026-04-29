@@ -1,0 +1,259 @@
+version: 2
+
+models:
+  - name: stg_customers
+    description: "Staged and cleaned customers data"
+    config:
+      materialized: view
+    columns:
+      - name: customer_id
+        description: "Customer Id"
+      - name: email
+        description: "Email"
+      - name: full_name
+        description: "Full Name"
+      - name: phone
+        description: "Phone"
+      - name: shipping_address
+        description: "Shipping Address"
+      - name: billing_address
+        description: "Billing Address"
+      - name: city
+        description: "City"
+      - name: state
+        description: "State"
+      - name: country
+        description: "Country"
+      - name: segment
+        description: "Segment"
+      - name: acquisition_channel
+        description: "Acquisition Channel"
+      - name: created_at
+        description: "Created At"
+      - name: updated_at
+        description: "Updated At"
+
+  - name: stg_orders
+    description: "Staged and cleaned orders data"
+    config:
+      materialized: view
+    columns:
+      - name: order_id
+        description: "Order Id"
+      - name: customer_id
+        description: "Customer Id"
+      - name: order_date
+        description: "Order Date"
+      - name: status
+        description: "Status"
+      - name: subtotal_cents
+        description: "Subtotal Cents"
+      - name: discount_cents
+        description: "Discount Cents"
+      - name: shipping_cents
+        description: "Shipping Cents"
+      - name: tax_cents
+        description: "Tax Cents"
+      - name: total_cents
+        description: "Total Cents"
+      - name: coupon_code
+        description: "Coupon Code"
+      - name: payment_method
+        description: "Payment Method"
+      - name: shipping_method
+        description: "Shipping Method"
+      - name: warehouse_id
+        description: "Warehouse Id"
+
+  - name: stg_order_items
+    description: "Staged and cleaned order_items data"
+    config:
+      materialized: view
+    columns:
+      - name: order_item_id
+        description: "Order Item Id"
+      - name: order_id
+        description: "Order Id"
+      - name: product_id
+        description: "Product Id"
+      - name: quantity
+        description: "Quantity"
+      - name: unit_price_cents
+        description: "Unit Price Cents"
+      - name: discount_cents
+        description: "Discount Cents"
+      - name: total_cents
+        description: "Total Cents"
+      - name: is_gift
+        description: "Is Gift"
+
+  - name: stg_products
+    description: "Staged and cleaned products data"
+    config:
+      materialized: view
+    columns:
+      - name: product_id
+        description: "Product Id"
+      - name: product_name
+        description: "Product Name"
+      - name: sku
+        description: "Sku"
+      - name: category
+        description: "Category"
+      - name: subcategory
+        description: "Subcategory"
+      - name: brand
+        description: "Brand"
+      - name: price_cents
+        description: "Price Cents"
+      - name: cost_cents
+        description: "Cost Cents"
+      - name: weight_grams
+        description: "Weight Grams"
+      - name: is_active
+        description: "Is Active"
+      - name: created_at
+        description: "Created At"
+
+  - name: stg_inventory
+    description: "Staged and cleaned inventory data"
+    config:
+      materialized: view
+    columns:
+      - name: inventory_id
+        description: "Inventory Id"
+      - name: product_id
+        description: "Product Id"
+      - name: warehouse_id
+        description: "Warehouse Id"
+      - name: quantity_on_hand
+        description: "Quantity On Hand"
+      - name: quantity_reserved
+        description: "Quantity Reserved"
+      - name: quantity_available
+        description: "Quantity Available"
+      - name: reorder_point
+        description: "Reorder Point"
+      - name: last_restock_at
+        description: "Last Restock At"
+      - name: updated_at
+        description: "Updated At"
+
+  - name: stg_page_views
+    description: "Staged and cleaned page_views data"
+    config:
+      materialized: view
+    columns:
+      - name: page_view_id
+        description: "Page View Id"
+      - name: session_id
+        description: "Session Id"
+      - name: customer_id
+        description: "Customer Id"
+      - name: page_url
+        description: "Page Url"
+      - name: page_type
+        description: "Page Type"
+      - name: referrer
+        description: "Referrer"
+      - name: utm_source
+        description: "Utm Source"
+      - name: utm_medium
+        description: "Utm Medium"
+      - name: utm_campaign
+        description: "Utm Campaign"
+      - name: device_type
+        description: "Device Type"
+      - name: event_properties
+        description: "Event Properties"
+      - name: created_at
+        description: "Created At"
+
+  - name: stg_returns
+    description: "Staged and cleaned returns data"
+    config:
+      materialized: view
+    columns:
+      - name: return_id
+        description: "Return Id"
+      - name: order_id
+        description: "Order Id"
+      - name: customer_id
+        description: "Customer Id"
+      - name: reason
+        description: "Reason"
+      - name: refund_amount_cents
+        description: "Refund Amount Cents"
+      - name: status
+        description: "Status"
+      - name: requested_at
+        description: "Requested At"
+      - name: processed_at
+        description: "Processed At"
+
+  - name: stg_marketing_spend
+    description: "Staged and cleaned marketing_spend data"
+    config:
+      materialized: view
+    columns:
+      - name: spend_id
+        description: "Spend Id"
+      - name: campaign_name
+        description: "Campaign Name"
+      - name: channel
+        description: "Channel"
+      - name: spend_cents
+        description: "Spend Cents"
+      - name: impressions
+        description: "Impressions"
+      - name: clicks
+        description: "Clicks"
+      - name: conversions
+        description: "Conversions"
+      - name: date
+        description: "Date"
+
+  - name: stg_reviews
+    description: "Staged and cleaned reviews data"
+    config:
+      materialized: view
+    columns:
+      - name: review_id
+        description: "Review Id"
+      - name: product_id
+        description: "Product Id"
+      - name: customer_id
+        description: "Customer Id"
+      - name: rating
+        description: "Rating"
+      - name: title
+        description: "Title"
+      - name: body
+        description: "Body"
+      - name: is_verified_purchase
+        description: "Is Verified Purchase"
+      - name: helpful_votes
+        description: "Helpful Votes"
+      - name: created_at
+        description: "Created At"
+
+  - name: stg_warehouses
+    description: "Staged and cleaned warehouses data"
+    config:
+      materialized: view
+    columns:
+      - name: warehouse_id
+        description: "Warehouse Id"
+      - name: warehouse_name
+        description: "Warehouse Name"
+      - name: city
+        description: "City"
+      - name: state
+        description: "State"
+      - name: country
+        description: "Country"
+      - name: capacity_sqft
+        description: "Capacity Sqft"
+      - name: is_active
+        description: "Is Active"
+

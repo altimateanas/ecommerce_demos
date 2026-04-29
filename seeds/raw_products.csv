@@ -1,0 +1,1001 @@
+product_id,product_name,category,subcategory,cost_price_cents,retail_price_cents,weight_kg,sku,created_at
+PROD_00000001,Smartphones - Managed high-level application,Electronics,Smartphones,462,676,3.59,SKU-ELE-00001,2021-02-28
+PROD_00000002,Jackets - Vision-oriented incremental data-warehouse,Clothing,Jackets,475,762,0.54,SKU-CLO-00002,2023-07-23
+PROD_00000003,Headphones - Optional optimal solution,Electronics,Headphones,201,533,3.53,SKU-ELE-00003,2022-08-02
+PROD_00000004,Haircare - Synchronized multimedia Graphical User Interface,Beauty,Haircare,561,1375,7.61,SKU-BEA-00004,2021-05-14
+PROD_00000005,Puzzles - Cloned homogeneous knowledgebase,Toys,Puzzles,147,327,2.14,SKU-TOY-00005,2022-07-17
+PROD_00000006,Cameras - User-centric intangible projection,Electronics,Cameras,132,278,0.9,SKU-ELE-00006,2019-01-24
+PROD_00000007,Comics - Multi-lateral heuristic process improvement,Books,Comics,445,1276,1.91,SKU-BOO-00007,2024-03-01
+PROD_00000008,Smartphones - Secured web-enabled paradigm,Electronics,Smartphones,76,108,0.85,SKU-ELE-00008,2019-11-07
+PROD_00000009,Textbooks - Compatible radical implementation,Books,Textbooks,47,83,0.72,SKU-BOO-00009,2023-01-24
+PROD_00000010,Haircare - Open-source optimal intranet,Beauty,Haircare,687,1301,3.27,SKU-BEA-00010,2022-05-16
+PROD_00000011,Building Sets - Open-architected analyzing support,Toys,Building Sets,1151,3027,1.43,SKU-TOY-00011,2020-12-06
+PROD_00000012,Furniture - Enterprise-wide client-driven customer loyalty,Home & Garden,Furniture,252,752,5.5,SKU-HOM-00012,2022-09-21
+PROD_00000013,Activewear - Multi-tiered even-keeled function,Clothing,Activewear,206,352,1.06,SKU-CLO-00013,2020-02-26
+PROD_00000014,Cameras - Re-engineered tertiary orchestration,Electronics,Cameras,1102,3070,1.17,SKU-ELE-00014,2023-11-09
+PROD_00000015,Outdoor Gear - Monitored systemic benchmark,Sports,Outdoor Gear,128,347,0.94,SKU-SPO-00015,2025-06-26
+PROD_00000016,Jeans - Implemented disintermediate knowledge user,Clothing,Jeans,103,173,0.54,SKU-CLO-00016,2021-08-04
+PROD_00000017,Team Sports - Synchronized 24hour support,Sports,Team Sports,818,1618,3.72,SKU-SPO-00017,2022-04-01
+PROD_00000018,Smartwatches - Future-proofed dedicated software,Electronics,Smartwatches,407,812,14.67,SKU-ELE-00018,2024-01-09
+PROD_00000019,Comics - Function-based coherent frame,Books,Comics,1170,3466,1.12,SKU-BOO-00019,2023-04-14
+PROD_00000020,Fiction - Robust bi-directional instruction set,Books,Fiction,47,75,0.83,SKU-BOO-00020,2021-04-28
+PROD_00000021,Decor - Distributed intermediate customer loyalty,Home & Garden,Decor,99,263,0.78,SKU-HOM-00021,2023-05-09
+PROD_00000022,Decor - Decentralized modular Local Area Network,Home & Garden,Decor,409,764,0.84,SKU-HOM-00022,2022-08-11
+PROD_00000023,Kitchen - Phased well-modulated flexibility,Home & Garden,Kitchen,612,1555,8.58,SKU-HOM-00023,2024-09-20
+PROD_00000024,Garden Tools - Triple-buffered encompassing circuit,Home & Garden,Garden Tools,941,1895,0.8,SKU-HOM-00024,2024-05-01
+PROD_00000025,Jeans - Enterprise-wide client-server attitude,Clothing,Jeans,480,1095,0.92,SKU-CLO-00025,2022-08-01
+PROD_00000026,Running - Enterprise-wide systemic framework,Sports,Running,475,1289,0.48,SKU-SPO-00026,2020-01-22
+PROD_00000027,Gift Baskets - De-engineered secondary benchmark,Food & Gourmet,Gift Baskets,273,728,2.21,SKU-FOO-00027,2024-07-28
+PROD_00000028,Skincare - Universal optimizing matrices,Beauty,Skincare,1980,5490,1.54,SKU-BEA-00028,2022-03-07
+PROD_00000029,Outdoor Gear - Ergonomic multimedia array,Sports,Outdoor Gear,133,186,0.53,SKU-SPO-00029,2024-07-18
+PROD_00000030,Gift Baskets - Synchronized upward-trending website,Food & Gourmet,Gift Baskets,577,1428,0.68,SKU-FOO-00030,2020-12-16
+PROD_00000031,Makeup - Synergized object-oriented algorithm,Beauty,Makeup,150,230,7.64,SKU-BEA-00031,2020-03-01
+PROD_00000032,Makeup - Focused eco-centric intranet,Beauty,Makeup,688,1380,1.7,SKU-BEA-00032,2022-12-10
+PROD_00000033,Furniture - Expanded bi-directional knowledgebase,Home & Garden,Furniture,143,319,1.83,SKU-HOM-00033,2024-09-04
+PROD_00000034,Snacks - Inverse bandwidth-monitored alliance,Food & Gourmet,Snacks,848,1682,1.83,SKU-FOO-00034,2020-01-20
+PROD_00000035,Skincare - Switchable context-sensitive parallelism,Beauty,Skincare,451,984,6.65,SKU-BEA-00035,2019-02-25
+PROD_00000036,Textbooks - Multi-lateral needs-based encoding,Books,Textbooks,2309,6913,0.58,SKU-BOO-00036,2019-04-16
+PROD_00000037,Fragrance - Upgradable next generation Graphic Interface,Beauty,Fragrance,304,465,1.11,SKU-BEA-00037,2020-10-31
+PROD_00000038,Cameras - Advanced motivating support,Electronics,Cameras,617,1510,1.39,SKU-ELE-00038,2020-01-11
+PROD_00000039,Snacks - Expanded disintermediate concept,Food & Gourmet,Snacks,184,363,0.29,SKU-FOO-00039,2021-01-12
+PROD_00000040,Nail Care - Phased bandwidth-monitored algorithm,Beauty,Nail Care,302,460,0.66,SKU-BEA-00040,2021-08-24
+PROD_00000041,Textbooks - Innovative foreground database,Books,Textbooks,448,703,4.7,SKU-BOO-00041,2019-11-04
+PROD_00000042,Shoes - User-centric fresh-thinking array,Clothing,Shoes,87,253,3.53,SKU-CLO-00042,2024-11-08
+PROD_00000043,Textbooks - Extended foreground projection,Books,Textbooks,97,271,4.21,SKU-BOO-00043,2021-03-12
+PROD_00000044,Puzzles - Optimized upward-trending customer loyalty,Toys,Puzzles,734,2086,0.91,SKU-TOY-00044,2019-04-20
+PROD_00000045,Building Sets - Synergistic tertiary frame,Toys,Building Sets,348,1038,1.03,SKU-TOY-00045,2023-07-23
+PROD_00000046,Non-Fiction - Face-to-face asymmetric standardization,Books,Non-Fiction,222,367,0.28,SKU-BOO-00046,2019-12-06
+PROD_00000047,Coffee & Tea - Organic asynchronous portal,Food & Gourmet,Coffee & Tea,193,367,4.19,SKU-FOO-00047,2023-05-08
+PROD_00000048,Tablets - Synergistic responsive architecture,Electronics,Tablets,200,487,4.94,SKU-ELE-00048,2021-09-05
+PROD_00000049,Textbooks - Multi-tiered discrete workforce,Books,Textbooks,451,957,4.87,SKU-BOO-00049,2024-03-30
+PROD_00000050,Tablets - Exclusive well-modulated hardware,Electronics,Tablets,629,1265,8.2,SKU-ELE-00050,2019-06-17
+PROD_00000051,Haircare - Fundamental local product,Beauty,Haircare,49,93,2.51,SKU-BEA-00051,2020-07-10
+PROD_00000052,Makeup - Configurable tangible help-desk,Beauty,Makeup,1657,3826,7.82,SKU-BEA-00052,2021-06-23
+PROD_00000053,Jeans - Fundamental didactic encryption,Clothing,Jeans,1543,3515,1.35,SKU-CLO-00053,2019-04-15
+PROD_00000054,Tablets - Sharable scalable middleware,Electronics,Tablets,39,61,0.28,SKU-ELE-00054,2024-08-09
+PROD_00000055,Makeup - Down-sized fresh-thinking framework,Beauty,Makeup,1195,2511,3.9,SKU-BEA-00055,2025-01-06
+PROD_00000056,Headphones - Customer-focused mobile website,Electronics,Headphones,1158,2594,0.27,SKU-ELE-00056,2019-05-26
+PROD_00000057,Board Games - Open-source needs-based orchestration,Toys,Board Games,403,914,1.95,SKU-TOY-00057,2021-05-23
+PROD_00000058,Sauces - Digitized system-worthy service-desk,Food & Gourmet,Sauces,110,182,4.29,SKU-FOO-00058,2019-10-26
+PROD_00000059,Nail Care - Digitized 5thgeneration infrastructure,Beauty,Nail Care,1113,2851,2.28,SKU-BEA-00059,2023-10-03
+PROD_00000060,Women's Dresses - Quality-focused client-driven open system,Clothing,Women's Dresses,316,424,16.09,SKU-CLO-00060,2020-10-07
+PROD_00000061,Skincare - Stand-alone optimizing success,Beauty,Skincare,698,1328,0.23,SKU-BEA-00061,2020-09-29
+PROD_00000062,Outdoor Gear - Function-based global throughput,Sports,Outdoor Gear,3711,9746,1.52,SKU-SPO-00062,2025-04-05
+PROD_00000063,Outdoor Gear - Reactive system-worthy analyzer,Sports,Outdoor Gear,518,1169,1.68,SKU-SPO-00063,2021-02-22
+PROD_00000064,Team Sports - Enhanced multimedia framework,Sports,Team Sports,161,280,0.43,SKU-SPO-00064,2021-06-15
+PROD_00000065,Board Games - Monitored logistical capability,Toys,Board Games,288,714,0.52,SKU-TOY-00065,2020-01-06
+PROD_00000066,Fitness Equipment - Synergistic next generation instruction set,Sports,Fitness Equipment,183,414,0.71,SKU-SPO-00066,2020-05-01
+PROD_00000067,Bedding - Re-engineered systemic attitude,Home & Garden,Bedding,622,1650,0.55,SKU-HOM-00067,2024-07-30
+PROD_00000068,Tablets - Versatile non-volatile protocol,Electronics,Tablets,180,458,1.48,SKU-ELE-00068,2025-01-21
+PROD_00000069,Organic - Stand-alone multimedia artificial intelligence,Food & Gourmet,Organic,251,586,0.9,SKU-FOO-00069,2022-09-22
+PROD_00000070,Tablets - Optimized value-added conglomeration,Electronics,Tablets,111,236,2.27,SKU-ELE-00070,2019-07-11
+PROD_00000071,Smartphones - Multi-layered explicit policy,Electronics,Smartphones,353,538,3.16,SKU-ELE-00071,2020-12-30
+PROD_00000072,Activewear - Robust dedicated benchmark,Clothing,Activewear,481,838,2.95,SKU-CLO-00072,2025-03-11
+PROD_00000073,Makeup - Innovative fresh-thinking encryption,Beauty,Makeup,27,54,1.09,SKU-BEA-00073,2021-08-14
+PROD_00000074,Smartwatches - Upgradable intangible Graphical User Interface,Electronics,Smartwatches,522,1210,2.19,SKU-ELE-00074,2020-01-16
+PROD_00000075,Action Figures - Cross-platform dedicated data-warehouse,Toys,Action Figures,385,836,4.64,SKU-TOY-00075,2021-03-08
+PROD_00000076,Tablets - Programmable intermediate budgetary management,Electronics,Tablets,187,334,2.57,SKU-ELE-00076,2019-08-27
+PROD_00000077,Outdoor Gear - Face-to-face intangible Local Area Network,Sports,Outdoor Gear,3067,4020,10.58,SKU-SPO-00077,2022-01-10
+PROD_00000078,Makeup - Team-oriented explicit info-mediaries,Beauty,Makeup,1052,2255,4.4,SKU-BEA-00078,2022-10-18
+PROD_00000079,Furniture - Configurable intermediate attitude,Home & Garden,Furniture,134,239,9.19,SKU-HOM-00079,2025-02-27
+PROD_00000080,Action Figures - Optimized 24/7 functionalities,Toys,Action Figures,932,2375,0.14,SKU-TOY-00080,2023-03-08
+PROD_00000081,Laptops - Future-proofed disintermediate definition,Electronics,Laptops,1400,1876,1.82,SKU-ELE-00081,2023-07-26
+PROD_00000082,Non-Fiction - Organized systemic adapter,Books,Non-Fiction,460,1055,1.19,SKU-BOO-00082,2019-02-06
+PROD_00000083,Laptops - Polarized web-enabled secured line,Electronics,Laptops,579,1679,1.46,SKU-ELE-00083,2024-06-19
+PROD_00000084,Running - Team-oriented disintermediate implementation,Sports,Running,565,902,0.74,SKU-SPO-00084,2022-11-26
+PROD_00000085,Shoes - Phased attitude-oriented capacity,Clothing,Shoes,50,105,2.45,SKU-CLO-00085,2023-01-30
+PROD_00000086,Snacks - Proactive tangible firmware,Food & Gourmet,Snacks,334,486,0.27,SKU-FOO-00086,2022-05-09
+PROD_00000087,Women's Dresses - Polarized 24hour instruction set,Clothing,Women's Dresses,317,749,2.47,SKU-CLO-00087,2024-07-15
+PROD_00000088,Jeans - Robust web-enabled hub,Clothing,Jeans,1686,3769,0.76,SKU-CLO-00088,2021-04-12
+PROD_00000089,Cycling - Front-line asynchronous conglomeration,Sports,Cycling,563,1121,1.0,SKU-SPO-00089,2020-08-19
+PROD_00000090,Organic - Customer-focused logistical utilization,Food & Gourmet,Organic,299,653,2.56,SKU-FOO-00090,2020-11-30
+PROD_00000091,Kitchen - Progressive zero administration policy,Home & Garden,Kitchen,368,1039,1.78,SKU-HOM-00091,2023-07-05
+PROD_00000092,Bedding - Innovative 24hour protocol,Home & Garden,Bedding,1122,1833,4.73,SKU-HOM-00092,2024-07-11
+PROD_00000093,Action Figures - Synergized human-resource process improvement,Toys,Action Figures,335,448,0.63,SKU-TOY-00093,2020-03-16
+PROD_00000094,Gift Baskets - Visionary local challenge,Food & Gourmet,Gift Baskets,200,552,1.52,SKU-FOO-00094,2024-02-04
+PROD_00000095,Makeup - Right-sized interactive knowledge user,Beauty,Makeup,306,698,4.01,SKU-BEA-00095,2023-06-29
+PROD_00000096,Building Sets - Digitized actuating flexibility,Toys,Building Sets,1033,2906,2.37,SKU-TOY-00096,2023-03-10
+PROD_00000097,Textbooks - Cross-group neutral Internet solution,Books,Textbooks,662,1532,2.52,SKU-BOO-00097,2025-06-25
+PROD_00000098,Comics - Down-sized reciprocal customer loyalty,Books,Comics,421,1127,4.99,SKU-BOO-00098,2021-12-30
+PROD_00000099,Building Sets - Cloned reciprocal system engine,Toys,Building Sets,488,990,1.1,SKU-TOY-00099,2020-07-21
+PROD_00000100,Haircare - Customer-focused secondary implementation,Beauty,Haircare,230,592,0.89,SKU-BEA-00100,2019-08-24
+PROD_00000101,Fitness Equipment - Organic neutral product,Sports,Fitness Equipment,332,946,2.93,SKU-SPO-00101,2022-07-28
+PROD_00000102,Coffee & Tea - Organized foreground synergy,Food & Gourmet,Coffee & Tea,207,470,1.42,SKU-FOO-00102,2022-03-31
+PROD_00000103,Makeup - Team-oriented next generation info-mediaries,Beauty,Makeup,300,482,5.06,SKU-BEA-00103,2021-10-29
+PROD_00000104,Laptops - Team-oriented empowering matrix,Electronics,Laptops,1550,2723,2.39,SKU-ELE-00104,2024-10-08
+PROD_00000105,Smartwatches - Fundamental 24/7 time-frame,Electronics,Smartwatches,137,224,0.88,SKU-ELE-00105,2024-01-15
+PROD_00000106,Lighting - Customizable real-time circuit,Home & Garden,Lighting,202,347,2.31,SKU-HOM-00106,2019-08-13
+PROD_00000107,Laptops - Sharable high-level hardware,Electronics,Laptops,115,209,0.67,SKU-ELE-00107,2024-01-17
+PROD_00000108,Haircare - Fully-configurable bottom-line knowledge user,Beauty,Haircare,92,206,4.25,SKU-BEA-00108,2020-08-04
+PROD_00000109,Textbooks - Managed fresh-thinking website,Books,Textbooks,334,768,0.41,SKU-BOO-00109,2019-06-18
+PROD_00000110,Action Figures - Adaptive empowering infrastructure,Toys,Action Figures,217,439,5.6,SKU-TOY-00110,2023-01-05
+PROD_00000111,Kitchen - Customer-focused intermediate budgetary management,Home & Garden,Kitchen,2348,5508,2.27,SKU-HOM-00111,2019-01-14
+PROD_00000112,Bedding - Implemented tertiary emulation,Home & Garden,Bedding,304,437,1.4,SKU-HOM-00112,2025-01-20
+PROD_00000113,Team Sports - Quality-focused upward-trending flexibility,Sports,Team Sports,1464,2121,3.54,SKU-SPO-00113,2022-12-14
+PROD_00000114,Lighting - Business-focused discrete portal,Home & Garden,Lighting,1062,1690,2.75,SKU-HOM-00114,2024-02-14
+PROD_00000115,Jackets - Persistent clear-thinking implementation,Clothing,Jackets,327,713,6.24,SKU-CLO-00115,2023-03-24
+PROD_00000116,Skincare - Polarized global forecast,Beauty,Skincare,3328,5537,6.18,SKU-BEA-00116,2023-08-17
+PROD_00000117,Nail Care - Monitored leadingedge instruction set,Beauty,Nail Care,527,938,2.35,SKU-BEA-00117,2023-04-21
+PROD_00000118,Fitness Equipment - Reverse-engineered responsive approach,Sports,Fitness Equipment,1831,3626,0.69,SKU-SPO-00118,2021-11-17
+PROD_00000119,Board Games - Reduced explicit array,Toys,Board Games,1630,4368,0.96,SKU-TOY-00119,2023-09-28
+PROD_00000120,Jackets - Fundamental clear-thinking help-desk,Clothing,Jackets,610,807,1.53,SKU-CLO-00120,2020-03-21
+PROD_00000121,Fragrance - Switchable web-enabled approach,Beauty,Fragrance,855,2055,4.86,SKU-BEA-00121,2020-12-16
+PROD_00000122,Jeans - Seamless heuristic infrastructure,Clothing,Jeans,753,1835,1.04,SKU-CLO-00122,2021-03-29
+PROD_00000123,Team Sports - Exclusive incremental service-desk,Sports,Team Sports,128,340,1.14,SKU-SPO-00123,2024-11-21
+PROD_00000124,Kitchen - Upgradable analyzing data-warehouse,Home & Garden,Kitchen,427,1232,10.47,SKU-HOM-00124,2020-03-01
+PROD_00000125,Garden Tools - Profound full-range project,Home & Garden,Garden Tools,1181,1575,1.49,SKU-HOM-00125,2022-01-29
+PROD_00000126,Cameras - Inverse cohesive middleware,Electronics,Cameras,1856,2898,0.87,SKU-ELE-00126,2023-04-14
+PROD_00000127,Tablets - Versatile multi-state contingency,Electronics,Tablets,196,550,3.58,SKU-ELE-00127,2021-04-29
+PROD_00000128,Organic - Ergonomic bifurcated database,Food & Gourmet,Organic,684,1422,1.56,SKU-FOO-00128,2023-03-26
+PROD_00000129,Sauces - Distributed regional process improvement,Food & Gourmet,Sauces,469,1059,0.41,SKU-FOO-00129,2022-02-03
+PROD_00000130,Cycling - Optimized mobile migration,Sports,Cycling,358,868,4.67,SKU-SPO-00130,2023-08-30
+PROD_00000131,Children's - Extended fault-tolerant customer loyalty,Books,Children's,575,1411,0.78,SKU-BOO-00131,2024-06-24
+PROD_00000132,Snacks - Multi-channeled national standardization,Food & Gourmet,Snacks,501,1444,1.72,SKU-FOO-00132,2019-10-04
+PROD_00000133,Haircare - Synergized static hierarchy,Beauty,Haircare,693,2075,1.54,SKU-BEA-00133,2023-12-12
+PROD_00000134,Fiction - Secured optimal benchmark,Books,Fiction,1705,4303,2.08,SKU-BOO-00134,2025-02-13
+PROD_00000135,Dolls - Robust maximized time-frame,Toys,Dolls,883,1579,0.18,SKU-TOY-00135,2024-04-23
+PROD_00000136,Dolls - Persistent incremental encryption,Toys,Dolls,550,1537,1.18,SKU-TOY-00136,2024-11-22
+PROD_00000137,Running - Profound high-level migration,Sports,Running,2603,3601,5.08,SKU-SPO-00137,2020-06-29
+PROD_00000138,Jackets - Object-based tertiary website,Clothing,Jackets,1224,2072,5.84,SKU-CLO-00138,2019-04-20
+PROD_00000139,Makeup - Switchable object-oriented circuit,Beauty,Makeup,367,1036,0.61,SKU-BEA-00139,2020-06-28
+PROD_00000140,Puzzles - Digitized full-range structure,Toys,Puzzles,119,206,4.14,SKU-TOY-00140,2021-01-12
+PROD_00000141,Puzzles - Stand-alone tangible flexibility,Toys,Puzzles,150,251,0.77,SKU-TOY-00141,2025-06-22
+PROD_00000142,Fitness Equipment - Focused mobile solution,Sports,Fitness Equipment,1025,1573,1.13,SKU-SPO-00142,2022-07-13
+PROD_00000143,Furniture - Open-source dedicated instruction set,Home & Garden,Furniture,214,590,1.19,SKU-HOM-00143,2024-02-19
+PROD_00000144,Skincare - Open-architected context-sensitive middleware,Beauty,Skincare,147,316,1.84,SKU-BEA-00144,2021-12-24
+PROD_00000145,Makeup - Proactive bandwidth-monitored archive,Beauty,Makeup,189,462,4.49,SKU-BEA-00145,2019-11-29
+PROD_00000146,Shoes - Persistent bifurcated workforce,Clothing,Shoes,202,344,2.15,SKU-CLO-00146,2023-03-17
+PROD_00000147,Comics - Optional holistic data-warehouse,Books,Comics,944,2443,1.45,SKU-BOO-00147,2022-03-02
+PROD_00000148,Decor - Sharable global policy,Home & Garden,Decor,344,891,4.34,SKU-HOM-00148,2020-08-14
+PROD_00000149,Nail Care - Versatile full-range hardware,Beauty,Nail Care,102,186,0.74,SKU-BEA-00149,2021-02-21
+PROD_00000150,Cameras - Ergonomic real-time flexibility,Electronics,Cameras,416,831,1.53,SKU-ELE-00150,2020-06-23
+PROD_00000151,Non-Fiction - Multi-layered actuating interface,Books,Non-Fiction,503,833,4.46,SKU-BOO-00151,2023-04-08
+PROD_00000152,Children's - Synchronized non-volatile model,Books,Children's,249,737,2.8,SKU-BOO-00152,2023-02-28
+PROD_00000153,Fragrance - Seamless global middleware,Beauty,Fragrance,1281,3071,1.03,SKU-BEA-00153,2020-09-10
+PROD_00000154,Headphones - Vision-oriented stable capacity,Electronics,Headphones,264,762,0.36,SKU-ELE-00154,2024-01-08
+PROD_00000155,Jackets - Robust empowering monitoring,Clothing,Jackets,1222,2218,2.25,SKU-CLO-00155,2021-09-18
+PROD_00000156,Skincare - Open-source disintermediate toolset,Beauty,Skincare,732,1924,0.34,SKU-BEA-00156,2024-11-16
+PROD_00000157,Outdoor Gear - Centralized real-time orchestration,Sports,Outdoor Gear,1019,2651,1.33,SKU-SPO-00157,2025-06-22
+PROD_00000158,Children's - Upgradable maximized strategy,Books,Children's,134,331,5.36,SKU-BOO-00158,2024-12-10
+PROD_00000159,Fragrance - Distributed multi-state groupware,Beauty,Fragrance,445,1309,2.99,SKU-BEA-00159,2023-06-05
+PROD_00000160,Non-Fiction - Inverse system-worthy product,Books,Non-Fiction,382,752,0.22,SKU-BOO-00160,2023-02-27
+PROD_00000161,Gift Baskets - Grass-roots bottom-line knowledge user,Food & Gourmet,Gift Baskets,97,147,2.01,SKU-FOO-00161,2020-06-05
+PROD_00000162,Makeup - Reduced demand-driven standardization,Beauty,Makeup,1218,2974,1.2,SKU-BEA-00162,2021-07-05
+PROD_00000163,Fiction - Visionary reciprocal framework,Books,Fiction,178,452,0.46,SKU-BOO-00163,2020-12-17
+PROD_00000164,Team Sports - Face-to-face attitude-oriented function,Sports,Team Sports,219,498,2.3,SKU-SPO-00164,2025-06-20
+PROD_00000165,Makeup - Re-contextualized tertiary capability,Beauty,Makeup,146,241,1.01,SKU-BEA-00165,2024-04-20
+PROD_00000166,Headphones - Fundamental cohesive archive,Electronics,Headphones,813,1754,1.01,SKU-ELE-00166,2020-07-13
+PROD_00000167,Board Games - Multi-channeled eco-centric function,Toys,Board Games,87,159,1.87,SKU-TOY-00167,2021-08-26
+PROD_00000168,Jeans - Up-sized 5thgeneration paradigm,Clothing,Jeans,748,1515,0.88,SKU-CLO-00168,2021-12-13
+PROD_00000169,Smartwatches - Open-architected maximized info-mediaries,Electronics,Smartwatches,1146,2746,1.81,SKU-ELE-00169,2021-06-08
+PROD_00000170,Tablets - Digitized fault-tolerant circuit,Electronics,Tablets,690,1771,0.91,SKU-ELE-00170,2021-03-03
+PROD_00000171,Haircare - Reactive high-level methodology,Beauty,Haircare,822,1393,0.96,SKU-BEA-00171,2025-05-01
+PROD_00000172,Children's - Fundamental 5thgeneration function,Books,Children's,862,1714,4.45,SKU-BOO-00172,2021-09-08
+PROD_00000173,Furniture - Ameliorated zero-defect hub,Home & Garden,Furniture,156,274,4.93,SKU-HOM-00173,2021-03-12
+PROD_00000174,Nail Care - Diverse value-added secured line,Beauty,Nail Care,1693,2772,0.3,SKU-BEA-00174,2019-02-12
+PROD_00000175,Coffee & Tea - Team-oriented mobile productivity,Food & Gourmet,Coffee & Tea,254,668,3.48,SKU-FOO-00175,2023-05-29
+PROD_00000176,Jeans - Team-oriented maximized utilization,Clothing,Jeans,377,1072,6.68,SKU-CLO-00176,2023-11-13
+PROD_00000177,Organic - Ameliorated dedicated hub,Food & Gourmet,Organic,289,557,7.83,SKU-FOO-00177,2019-12-16
+PROD_00000178,Action Figures - Function-based maximized Internet solution,Toys,Action Figures,659,1698,2.77,SKU-TOY-00178,2023-04-17
+PROD_00000179,Fragrance - Multi-tiered discrete application,Beauty,Fragrance,235,663,0.57,SKU-BEA-00179,2022-02-03
+PROD_00000180,Headphones - Organized stable intranet,Electronics,Headphones,431,1180,3.1,SKU-ELE-00180,2024-08-10
+PROD_00000181,Makeup - Re-engineered real-time matrix,Beauty,Makeup,117,188,0.69,SKU-BEA-00181,2023-11-16
+PROD_00000182,Smartwatches - Inverse asynchronous secured line,Electronics,Smartwatches,1292,3779,1.17,SKU-ELE-00182,2020-08-06
+PROD_00000183,Dolls - Stand-alone 24hour paradigm,Toys,Dolls,788,1528,2.42,SKU-TOY-00183,2020-03-07
+PROD_00000184,Furniture - Assimilated hybrid strategy,Home & Garden,Furniture,301,564,0.74,SKU-HOM-00184,2024-04-16
+PROD_00000185,Running - Streamlined heuristic throughput,Sports,Running,252,354,0.52,SKU-SPO-00185,2024-10-01
+PROD_00000186,Textbooks - Cross-platform regional forecast,Books,Textbooks,768,1633,2.63,SKU-BOO-00186,2022-09-10
+PROD_00000187,Textbooks - Ameliorated mobile concept,Books,Textbooks,198,294,10.67,SKU-BOO-00187,2025-01-03
+PROD_00000188,Skincare - Focused even-keeled workforce,Beauty,Skincare,457,787,5.72,SKU-BEA-00188,2024-07-23
+PROD_00000189,Action Figures - Open-source bi-directional hierarchy,Toys,Action Figures,1288,2368,3.34,SKU-TOY-00189,2022-04-04
+PROD_00000190,Lighting - Up-sized 6thgeneration flexibility,Home & Garden,Lighting,179,478,4.39,SKU-HOM-00190,2022-03-08
+PROD_00000191,Outdoor Gear - Decentralized transitional support,Sports,Outdoor Gear,583,1625,3.12,SKU-SPO-00191,2019-10-26
+PROD_00000192,Furniture - Cloned modular application,Home & Garden,Furniture,553,1003,2.59,SKU-HOM-00192,2024-04-23
+PROD_00000193,Children's - Profound coherent open system,Books,Children's,366,1010,4.05,SKU-BOO-00193,2021-02-27
+PROD_00000194,Bedding - Distributed client-driven application,Home & Garden,Bedding,243,670,0.42,SKU-HOM-00194,2021-04-29
+PROD_00000195,Kitchen - Reverse-engineered client-server functionalities,Home & Garden,Kitchen,1359,3533,2.01,SKU-HOM-00195,2025-02-03
+PROD_00000196,Organic - Cross-group web-enabled standardization,Food & Gourmet,Organic,221,342,1.52,SKU-FOO-00196,2022-10-09
+PROD_00000197,Team Sports - Expanded regional algorithm,Sports,Team Sports,65,160,1.78,SKU-SPO-00197,2022-03-23
+PROD_00000198,Garden Tools - Adaptive context-sensitive paradigm,Home & Garden,Garden Tools,765,2223,1.04,SKU-HOM-00198,2024-05-03
+PROD_00000199,Puzzles - Team-oriented heuristic analyzer,Toys,Puzzles,121,297,2.77,SKU-TOY-00199,2021-05-27
+PROD_00000200,Skincare - Cloned zero tolerance support,Beauty,Skincare,805,1500,0.73,SKU-BEA-00200,2022-02-12
+PROD_00000201,Smartwatches - Cross-group exuding intranet,Electronics,Smartwatches,1532,3295,0.97,SKU-ELE-00201,2023-04-27
+PROD_00000202,Shoes - Function-based systematic knowledge user,Clothing,Shoes,757,1815,0.86,SKU-CLO-00202,2023-07-05
+PROD_00000203,Action Figures - Enhanced reciprocal orchestration,Toys,Action Figures,1177,2551,3.91,SKU-TOY-00203,2024-03-18
+PROD_00000204,Garden Tools - Centralized tertiary hardware,Home & Garden,Garden Tools,3041,4573,1.63,SKU-HOM-00204,2022-10-14
+PROD_00000205,Bedding - Multi-layered fresh-thinking capacity,Home & Garden,Bedding,1060,1940,1.04,SKU-HOM-00205,2019-05-25
+PROD_00000206,Jeans - Front-line mission-critical middleware,Clothing,Jeans,561,1494,1.13,SKU-CLO-00206,2025-05-11
+PROD_00000207,Cameras - Ergonomic system-worthy process improvement,Electronics,Cameras,2067,5714,1.66,SKU-ELE-00207,2022-04-17
+PROD_00000208,Nail Care - Assimilated eco-centric pricing structure,Beauty,Nail Care,2332,3575,8.35,SKU-BEA-00208,2024-02-05
+PROD_00000209,Action Figures - Proactive grid-enabled matrices,Toys,Action Figures,2365,6903,0.48,SKU-TOY-00209,2024-01-29
+PROD_00000210,Lighting - Total zero administration frame,Home & Garden,Lighting,246,457,3.24,SKU-HOM-00210,2024-02-10
+PROD_00000211,Action Figures - Intuitive homogeneous moratorium,Toys,Action Figures,104,252,2.64,SKU-TOY-00211,2022-01-03
+PROD_00000212,Haircare - Horizontal executive challenge,Beauty,Haircare,232,598,0.68,SKU-BEA-00212,2022-02-25
+PROD_00000213,Building Sets - Multi-tiered discrete customer loyalty,Toys,Building Sets,815,2184,7.15,SKU-TOY-00213,2023-10-01
+PROD_00000214,Comics - Expanded dynamic time-frame,Books,Comics,473,1375,2.83,SKU-BOO-00214,2020-07-21
+PROD_00000215,Cycling - Sharable next generation moratorium,Sports,Cycling,328,600,0.99,SKU-SPO-00215,2023-12-19
+PROD_00000216,Snacks - Integrated upward-trending instruction set,Food & Gourmet,Snacks,706,1948,0.26,SKU-FOO-00216,2020-06-14
+PROD_00000217,Fiction - Mandatory asymmetric orchestration,Books,Fiction,92,140,2.07,SKU-BOO-00217,2025-01-15
+PROD_00000218,Snacks - Balanced demand-driven structure,Food & Gourmet,Snacks,464,1159,1.58,SKU-FOO-00218,2023-04-11
+PROD_00000219,Organic - Implemented next generation customer loyalty,Food & Gourmet,Organic,1234,3160,0.59,SKU-FOO-00219,2020-11-11
+PROD_00000220,Smartwatches - Business-focused next generation challenge,Electronics,Smartwatches,698,1711,0.58,SKU-ELE-00220,2024-09-01
+PROD_00000221,Decor - Implemented background database,Home & Garden,Decor,805,1391,3.93,SKU-HOM-00221,2021-12-06
+PROD_00000222,Furniture - Balanced bottom-line interface,Home & Garden,Furniture,1992,5546,0.23,SKU-HOM-00222,2020-12-29
+PROD_00000223,Garden Tools - Business-focused impactful protocol,Home & Garden,Garden Tools,377,598,2.26,SKU-HOM-00223,2023-09-26
+PROD_00000224,Fiction - Visionary eco-centric protocol,Books,Fiction,209,290,1.37,SKU-BOO-00224,2024-12-31
+PROD_00000225,Haircare - User-centric empowering website,Beauty,Haircare,1325,3338,2.71,SKU-BEA-00225,2020-10-29
+PROD_00000226,Fragrance - Reduced 6thgeneration customer loyalty,Beauty,Fragrance,1301,2742,1.23,SKU-BEA-00226,2023-06-01
+PROD_00000227,Coffee & Tea - Multi-lateral scalable synergy,Food & Gourmet,Coffee & Tea,705,1934,2.21,SKU-FOO-00227,2020-11-11
+PROD_00000228,Tablets - Re-contextualized dynamic frame,Electronics,Tablets,343,669,0.78,SKU-ELE-00228,2021-08-30
+PROD_00000229,Fiction - Decentralized mobile software,Books,Fiction,403,639,1.57,SKU-BOO-00229,2024-11-02
+PROD_00000230,Gift Baskets - Polarized user-facing product,Food & Gourmet,Gift Baskets,112,304,2.69,SKU-FOO-00230,2021-04-06
+PROD_00000231,Fiction - Ergonomic demand-driven forecast,Books,Fiction,1227,2740,1.92,SKU-BOO-00231,2019-10-24
+PROD_00000232,Organic - Universal systemic projection,Food & Gourmet,Organic,1185,1921,2.41,SKU-FOO-00232,2022-06-07
+PROD_00000233,Bedding - Focused web-enabled strategy,Home & Garden,Bedding,108,272,0.65,SKU-HOM-00233,2024-11-22
+PROD_00000234,Coffee & Tea - Self-enabling 6thgeneration task-force,Food & Gourmet,Coffee & Tea,960,2082,0.91,SKU-FOO-00234,2023-09-25
+PROD_00000235,Running - Triple-buffered logistical budgetary management,Sports,Running,604,1405,0.93,SKU-SPO-00235,2024-07-17
+PROD_00000236,Cycling - Reactive uniform collaboration,Sports,Cycling,145,302,1.25,SKU-SPO-00236,2019-11-26
+PROD_00000237,Team Sports - Cross-platform responsive monitoring,Sports,Team Sports,120,325,6.41,SKU-SPO-00237,2022-03-01
+PROD_00000238,Skincare - Diverse background website,Beauty,Skincare,586,1588,1.16,SKU-BEA-00238,2024-03-05
+PROD_00000239,Running - Networked static adapter,Sports,Running,271,679,0.53,SKU-SPO-00239,2020-01-17
+PROD_00000240,Tablets - Optional static core,Electronics,Tablets,2489,3681,2.83,SKU-ELE-00240,2024-12-25
+PROD_00000241,Cameras - Re-contextualized composite definition,Electronics,Cameras,1045,2848,6.34,SKU-ELE-00241,2021-04-22
+PROD_00000242,Furniture - Cloned multi-tasking implementation,Home & Garden,Furniture,647,1579,0.47,SKU-HOM-00242,2025-05-06
+PROD_00000243,Men's Shirts - Persistent scalable secured line,Clothing,Men's Shirts,680,1689,11.86,SKU-CLO-00243,2020-01-31
+PROD_00000244,Gift Baskets - Programmable bifurcated service-desk,Food & Gourmet,Gift Baskets,1526,2925,2.5,SKU-FOO-00244,2020-03-25
+PROD_00000245,Building Sets - Configurable stable workforce,Toys,Building Sets,940,2627,4.64,SKU-TOY-00245,2022-09-16
+PROD_00000246,Textbooks - Assimilated needs-based website,Books,Textbooks,664,1681,7.15,SKU-BOO-00246,2024-06-09
+PROD_00000247,Fiction - Centralized coherent encoding,Books,Fiction,151,225,4.36,SKU-BOO-00247,2022-08-01
+PROD_00000248,Kitchen - Quality-focused next generation encoding,Home & Garden,Kitchen,8620,17181,1.48,SKU-HOM-00248,2022-07-21
+PROD_00000249,Nail Care - Open-architected object-oriented software,Beauty,Nail Care,133,373,5.57,SKU-BEA-00249,2024-08-29
+PROD_00000250,Comics - Polarized 24hour throughput,Books,Comics,295,407,2.13,SKU-BOO-00250,2025-04-05
+PROD_00000251,Garden Tools - Synergistic client-driven website,Home & Garden,Garden Tools,77,225,4.91,SKU-HOM-00251,2022-07-17
+PROD_00000252,Skincare - Synchronized heuristic knowledge user,Beauty,Skincare,691,1696,5.47,SKU-BEA-00252,2024-01-24
+PROD_00000253,Team Sports - Robust foreground encoding,Sports,Team Sports,469,1113,0.55,SKU-SPO-00253,2019-07-05
+PROD_00000254,Fragrance - Multi-channeled interactive function,Beauty,Fragrance,867,1525,3.65,SKU-BEA-00254,2022-05-18
+PROD_00000255,Fragrance - Future-proofed stable architecture,Beauty,Fragrance,70,120,1.37,SKU-BEA-00255,2022-12-08
+PROD_00000256,Textbooks - Cloned real-time projection,Books,Textbooks,1227,3560,1.89,SKU-BOO-00256,2019-09-10
+PROD_00000257,Team Sports - Synergized content-based hardware,Sports,Team Sports,179,323,1.87,SKU-SPO-00257,2019-01-19
+PROD_00000258,Textbooks - Implemented zero-defect knowledge user,Books,Textbooks,347,908,1.8,SKU-BOO-00258,2022-03-05
+PROD_00000259,Women's Dresses - Team-oriented contextually-based model,Clothing,Women's Dresses,1024,2015,7.56,SKU-CLO-00259,2019-08-11
+PROD_00000260,Furniture - Object-based dynamic parallelism,Home & Garden,Furniture,523,803,0.42,SKU-HOM-00260,2019-01-03
+PROD_00000261,Smartwatches - Re-contextualized tangible infrastructure,Electronics,Smartwatches,562,740,0.29,SKU-ELE-00261,2022-06-13
+PROD_00000262,Fiction - Diverse fault-tolerant workforce,Books,Fiction,897,1996,0.24,SKU-BOO-00262,2021-05-03
+PROD_00000263,Men's Shirts - Ameliorated stable complexity,Clothing,Men's Shirts,619,1831,4.8,SKU-CLO-00263,2023-01-28
+PROD_00000264,Cycling - Focused motivating standardization,Sports,Cycling,286,551,0.76,SKU-SPO-00264,2019-08-16
+PROD_00000265,Non-Fiction - Fundamental regional circuit,Books,Non-Fiction,341,650,1.88,SKU-BOO-00265,2023-08-05
+PROD_00000266,Bedding - Centralized directional archive,Home & Garden,Bedding,498,938,1.47,SKU-HOM-00266,2020-05-13
+PROD_00000267,Makeup - Phased scalable hardware,Beauty,Makeup,164,358,0.68,SKU-BEA-00267,2024-02-29
+PROD_00000268,Smartphones - Secured asynchronous firmware,Electronics,Smartphones,1092,2237,3.86,SKU-ELE-00268,2024-07-08
+PROD_00000269,Running - Inverse 24/7 portal,Sports,Running,538,1504,1.45,SKU-SPO-00269,2022-03-08
+PROD_00000270,Headphones - Balanced radical project,Electronics,Headphones,434,937,1.3,SKU-ELE-00270,2022-07-23
+PROD_00000271,Sauces - Assimilated solution-oriented core,Food & Gourmet,Sauces,1329,2874,2.08,SKU-FOO-00271,2025-05-27
+PROD_00000272,Gift Baskets - Secured systematic hierarchy,Food & Gourmet,Gift Baskets,357,548,3.39,SKU-FOO-00272,2021-12-12
+PROD_00000273,Skincare - Visionary mission-critical challenge,Beauty,Skincare,336,998,0.63,SKU-BEA-00273,2020-12-15
+PROD_00000274,Running - Programmable homogeneous pricing structure,Sports,Running,248,427,3.95,SKU-SPO-00274,2021-08-05
+PROD_00000275,Fiction - Front-line reciprocal Graphical User Interface,Books,Fiction,568,809,7.03,SKU-BOO-00275,2021-05-19
+PROD_00000276,Fiction - Front-line object-oriented productivity,Books,Fiction,549,1332,0.4,SKU-BOO-00276,2021-12-06
+PROD_00000277,Children's - Cross-group 4thgeneration info-mediaries,Books,Children's,207,478,2.18,SKU-BOO-00277,2019-04-04
+PROD_00000278,Fragrance - Universal mission-critical definition,Beauty,Fragrance,337,675,1.22,SKU-BEA-00278,2020-07-13
+PROD_00000279,Laptops - Face-to-face didactic model,Electronics,Laptops,208,419,3.32,SKU-ELE-00279,2023-11-11
+PROD_00000280,Dolls - Enterprise-wide leadingedge info-mediaries,Toys,Dolls,199,524,0.49,SKU-TOY-00280,2025-03-10
+PROD_00000281,Fitness Equipment - Intuitive didactic task-force,Sports,Fitness Equipment,71,115,8.41,SKU-SPO-00281,2020-03-11
+PROD_00000282,Coffee & Tea - Implemented needs-based secured line,Food & Gourmet,Coffee & Tea,320,862,0.33,SKU-FOO-00282,2021-05-01
+PROD_00000283,Garden Tools - Business-focused context-sensitive solution,Home & Garden,Garden Tools,73,175,1.29,SKU-HOM-00283,2019-07-24
+PROD_00000284,Fiction - Innovative object-oriented info-mediaries,Books,Fiction,253,509,2.55,SKU-BOO-00284,2022-01-04
+PROD_00000285,Tablets - Object-based multi-state pricing structure,Electronics,Tablets,218,453,0.83,SKU-ELE-00285,2019-03-18
+PROD_00000286,Smartphones - Re-engineered tertiary concept,Electronics,Smartphones,1155,2005,0.71,SKU-ELE-00286,2021-03-26
+PROD_00000287,Tablets - Front-line next generation hierarchy,Electronics,Tablets,146,376,2.06,SKU-ELE-00287,2021-02-06
+PROD_00000288,Bedding - Reactive grid-enabled success,Home & Garden,Bedding,188,408,1.78,SKU-HOM-00288,2019-04-16
+PROD_00000289,Action Figures - Managed user-facing contingency,Toys,Action Figures,275,507,1.66,SKU-TOY-00289,2024-11-05
+PROD_00000290,Dolls - Assimilated asynchronous ability,Toys,Dolls,225,520,3.89,SKU-TOY-00290,2023-10-13
+PROD_00000291,Sauces - Synergized bifurcated productivity,Food & Gourmet,Sauces,1586,4746,1.11,SKU-FOO-00291,2023-01-05
+PROD_00000292,Children's - Total system-worthy workforce,Books,Children's,129,263,2.27,SKU-BOO-00292,2019-09-02
+PROD_00000293,Decor - Synergized high-level service-desk,Home & Garden,Decor,276,790,0.99,SKU-HOM-00293,2022-11-06
+PROD_00000294,Dolls - Integrated exuding time-frame,Toys,Dolls,562,1060,0.71,SKU-TOY-00294,2021-09-08
+PROD_00000295,Cameras - Integrated neutral function,Electronics,Cameras,973,1355,1.24,SKU-ELE-00295,2023-10-03
+PROD_00000296,Lighting - Pre-emptive radical circuit,Home & Garden,Lighting,275,452,1.0,SKU-HOM-00296,2019-05-22
+PROD_00000297,Gift Baskets - Adaptive local flexibility,Food & Gourmet,Gift Baskets,59,118,1.05,SKU-FOO-00297,2021-06-11
+PROD_00000298,Running - Centralized high-level benchmark,Sports,Running,347,580,5.29,SKU-SPO-00298,2022-10-23
+PROD_00000299,Nail Care - Upgradable system-worthy neural-net,Beauty,Nail Care,1559,2027,1.28,SKU-BEA-00299,2020-06-28
+PROD_00000300,Snacks - Persistent 24/7 core,Food & Gourmet,Snacks,534,1524,0.85,SKU-FOO-00300,2025-01-08
+PROD_00000301,Outdoor Gear - Synergistic client-driven concept,Sports,Outdoor Gear,511,1397,1.7,SKU-SPO-00301,2023-01-09
+PROD_00000302,Building Sets - Customer-focused uniform projection,Toys,Building Sets,139,356,1.83,SKU-TOY-00302,2021-02-01
+PROD_00000303,Activewear - Organized logistical groupware,Clothing,Activewear,125,198,0.5,SKU-CLO-00303,2020-09-15
+PROD_00000304,Snacks - Seamless reciprocal application,Food & Gourmet,Snacks,410,616,1.22,SKU-FOO-00304,2020-10-17
+PROD_00000305,Garden Tools - Devolved grid-enabled time-frame,Home & Garden,Garden Tools,96,135,1.18,SKU-HOM-00305,2022-06-01
+PROD_00000306,Dolls - Function-based value-added product,Toys,Dolls,881,2229,1.39,SKU-TOY-00306,2019-02-12
+PROD_00000307,Action Figures - Right-sized multi-tasking encoding,Toys,Action Figures,173,498,3.41,SKU-TOY-00307,2025-04-30
+PROD_00000308,Building Sets - Re-engineered asynchronous algorithm,Toys,Building Sets,393,798,1.89,SKU-TOY-00308,2021-10-23
+PROD_00000309,Women's Dresses - Expanded context-sensitive ability,Clothing,Women's Dresses,61,91,5.63,SKU-CLO-00309,2023-07-19
+PROD_00000310,Jackets - Team-oriented even-keeled benchmark,Clothing,Jackets,272,590,1.63,SKU-CLO-00310,2022-07-15
+PROD_00000311,Fiction - Up-sized actuating emulation,Books,Fiction,123,232,9.74,SKU-BOO-00311,2020-08-18
+PROD_00000312,Building Sets - Sharable mobile capacity,Toys,Building Sets,39,75,1.04,SKU-TOY-00312,2021-10-09
+PROD_00000313,Activewear - Profound well-modulated architecture,Clothing,Activewear,693,1632,0.76,SKU-CLO-00313,2025-02-02
+PROD_00000314,Lighting - Centralized coherent system engine,Home & Garden,Lighting,2082,5250,2.85,SKU-HOM-00314,2024-10-11
+PROD_00000315,Organic - Right-sized logistical conglomeration,Food & Gourmet,Organic,1248,1857,6.45,SKU-FOO-00315,2021-08-15
+PROD_00000316,Smartphones - Right-sized global knowledge user,Electronics,Smartphones,797,1084,0.42,SKU-ELE-00316,2020-07-14
+PROD_00000317,Makeup - Inverse heuristic budgetary management,Beauty,Makeup,266,795,1.35,SKU-BEA-00317,2022-08-23
+PROD_00000318,Furniture - Distributed intermediate data-warehouse,Home & Garden,Furniture,903,1531,0.9,SKU-HOM-00318,2022-08-05
+PROD_00000319,Board Games - Persistent analyzing project,Toys,Board Games,1371,1907,1.9,SKU-TOY-00319,2023-12-27
+PROD_00000320,Dolls - Centralized modular task-force,Toys,Dolls,462,749,1.67,SKU-TOY-00320,2023-03-31
+PROD_00000321,Laptops - Robust interactive throughput,Electronics,Laptops,123,168,6.33,SKU-ELE-00321,2021-04-29
+PROD_00000322,Jeans - Streamlined value-added data-warehouse,Clothing,Jeans,244,479,1.48,SKU-CLO-00322,2022-07-02
+PROD_00000323,Decor - Expanded tangible adapter,Home & Garden,Decor,2214,5898,6.52,SKU-HOM-00323,2023-03-14
+PROD_00000324,Shoes - Enterprise-wide cohesive hardware,Clothing,Shoes,374,703,1.2,SKU-CLO-00324,2023-12-20
+PROD_00000325,Jeans - Customer-focused maximized info-mediaries,Clothing,Jeans,14,28,4.16,SKU-CLO-00325,2023-10-08
+PROD_00000326,Fiction - Optimized intermediate monitoring,Books,Fiction,92,225,2.07,SKU-BOO-00326,2020-08-28
+PROD_00000327,Cameras - Secured reciprocal conglomeration,Electronics,Cameras,263,569,9.3,SKU-ELE-00327,2023-01-26
+PROD_00000328,Lighting - Decentralized composite matrix,Home & Garden,Lighting,1136,3140,0.38,SKU-HOM-00328,2022-07-18
+PROD_00000329,Children's - Horizontal intangible complexity,Books,Children's,307,851,0.51,SKU-BOO-00329,2021-01-15
+PROD_00000330,Outdoor Gear - Cross-platform demand-driven data-warehouse,Sports,Outdoor Gear,1157,1523,10.29,SKU-SPO-00330,2020-07-11
+PROD_00000331,Team Sports - Innovative high-level orchestration,Sports,Team Sports,238,624,0.79,SKU-SPO-00331,2024-10-12
+PROD_00000332,Coffee & Tea - Universal grid-enabled open architecture,Food & Gourmet,Coffee & Tea,56,116,0.84,SKU-FOO-00332,2021-07-30
+PROD_00000333,Smartphones - Enhanced scalable process improvement,Electronics,Smartphones,246,733,0.69,SKU-ELE-00333,2025-04-15
+PROD_00000334,Textbooks - Multi-layered hybrid hardware,Books,Textbooks,569,1207,5.2,SKU-BOO-00334,2022-06-23
+PROD_00000335,Bedding - Object-based cohesive architecture,Home & Garden,Bedding,524,1560,0.47,SKU-HOM-00335,2021-07-28
+PROD_00000336,Tablets - Reduced composite policy,Electronics,Tablets,114,294,1.69,SKU-ELE-00336,2023-05-30
+PROD_00000337,Board Games - Up-sized fresh-thinking policy,Toys,Board Games,283,487,1.26,SKU-TOY-00337,2025-01-13
+PROD_00000338,Running - Automated optimal superstructure,Sports,Running,5911,13094,4.65,SKU-SPO-00338,2023-09-22
+PROD_00000339,Fiction - Re-contextualized exuding framework,Books,Fiction,117,349,0.94,SKU-BOO-00339,2021-09-11
+PROD_00000340,Action Figures - Compatible web-enabled framework,Toys,Action Figures,781,2153,2.5,SKU-TOY-00340,2023-05-07
+PROD_00000341,Action Figures - Proactive high-level database,Toys,Action Figures,49,71,0.51,SKU-TOY-00341,2022-08-29
+PROD_00000342,Textbooks - Virtual leadingedge interface,Books,Textbooks,956,2390,16.02,SKU-BOO-00342,2024-02-18
+PROD_00000343,Team Sports - Exclusive web-enabled knowledge user,Sports,Team Sports,165,311,1.3,SKU-SPO-00343,2020-10-23
+PROD_00000344,Jackets - Virtual next generation strategy,Clothing,Jackets,603,791,1.66,SKU-CLO-00344,2019-02-02
+PROD_00000345,Decor - Enhanced grid-enabled instruction set,Home & Garden,Decor,110,218,8.63,SKU-HOM-00345,2023-12-22
+PROD_00000346,Action Figures - Implemented zero administration migration,Toys,Action Figures,539,915,0.92,SKU-TOY-00346,2024-10-21
+PROD_00000347,Outdoor Gear - Multi-channeled needs-based interface,Sports,Outdoor Gear,162,436,8.74,SKU-SPO-00347,2024-03-04
+PROD_00000348,Textbooks - Integrated modular Internet solution,Books,Textbooks,197,369,1.09,SKU-BOO-00348,2022-03-02
+PROD_00000349,Makeup - Operative optimal help-desk,Beauty,Makeup,627,1697,3.23,SKU-BEA-00349,2019-03-02
+PROD_00000350,Sauces - Switchable fresh-thinking service-desk,Food & Gourmet,Sauces,262,340,0.93,SKU-FOO-00350,2023-03-24
+PROD_00000351,Lighting - Proactive mobile success,Home & Garden,Lighting,590,1075,0.42,SKU-HOM-00351,2019-09-29
+PROD_00000352,Skincare - Adaptive fresh-thinking capability,Beauty,Skincare,333,569,2.5,SKU-BEA-00352,2025-04-12
+PROD_00000353,Puzzles - Realigned incremental hierarchy,Toys,Puzzles,431,731,3.13,SKU-TOY-00353,2022-04-14
+PROD_00000354,Coffee & Tea - Business-focused hybrid Local Area Network,Food & Gourmet,Coffee & Tea,629,890,0.44,SKU-FOO-00354,2023-12-12
+PROD_00000355,Furniture - Right-sized upward-trending time-frame,Home & Garden,Furniture,284,459,1.21,SKU-HOM-00355,2022-02-28
+PROD_00000356,Textbooks - Reduced incremental focus group,Books,Textbooks,149,334,5.48,SKU-BOO-00356,2022-01-30
+PROD_00000357,Skincare - Mandatory asymmetric attitude,Beauty,Skincare,236,423,3.0,SKU-BEA-00357,2019-11-06
+PROD_00000358,Coffee & Tea - Multi-layered optimal project,Food & Gourmet,Coffee & Tea,1332,2676,1.11,SKU-FOO-00358,2022-08-08
+PROD_00000359,Organic - Adaptive foreground pricing structure,Food & Gourmet,Organic,453,879,0.91,SKU-FOO-00359,2023-10-12
+PROD_00000360,Cycling - Devolved full-range installation,Sports,Cycling,173,482,11.57,SKU-SPO-00360,2019-12-04
+PROD_00000361,Fitness Equipment - Profit-focused logistical ability,Sports,Fitness Equipment,602,1709,0.39,SKU-SPO-00361,2019-01-10
+PROD_00000362,Cameras - Integrated composite interface,Electronics,Cameras,644,1376,1.55,SKU-ELE-00362,2019-02-18
+PROD_00000363,Decor - Fundamental homogeneous pricing structure,Home & Garden,Decor,678,1261,0.38,SKU-HOM-00363,2023-02-19
+PROD_00000364,Jackets - Proactive regional help-desk,Clothing,Jackets,151,223,6.14,SKU-CLO-00364,2022-09-06
+PROD_00000365,Jackets - Balanced upward-trending moratorium,Clothing,Jackets,203,592,1.64,SKU-CLO-00365,2020-12-31
+PROD_00000366,Bedding - Business-focused zero tolerance time-frame,Home & Garden,Bedding,205,287,1.97,SKU-HOM-00366,2021-03-05
+PROD_00000367,Puzzles - Innovative system-worthy infrastructure,Toys,Puzzles,281,507,26.28,SKU-TOY-00367,2023-07-07
+PROD_00000368,Children's - Open-source 24hour solution,Books,Children's,691,1248,0.91,SKU-BOO-00368,2019-05-13
+PROD_00000369,Smartphones - Self-enabling human-resource definition,Electronics,Smartphones,542,999,9.47,SKU-ELE-00369,2024-10-31
+PROD_00000370,Comics - Profit-focused tertiary toolset,Books,Comics,587,927,1.12,SKU-BOO-00370,2024-10-05
+PROD_00000371,Coffee & Tea - Enterprise-wide motivating hub,Food & Gourmet,Coffee & Tea,1562,4110,1.31,SKU-FOO-00371,2020-01-11
+PROD_00000372,Organic - Automated transitional frame,Food & Gourmet,Organic,803,1211,23.06,SKU-FOO-00372,2019-09-28
+PROD_00000373,Organic - Customer-focused intangible circuit,Food & Gourmet,Organic,350,832,1.4,SKU-FOO-00373,2023-02-15
+PROD_00000374,Fiction - Virtual maximized groupware,Books,Fiction,123,185,0.42,SKU-BOO-00374,2024-11-28
+PROD_00000375,Building Sets - Adaptive responsive productivity,Toys,Building Sets,197,279,2.19,SKU-TOY-00375,2019-03-17
+PROD_00000376,Tablets - Diverse 4thgeneration productivity,Electronics,Tablets,310,882,1.39,SKU-ELE-00376,2024-05-10
+PROD_00000377,Activewear - Seamless cohesive contingency,Clothing,Activewear,924,1499,2.38,SKU-CLO-00377,2023-07-25
+PROD_00000378,Children's - Managed context-sensitive budgetary management,Books,Children's,392,1056,1.44,SKU-BOO-00378,2019-11-25
+PROD_00000379,Bedding - Enterprise-wide zero administration time-frame,Home & Garden,Bedding,209,465,15.11,SKU-HOM-00379,2024-12-09
+PROD_00000380,Cycling - Face-to-face next generation access,Sports,Cycling,193,276,2.88,SKU-SPO-00380,2019-02-10
+PROD_00000381,Jeans - Enhanced optimal service-desk,Clothing,Jeans,376,1099,0.56,SKU-CLO-00381,2022-04-05
+PROD_00000382,Children's - Up-sized executive firmware,Books,Children's,982,1688,1.87,SKU-BOO-00382,2025-05-15
+PROD_00000383,Sauces - Total homogeneous challenge,Food & Gourmet,Sauces,1980,5467,0.74,SKU-FOO-00383,2024-08-18
+PROD_00000384,Jeans - Proactive homogeneous encryption,Clothing,Jeans,328,520,1.29,SKU-CLO-00384,2019-01-13
+PROD_00000385,Shoes - Inverse uniform attitude,Clothing,Shoes,385,1059,0.66,SKU-CLO-00385,2021-07-12
+PROD_00000386,Decor - Implemented multimedia Local Area Network,Home & Garden,Decor,119,157,13.56,SKU-HOM-00386,2024-01-17
+PROD_00000387,Dolls - Fundamental optimizing leverage,Toys,Dolls,2805,6086,0.83,SKU-TOY-00387,2022-05-17
+PROD_00000388,Non-Fiction - Self-enabling background functionalities,Books,Non-Fiction,99,258,3.28,SKU-BOO-00388,2022-04-29
+PROD_00000389,Outdoor Gear - Synchronized bandwidth-monitored capacity,Sports,Outdoor Gear,1302,3761,1.19,SKU-SPO-00389,2020-10-14
+PROD_00000390,Running - Synergistic radical groupware,Sports,Running,279,793,0.52,SKU-SPO-00390,2023-08-31
+PROD_00000391,Jackets - Grass-roots holistic system engine,Clothing,Jackets,221,595,2.01,SKU-CLO-00391,2020-09-12
+PROD_00000392,Team Sports - Realigned radical encoding,Sports,Team Sports,132,370,2.46,SKU-SPO-00392,2024-05-16
+PROD_00000393,Building Sets - Upgradable needs-based functionalities,Toys,Building Sets,4491,7359,2.88,SKU-TOY-00393,2023-07-04
+PROD_00000394,Jackets - Face-to-face responsive emulation,Clothing,Jackets,503,896,0.12,SKU-CLO-00394,2025-02-21
+PROD_00000395,Smartphones - Managed motivating protocol,Electronics,Smartphones,412,737,0.48,SKU-ELE-00395,2020-02-21
+PROD_00000396,Running - Implemented object-oriented portal,Sports,Running,979,1900,4.3,SKU-SPO-00396,2020-10-25
+PROD_00000397,Garden Tools - Self-enabling real-time software,Home & Garden,Garden Tools,210,413,0.65,SKU-HOM-00397,2023-11-14
+PROD_00000398,Skincare - Seamless web-enabled architecture,Beauty,Skincare,404,899,2.02,SKU-BEA-00398,2022-10-11
+PROD_00000399,Cycling - Optional optimizing hardware,Sports,Cycling,426,669,0.47,SKU-SPO-00399,2019-05-28
+PROD_00000400,Running - Face-to-face grid-enabled task-force,Sports,Running,241,596,3.43,SKU-SPO-00400,2024-08-07
+PROD_00000401,Smartphones - Stand-alone secondary policy,Electronics,Smartphones,1338,2120,4.18,SKU-ELE-00401,2022-10-20
+PROD_00000402,Outdoor Gear - Universal global circuit,Sports,Outdoor Gear,324,592,3.43,SKU-SPO-00402,2023-09-22
+PROD_00000403,Running - Devolved neutral structure,Sports,Running,85,183,4.63,SKU-SPO-00403,2020-02-06
+PROD_00000404,Bedding - Phased solution-oriented service-desk,Home & Garden,Bedding,298,790,7.88,SKU-HOM-00404,2023-02-24
+PROD_00000405,Kitchen - Inverse attitude-oriented capacity,Home & Garden,Kitchen,517,1322,0.51,SKU-HOM-00405,2024-07-24
+PROD_00000406,Activewear - Adaptive object-oriented solution,Clothing,Activewear,165,395,0.75,SKU-CLO-00406,2019-08-17
+PROD_00000407,Kitchen - Balanced asymmetric neural-net,Home & Garden,Kitchen,178,278,4.05,SKU-HOM-00407,2023-05-18
+PROD_00000408,Tablets - Cross-group modular secured line,Electronics,Tablets,233,519,5.1,SKU-ELE-00408,2019-09-25
+PROD_00000409,Textbooks - Innovative web-enabled orchestration,Books,Textbooks,1368,1981,0.84,SKU-BOO-00409,2022-11-29
+PROD_00000410,Cycling - Persevering dynamic throughput,Sports,Cycling,247,479,0.78,SKU-SPO-00410,2023-12-22
+PROD_00000411,Lighting - Cloned bottom-line artificial intelligence,Home & Garden,Lighting,1684,3373,0.86,SKU-HOM-00411,2021-10-31
+PROD_00000412,Furniture - Horizontal real-time interface,Home & Garden,Furniture,218,298,0.33,SKU-HOM-00412,2022-09-05
+PROD_00000413,Nail Care - Front-line demand-driven interface,Beauty,Nail Care,558,985,0.46,SKU-BEA-00413,2019-05-06
+PROD_00000414,Decor - Assimilated non-volatile moratorium,Home & Garden,Decor,258,754,0.47,SKU-HOM-00414,2025-06-11
+PROD_00000415,Board Games - Seamless transitional attitude,Toys,Board Games,857,2503,1.23,SKU-TOY-00415,2023-09-22
+PROD_00000416,Lighting - Business-focused foreground secured line,Home & Garden,Lighting,131,248,2.16,SKU-HOM-00416,2022-01-17
+PROD_00000417,Decor - Adaptive executive service-desk,Home & Garden,Decor,847,1163,2.54,SKU-HOM-00417,2022-10-07
+PROD_00000418,Headphones - Versatile fresh-thinking portal,Electronics,Headphones,452,725,0.99,SKU-ELE-00418,2020-11-19
+PROD_00000419,Makeup - Versatile human-resource productivity,Beauty,Makeup,212,416,1.02,SKU-BEA-00419,2022-07-04
+PROD_00000420,Snacks - Customer-focused regional projection,Food & Gourmet,Snacks,341,992,1.87,SKU-FOO-00420,2022-05-17
+PROD_00000421,Coffee & Tea - Organized solution-oriented flexibility,Food & Gourmet,Coffee & Tea,1870,2879,0.37,SKU-FOO-00421,2019-10-08
+PROD_00000422,Decor - Centralized 4thgeneration strategy,Home & Garden,Decor,463,1202,4.3,SKU-HOM-00422,2020-03-18
+PROD_00000423,Dolls - Multi-lateral reciprocal matrix,Toys,Dolls,199,295,5.96,SKU-TOY-00423,2024-02-07
+PROD_00000424,Organic - Multi-lateral zero-defect model,Food & Gourmet,Organic,120,356,0.88,SKU-FOO-00424,2021-04-16
+PROD_00000425,Fitness Equipment - Expanded empowering service-desk,Sports,Fitness Equipment,668,1301,1.11,SKU-SPO-00425,2020-01-24
+PROD_00000426,Cycling - Implemented heuristic policy,Sports,Cycling,490,1282,5.72,SKU-SPO-00426,2020-09-08
+PROD_00000427,Children's - User-centric encompassing concept,Books,Children's,808,1520,1.46,SKU-BOO-00427,2019-05-27
+PROD_00000428,Puzzles - Cross-group 3rdgeneration structure,Toys,Puzzles,93,220,2.97,SKU-TOY-00428,2020-06-04
+PROD_00000429,Outdoor Gear - Innovative cohesive adapter,Sports,Outdoor Gear,124,201,1.5,SKU-SPO-00429,2020-09-21
+PROD_00000430,Garden Tools - Synergistic multimedia frame,Home & Garden,Garden Tools,1270,1966,7.82,SKU-HOM-00430,2024-12-31
+PROD_00000431,Cycling - Cross-group multimedia contingency,Sports,Cycling,561,1623,2.69,SKU-SPO-00431,2019-10-16
+PROD_00000432,Comics - Quality-focused responsive installation,Books,Comics,687,1964,2.85,SKU-BOO-00432,2022-11-10
+PROD_00000433,Children's - Inverse encompassing open system,Books,Children's,154,432,2.9,SKU-BOO-00433,2019-01-14
+PROD_00000434,Building Sets - Automated maximized neural-net,Toys,Building Sets,151,356,0.95,SKU-TOY-00434,2019-09-14
+PROD_00000435,Fitness Equipment - Organic context-sensitive Graphic Interface,Sports,Fitness Equipment,1087,2906,1.04,SKU-SPO-00435,2023-09-18
+PROD_00000436,Organic - Managed 5thgeneration strategy,Food & Gourmet,Organic,1139,1614,3.56,SKU-FOO-00436,2022-11-24
+PROD_00000437,Smartwatches - Multi-layered fault-tolerant capability,Electronics,Smartwatches,135,252,1.87,SKU-ELE-00437,2022-05-15
+PROD_00000438,Jackets - Managed bottom-line portal,Clothing,Jackets,112,205,0.51,SKU-CLO-00438,2021-05-07
+PROD_00000439,Fiction - Business-focused object-oriented database,Books,Fiction,361,859,10.73,SKU-BOO-00439,2022-04-10
+PROD_00000440,Bedding - Persevering holistic knowledge user,Home & Garden,Bedding,181,344,4.38,SKU-HOM-00440,2020-04-08
+PROD_00000441,Jackets - Virtual maximized ability,Clothing,Jackets,177,274,1.71,SKU-CLO-00441,2019-09-27
+PROD_00000442,Fragrance - Organic zero tolerance paradigm,Beauty,Fragrance,115,266,1.25,SKU-BEA-00442,2022-05-29
+PROD_00000443,Coffee & Tea - Multi-tiered stable algorithm,Food & Gourmet,Coffee & Tea,252,676,2.01,SKU-FOO-00443,2022-04-21
+PROD_00000444,Haircare - Synergized impactful array,Beauty,Haircare,127,247,2.77,SKU-BEA-00444,2019-03-13
+PROD_00000445,Smartwatches - Synchronized interactive parallelism,Electronics,Smartwatches,134,204,0.22,SKU-ELE-00445,2022-07-30
+PROD_00000446,Sauces - Grass-roots bifurcated data-warehouse,Food & Gourmet,Sauces,543,887,13.63,SKU-FOO-00446,2024-10-22
+PROD_00000447,Furniture - Virtual high-level attitude,Home & Garden,Furniture,381,649,0.75,SKU-HOM-00447,2023-10-17
+PROD_00000448,Kitchen - Down-sized needs-based firmware,Home & Garden,Kitchen,655,1185,1.65,SKU-HOM-00448,2020-05-11
+PROD_00000449,Headphones - Realigned demand-driven implementation,Electronics,Headphones,77,184,1.71,SKU-ELE-00449,2021-09-14
+PROD_00000450,Team Sports - Right-sized foreground time-frame,Sports,Team Sports,407,944,12.14,SKU-SPO-00450,2021-06-28
+PROD_00000451,Jackets - Multi-lateral optimizing hierarchy,Clothing,Jackets,3215,7983,1.51,SKU-CLO-00451,2020-01-08
+PROD_00000452,Lighting - Public-key cohesive matrix,Home & Garden,Lighting,278,532,8.07,SKU-HOM-00452,2019-12-28
+PROD_00000453,Dolls - Persistent user-facing approach,Toys,Dolls,920,2484,2.48,SKU-TOY-00453,2024-11-10
+PROD_00000454,Furniture - Team-oriented incremental paradigm,Home & Garden,Furniture,912,1502,0.63,SKU-HOM-00454,2022-09-06
+PROD_00000455,Organic - Secured clear-thinking challenge,Food & Gourmet,Organic,958,2009,1.89,SKU-FOO-00455,2019-11-20
+PROD_00000456,Fitness Equipment - Operative radical protocol,Sports,Fitness Equipment,476,1266,1.46,SKU-SPO-00456,2020-07-28
+PROD_00000457,Smartphones - Customizable holistic info-mediaries,Electronics,Smartphones,710,1140,0.56,SKU-ELE-00457,2021-01-05
+PROD_00000458,Headphones - Re-contextualized systematic secured line,Electronics,Headphones,811,1205,2.36,SKU-ELE-00458,2022-04-30
+PROD_00000459,Puzzles - Function-based radical algorithm,Toys,Puzzles,761,2132,1.69,SKU-TOY-00459,2023-08-23
+PROD_00000460,Decor - Optional 3rdgeneration moderator,Home & Garden,Decor,131,246,2.88,SKU-HOM-00460,2024-03-22
+PROD_00000461,Running - Stand-alone context-sensitive methodology,Sports,Running,73,179,2.0,SKU-SPO-00461,2020-12-19
+PROD_00000462,Board Games - Optimized bottom-line adapter,Toys,Board Games,85,114,0.86,SKU-TOY-00462,2021-02-19
+PROD_00000463,Gift Baskets - Advanced composite structure,Food & Gourmet,Gift Baskets,307,759,3.55,SKU-FOO-00463,2021-10-16
+PROD_00000464,Children's - Face-to-face heuristic archive,Books,Children's,730,1341,0.88,SKU-BOO-00464,2022-11-04
+PROD_00000465,Garden Tools - Switchable client-driven algorithm,Home & Garden,Garden Tools,133,185,0.07,SKU-HOM-00465,2022-11-27
+PROD_00000466,Women's Dresses - Secured well-modulated firmware,Clothing,Women's Dresses,1016,2374,1.88,SKU-CLO-00466,2020-10-25
+PROD_00000467,Gift Baskets - Multi-lateral optimizing strategy,Food & Gourmet,Gift Baskets,244,417,0.95,SKU-FOO-00467,2023-11-08
+PROD_00000468,Organic - Vision-oriented human-resource paradigm,Food & Gourmet,Organic,246,481,2.42,SKU-FOO-00468,2019-01-11
+PROD_00000469,Men's Shirts - Customizable full-range time-frame,Clothing,Men's Shirts,174,250,12.17,SKU-CLO-00469,2025-02-12
+PROD_00000470,Sauces - Phased demand-driven strategy,Food & Gourmet,Sauces,61,94,12.53,SKU-FOO-00470,2021-11-04
+PROD_00000471,Snacks - Fundamental radical firmware,Food & Gourmet,Snacks,507,915,1.4,SKU-FOO-00471,2020-08-07
+PROD_00000472,Children's - Ergonomic next generation hardware,Books,Children's,2236,3247,0.72,SKU-BOO-00472,2021-12-11
+PROD_00000473,Kitchen - Sharable stable interface,Home & Garden,Kitchen,378,1076,2.96,SKU-HOM-00473,2022-10-06
+PROD_00000474,Coffee & Tea - Exclusive demand-driven matrices,Food & Gourmet,Coffee & Tea,63,82,1.14,SKU-FOO-00474,2022-12-22
+PROD_00000475,Smartwatches - Multi-channeled non-volatile migration,Electronics,Smartwatches,880,1867,2.44,SKU-ELE-00475,2024-01-29
+PROD_00000476,Puzzles - Team-oriented uniform flexibility,Toys,Puzzles,79,119,0.85,SKU-TOY-00476,2023-11-25
+PROD_00000477,Cameras - Reverse-engineered system-worthy artificial intelligence,Electronics,Cameras,120,218,2.12,SKU-ELE-00477,2021-01-12
+PROD_00000478,Tablets - Fully-configurable upward-trending moratorium,Electronics,Tablets,317,911,0.73,SKU-ELE-00478,2023-11-12
+PROD_00000479,Tablets - User-centric methodical strategy,Electronics,Tablets,456,718,5.39,SKU-ELE-00479,2019-07-23
+PROD_00000480,Running - Progressive modular ability,Sports,Running,147,432,0.91,SKU-SPO-00480,2021-12-12
+PROD_00000481,Skincare - Customizable next generation model,Beauty,Skincare,305,503,3.19,SKU-BEA-00481,2021-08-31
+PROD_00000482,Action Figures - Cross-group responsive toolset,Toys,Action Figures,824,2109,0.47,SKU-TOY-00482,2022-10-30
+PROD_00000483,Haircare - Switchable system-worthy strategy,Beauty,Haircare,945,2106,3.6,SKU-BEA-00483,2024-02-09
+PROD_00000484,Men's Shirts - Synergized background capability,Clothing,Men's Shirts,1410,3953,0.63,SKU-CLO-00484,2022-07-23
+PROD_00000485,Shoes - Up-sized discrete emulation,Clothing,Shoes,2722,6102,2.14,SKU-CLO-00485,2021-11-20
+PROD_00000486,Textbooks - Phased reciprocal Graphic Interface,Books,Textbooks,906,2001,4.59,SKU-BOO-00486,2022-03-04
+PROD_00000487,Children's - Synchronized cohesive database,Books,Children's,324,528,1.35,SKU-BOO-00487,2019-04-15
+PROD_00000488,Bedding - Exclusive bandwidth-monitored flexibility,Home & Garden,Bedding,952,1506,0.59,SKU-HOM-00488,2019-09-10
+PROD_00000489,Textbooks - Front-line composite focus group,Books,Textbooks,643,1837,2.71,SKU-BOO-00489,2019-10-22
+PROD_00000490,Running - Configurable responsive intranet,Sports,Running,669,1242,0.71,SKU-SPO-00490,2022-03-27
+PROD_00000491,Coffee & Tea - Advanced static Local Area Network,Food & Gourmet,Coffee & Tea,481,929,1.1,SKU-FOO-00491,2020-07-02
+PROD_00000492,Running - Virtual well-modulated attitude,Sports,Running,162,419,2.15,SKU-SPO-00492,2023-11-13
+PROD_00000493,Bedding - Digitized mobile middleware,Home & Garden,Bedding,144,270,6.43,SKU-HOM-00493,2019-10-26
+PROD_00000494,Non-Fiction - Pre-emptive zero administration portal,Books,Non-Fiction,366,1068,1.69,SKU-BOO-00494,2023-10-15
+PROD_00000495,Snacks - Operative disintermediate encryption,Food & Gourmet,Snacks,468,1195,1.69,SKU-FOO-00495,2024-01-18
+PROD_00000496,Board Games - User-friendly multimedia matrix,Toys,Board Games,204,472,3.45,SKU-TOY-00496,2019-04-11
+PROD_00000497,Jackets - Virtual reciprocal project,Clothing,Jackets,616,1723,1.73,SKU-CLO-00497,2023-11-10
+PROD_00000498,Organic - Balanced multimedia success,Food & Gourmet,Organic,3231,4472,3.11,SKU-FOO-00498,2021-05-23
+PROD_00000499,Women's Dresses - Cloned content-based service-desk,Clothing,Women's Dresses,70,121,4.85,SKU-CLO-00499,2019-04-02
+PROD_00000500,Activewear - Enhanced context-sensitive support,Clothing,Activewear,722,1509,1.19,SKU-CLO-00500,2020-03-22
+PROD_00000501,Organic - Business-focused motivating circuit,Food & Gourmet,Organic,377,635,0.06,SKU-FOO-00501,2019-04-19
+PROD_00000502,Jeans - Enterprise-wide actuating function,Clothing,Jeans,633,1623,0.73,SKU-CLO-00502,2019-11-13
+PROD_00000503,Sauces - Horizontal multi-state frame,Food & Gourmet,Sauces,262,750,5.52,SKU-FOO-00503,2024-01-10
+PROD_00000504,Comics - Switchable transitional encoding,Books,Comics,348,703,1.59,SKU-BOO-00504,2024-04-27
+PROD_00000505,Dolls - Intuitive bifurcated portal,Toys,Dolls,459,863,1.17,SKU-TOY-00505,2022-12-29
+PROD_00000506,Action Figures - Pre-emptive multimedia time-frame,Toys,Action Figures,298,874,5.3,SKU-TOY-00506,2020-03-17
+PROD_00000507,Smartphones - Vision-oriented next generation attitude,Electronics,Smartphones,88,180,1.49,SKU-ELE-00507,2025-03-15
+PROD_00000508,Comics - Operative eco-centric parallelism,Books,Comics,319,679,0.2,SKU-BOO-00508,2022-05-30
+PROD_00000509,Running - Multi-channeled methodical budgetary management,Sports,Running,97,184,0.37,SKU-SPO-00509,2023-04-01
+PROD_00000510,Decor - Virtual 5thgeneration website,Home & Garden,Decor,775,2205,2.51,SKU-HOM-00510,2019-10-05
+PROD_00000511,Furniture - Implemented client-server secured line,Home & Garden,Furniture,62,140,1.54,SKU-HOM-00511,2020-07-22
+PROD_00000512,Smartwatches - Mandatory regional parallelism,Electronics,Smartwatches,1128,2927,7.06,SKU-ELE-00512,2021-10-06
+PROD_00000513,Action Figures - Ameliorated 24/7 strategy,Toys,Action Figures,619,1658,0.79,SKU-TOY-00513,2021-04-18
+PROD_00000514,Board Games - Self-enabling contextually-based migration,Toys,Board Games,622,1170,1.21,SKU-TOY-00514,2023-05-27
+PROD_00000515,Jackets - Implemented composite challenge,Clothing,Jackets,46,93,0.68,SKU-CLO-00515,2019-01-30
+PROD_00000516,Organic - Grass-roots well-modulated attitude,Food & Gourmet,Organic,290,795,0.98,SKU-FOO-00516,2024-04-26
+PROD_00000517,Makeup - Proactive 6thgeneration strategy,Beauty,Makeup,1278,2450,0.25,SKU-BEA-00517,2024-11-03
+PROD_00000518,Non-Fiction - Decentralized needs-based website,Books,Non-Fiction,240,635,1.12,SKU-BOO-00518,2022-06-11
+PROD_00000519,Fragrance - Vision-oriented solution-oriented definition,Beauty,Fragrance,137,397,1.57,SKU-BEA-00519,2025-06-18
+PROD_00000520,Cycling - Self-enabling zero tolerance attitude,Sports,Cycling,213,502,1.44,SKU-SPO-00520,2019-12-31
+PROD_00000521,Team Sports - Front-line modular methodology,Sports,Team Sports,376,962,14.15,SKU-SPO-00521,2023-12-06
+PROD_00000522,Board Games - Synergistic even-keeled database,Toys,Board Games,172,459,10.31,SKU-TOY-00522,2023-12-28
+PROD_00000523,Makeup - Function-based 5thgeneration definition,Beauty,Makeup,1385,3790,0.78,SKU-BEA-00523,2024-02-06
+PROD_00000524,Women's Dresses - Centralized global support,Clothing,Women's Dresses,378,745,0.21,SKU-CLO-00524,2021-06-23
+PROD_00000525,Puzzles - Synchronized methodical orchestration,Toys,Puzzles,231,320,1.49,SKU-TOY-00525,2020-11-28
+PROD_00000526,Cameras - Down-sized full-range strategy,Electronics,Cameras,109,216,2.4,SKU-ELE-00526,2024-12-18
+PROD_00000527,Smartphones - Sharable background methodology,Electronics,Smartphones,654,1599,0.7,SKU-ELE-00527,2024-01-30
+PROD_00000528,Action Figures - Face-to-face directional encryption,Toys,Action Figures,640,1321,0.73,SKU-TOY-00528,2019-12-17
+PROD_00000529,Activewear - Monitored multi-state budgetary management,Clothing,Activewear,182,468,8.02,SKU-CLO-00529,2019-06-29
+PROD_00000530,Women's Dresses - Focused incremental middleware,Clothing,Women's Dresses,43,81,1.27,SKU-CLO-00530,2023-02-12
+PROD_00000531,Snacks - Diverse well-modulated complexity,Food & Gourmet,Snacks,608,1446,3.2,SKU-FOO-00531,2022-04-01
+PROD_00000532,Board Games - Business-focused attitude-oriented product,Toys,Board Games,334,540,0.65,SKU-TOY-00532,2023-12-12
+PROD_00000533,Snacks - Managed coherent pricing structure,Food & Gourmet,Snacks,564,1451,1.56,SKU-FOO-00533,2021-02-12
+PROD_00000534,Comics - Team-oriented mobile pricing structure,Books,Comics,2855,6360,1.18,SKU-BOO-00534,2020-05-24
+PROD_00000535,Skincare - Operative neutral hub,Beauty,Skincare,392,645,0.84,SKU-BEA-00535,2019-12-31
+PROD_00000536,Gift Baskets - Horizontal impactful conglomeration,Food & Gourmet,Gift Baskets,241,432,5.23,SKU-FOO-00536,2019-12-19
+PROD_00000537,Haircare - Configurable background info-mediaries,Beauty,Haircare,128,329,0.41,SKU-BEA-00537,2022-01-11
+PROD_00000538,Smartphones - Organized 24/7 productivity,Electronics,Smartphones,295,625,2.23,SKU-ELE-00538,2022-06-02
+PROD_00000539,Bedding - Business-focused intangible concept,Home & Garden,Bedding,473,788,1.16,SKU-HOM-00539,2020-02-16
+PROD_00000540,Headphones - Balanced multimedia challenge,Electronics,Headphones,425,1251,2.5,SKU-ELE-00540,2021-01-04
+PROD_00000541,Jackets - Customer-focused clear-thinking flexibility,Clothing,Jackets,2260,5685,1.17,SKU-CLO-00541,2019-04-28
+PROD_00000542,Fragrance - Advanced logistical time-frame,Beauty,Fragrance,664,1943,3.92,SKU-BEA-00542,2020-04-26
+PROD_00000543,Jeans - Switchable homogeneous Internet solution,Clothing,Jeans,352,713,0.64,SKU-CLO-00543,2019-07-11
+PROD_00000544,Team Sports - Horizontal uniform productivity,Sports,Team Sports,199,419,5.25,SKU-SPO-00544,2019-04-17
+PROD_00000545,Smartwatches - Sharable global secured line,Electronics,Smartwatches,526,1486,1.6,SKU-ELE-00545,2020-01-17
+PROD_00000546,Organic - Extended human-resource collaboration,Food & Gourmet,Organic,162,355,0.44,SKU-FOO-00546,2021-02-21
+PROD_00000547,Decor - Re-engineered clear-thinking budgetary management,Home & Garden,Decor,482,1206,3.26,SKU-HOM-00547,2019-09-01
+PROD_00000548,Laptops - Versatile tangible encryption,Electronics,Laptops,656,1134,1.35,SKU-ELE-00548,2020-04-12
+PROD_00000549,Board Games - Up-sized full-range analyzer,Toys,Board Games,324,667,0.3,SKU-TOY-00549,2021-05-15
+PROD_00000550,Fitness Equipment - Sharable bandwidth-monitored benchmark,Sports,Fitness Equipment,214,323,2.3,SKU-SPO-00550,2023-04-11
+PROD_00000551,Haircare - Front-line encompassing extranet,Beauty,Haircare,45,74,4.51,SKU-BEA-00551,2022-05-18
+PROD_00000552,Laptops - Robust homogeneous moratorium,Electronics,Laptops,1266,1647,5.94,SKU-ELE-00552,2020-08-26
+PROD_00000553,Dolls - Team-oriented optimal Graphic Interface,Toys,Dolls,603,824,1.13,SKU-TOY-00553,2023-07-19
+PROD_00000554,Team Sports - Assimilated optimizing capacity,Sports,Team Sports,618,1830,1.91,SKU-SPO-00554,2022-01-01
+PROD_00000555,Running - Re-contextualized attitude-oriented moderator,Sports,Running,84,143,1.73,SKU-SPO-00555,2024-07-08
+PROD_00000556,Cameras - Horizontal multimedia paradigm,Electronics,Cameras,1603,3891,7.31,SKU-ELE-00556,2023-07-17
+PROD_00000557,Furniture - Reverse-engineered eco-centric help-desk,Home & Garden,Furniture,253,689,0.73,SKU-HOM-00557,2023-09-30
+PROD_00000558,Skincare - Future-proofed static success,Beauty,Skincare,302,675,1.04,SKU-BEA-00558,2023-06-02
+PROD_00000559,Fiction - Reduced even-keeled support,Books,Fiction,138,215,0.72,SKU-BOO-00559,2021-05-09
+PROD_00000560,Cycling - Right-sized leadingedge circuit,Sports,Cycling,67,170,0.39,SKU-SPO-00560,2024-02-23
+PROD_00000561,Bedding - Multi-channeled explicit Local Area Network,Home & Garden,Bedding,1283,2977,2.11,SKU-HOM-00561,2022-06-30
+PROD_00000562,Nail Care - Digitized stable task-force,Beauty,Nail Care,1460,3712,8.18,SKU-BEA-00562,2019-01-13
+PROD_00000563,Men's Shirts - Centralized executive matrix,Clothing,Men's Shirts,341,889,1.35,SKU-CLO-00563,2025-06-04
+PROD_00000564,Cycling - Function-based zero tolerance function,Sports,Cycling,204,603,0.68,SKU-SPO-00564,2022-01-04
+PROD_00000565,Snacks - De-engineered systematic benchmark,Food & Gourmet,Snacks,276,627,1.99,SKU-FOO-00565,2021-12-10
+PROD_00000566,Kitchen - Organized high-level installation,Home & Garden,Kitchen,284,534,2.97,SKU-HOM-00566,2021-02-25
+PROD_00000567,Sauces - Focused non-volatile extranet,Food & Gourmet,Sauces,121,290,1.41,SKU-FOO-00567,2019-05-29
+PROD_00000568,Skincare - Reverse-engineered 24hour firmware,Beauty,Skincare,301,426,6.71,SKU-BEA-00568,2023-10-21
+PROD_00000569,Skincare - Networked fresh-thinking attitude,Beauty,Skincare,470,1328,0.73,SKU-BEA-00569,2024-12-09
+PROD_00000570,Outdoor Gear - Horizontal exuding firmware,Sports,Outdoor Gear,1116,1677,1.24,SKU-SPO-00570,2022-07-27
+PROD_00000571,Running - Integrated intangible solution,Sports,Running,409,759,2.22,SKU-SPO-00571,2022-03-25
+PROD_00000572,Makeup - Multi-lateral mobile function,Beauty,Makeup,83,223,2.44,SKU-BEA-00572,2019-03-23
+PROD_00000573,Snacks - Programmable asymmetric website,Food & Gourmet,Snacks,574,1329,1.73,SKU-FOO-00573,2020-05-06
+PROD_00000574,Smartwatches - Implemented user-facing functionalities,Electronics,Smartwatches,312,614,0.46,SKU-ELE-00574,2024-07-18
+PROD_00000575,Garden Tools - Diverse foreground challenge,Home & Garden,Garden Tools,1588,3342,17.08,SKU-HOM-00575,2021-07-13
+PROD_00000576,Snacks - Triple-buffered multimedia system engine,Food & Gourmet,Snacks,1684,4635,1.3,SKU-FOO-00576,2022-07-20
+PROD_00000577,Nail Care - Profound national secured line,Beauty,Nail Care,1744,3275,1.84,SKU-BEA-00577,2023-05-23
+PROD_00000578,Dolls - Object-based exuding implementation,Toys,Dolls,230,639,3.05,SKU-TOY-00578,2023-05-16
+PROD_00000579,Outdoor Gear - Intuitive 3rdgeneration open architecture,Sports,Outdoor Gear,2950,4276,0.87,SKU-SPO-00579,2019-05-03
+PROD_00000580,Cameras - Seamless discrete algorithm,Electronics,Cameras,573,1501,1.75,SKU-ELE-00580,2020-12-08
+PROD_00000581,Jeans - Function-based disintermediate artificial intelligence,Clothing,Jeans,2051,5621,0.84,SKU-CLO-00581,2021-09-17
+PROD_00000582,Fragrance - Phased next generation frame,Beauty,Fragrance,244,392,2.5,SKU-BEA-00582,2025-06-28
+PROD_00000583,Nail Care - Distributed asynchronous encoding,Beauty,Nail Care,299,607,1.25,SKU-BEA-00583,2024-08-02
+PROD_00000584,Skincare - Right-sized bandwidth-monitored definition,Beauty,Skincare,530,838,2.16,SKU-BEA-00584,2020-12-10
+PROD_00000585,Nail Care - Vision-oriented intermediate standardization,Beauty,Nail Care,469,1173,0.58,SKU-BEA-00585,2021-03-04
+PROD_00000586,Haircare - Robust regional methodology,Beauty,Haircare,1414,3125,0.72,SKU-BEA-00586,2020-12-12
+PROD_00000587,Decor - Mandatory empowering moderator,Home & Garden,Decor,319,759,0.42,SKU-HOM-00587,2023-09-14
+PROD_00000588,Smartphones - Face-to-face reciprocal data-warehouse,Electronics,Smartphones,1292,2111,0.81,SKU-ELE-00588,2019-09-14
+PROD_00000589,Non-Fiction - Pre-emptive mobile matrices,Books,Non-Fiction,839,1392,0.13,SKU-BOO-00589,2022-04-27
+PROD_00000590,Cycling - De-engineered value-added time-frame,Sports,Cycling,325,445,1.21,SKU-SPO-00590,2021-05-20
+PROD_00000591,Dolls - Organic user-facing capability,Toys,Dolls,776,1433,0.97,SKU-TOY-00591,2023-09-28
+PROD_00000592,Shoes - Multi-lateral eco-centric collaboration,Clothing,Shoes,251,565,1.92,SKU-CLO-00592,2021-03-19
+PROD_00000593,Running - Diverse eco-centric budgetary management,Sports,Running,4231,11671,1.72,SKU-SPO-00593,2019-09-28
+PROD_00000594,Non-Fiction - Down-sized foreground task-force,Books,Non-Fiction,28,68,5.8,SKU-BOO-00594,2023-03-24
+PROD_00000595,Fiction - Adaptive transitional database,Books,Fiction,790,1611,22.07,SKU-BOO-00595,2020-07-03
+PROD_00000596,Makeup - Progressive systematic database,Beauty,Makeup,69,201,5.14,SKU-BEA-00596,2022-02-11
+PROD_00000597,Furniture - Grass-roots web-enabled attitude,Home & Garden,Furniture,321,809,1.05,SKU-HOM-00597,2020-07-21
+PROD_00000598,Garden Tools - Enterprise-wide executive leverage,Home & Garden,Garden Tools,370,1066,1.01,SKU-HOM-00598,2019-12-25
+PROD_00000599,Cameras - Devolved contextually-based emulation,Electronics,Cameras,1821,4000,3.93,SKU-ELE-00599,2023-08-01
+PROD_00000600,Textbooks - Persevering client-server analyzer,Books,Textbooks,201,349,0.31,SKU-BOO-00600,2023-06-26
+PROD_00000601,Gift Baskets - Organic exuding architecture,Food & Gourmet,Gift Baskets,1492,2073,1.2,SKU-FOO-00601,2022-09-19
+PROD_00000602,Furniture - Right-sized mission-critical hardware,Home & Garden,Furniture,124,314,1.3,SKU-HOM-00602,2023-09-09
+PROD_00000603,Makeup - Extended mission-critical application,Beauty,Makeup,1551,2336,2.96,SKU-BEA-00603,2022-09-24
+PROD_00000604,Makeup - Synergistic actuating interface,Beauty,Makeup,251,455,3.05,SKU-BEA-00604,2021-03-08
+PROD_00000605,Fiction - Front-line cohesive encoding,Books,Fiction,434,957,0.78,SKU-BOO-00605,2022-07-08
+PROD_00000606,Fragrance - Right-sized real-time open architecture,Beauty,Fragrance,288,650,1.09,SKU-BEA-00606,2021-06-05
+PROD_00000607,Snacks - Switchable responsive open architecture,Food & Gourmet,Snacks,1454,3374,2.57,SKU-FOO-00607,2023-10-25
+PROD_00000608,Organic - Pre-emptive logistical database,Food & Gourmet,Organic,1197,1894,0.74,SKU-FOO-00608,2022-05-07
+PROD_00000609,Jackets - Face-to-face holistic complexity,Clothing,Jackets,628,1221,5.51,SKU-CLO-00609,2025-03-08
+PROD_00000610,Garden Tools - Cross-platform 24hour moderator,Home & Garden,Garden Tools,127,298,3.03,SKU-HOM-00610,2019-10-14
+PROD_00000611,Outdoor Gear - Mandatory multi-tasking core,Sports,Outdoor Gear,197,580,1.96,SKU-SPO-00611,2023-09-12
+PROD_00000612,Garden Tools - Sharable logistical hierarchy,Home & Garden,Garden Tools,144,365,2.44,SKU-HOM-00612,2023-11-21
+PROD_00000613,Laptops - Multi-channeled systemic moratorium,Electronics,Laptops,42,120,1.03,SKU-ELE-00613,2021-01-12
+PROD_00000614,Running - Enhanced intangible definition,Sports,Running,1424,3696,0.88,SKU-SPO-00614,2023-02-14
+PROD_00000615,Smartphones - Diverse background moderator,Electronics,Smartphones,290,668,1.08,SKU-ELE-00615,2024-08-02
+PROD_00000616,Board Games - Robust even-keeled website,Toys,Board Games,287,466,2.72,SKU-TOY-00616,2021-11-12
+PROD_00000617,Building Sets - Visionary zero administration hub,Toys,Building Sets,1801,4382,2.02,SKU-TOY-00617,2019-10-23
+PROD_00000618,Smartwatches - Cross-platform upward-trending approach,Electronics,Smartwatches,250,589,1.08,SKU-ELE-00618,2024-08-15
+PROD_00000619,Haircare - Realigned multi-state hardware,Beauty,Haircare,174,404,3.49,SKU-BEA-00619,2020-11-11
+PROD_00000620,Cycling - Virtual motivating open system,Sports,Cycling,322,686,1.39,SKU-SPO-00620,2024-03-06
+PROD_00000621,Cycling - Triple-buffered system-worthy paradigm,Sports,Cycling,129,283,0.82,SKU-SPO-00621,2021-03-05
+PROD_00000622,Puzzles - Programmable tertiary secured line,Toys,Puzzles,569,1063,2.13,SKU-TOY-00622,2019-07-22
+PROD_00000623,Headphones - Cross-group multi-tasking capability,Electronics,Headphones,277,604,0.6,SKU-ELE-00623,2019-11-21
+PROD_00000624,Snacks - Cross-platform real-time process improvement,Food & Gourmet,Snacks,242,395,0.31,SKU-FOO-00624,2025-04-10
+PROD_00000625,Action Figures - Future-proofed contextually-based open architecture,Toys,Action Figures,222,592,1.64,SKU-TOY-00625,2019-11-23
+PROD_00000626,Gift Baskets - Decentralized modular strategy,Food & Gourmet,Gift Baskets,362,584,0.85,SKU-FOO-00626,2021-09-13
+PROD_00000627,Children's - Realigned disintermediate forecast,Books,Children's,438,632,1.28,SKU-BOO-00627,2021-01-30
+PROD_00000628,Haircare - Devolved zero-defect project,Beauty,Haircare,239,487,0.63,SKU-BEA-00628,2021-11-02
+PROD_00000629,Fitness Equipment - Adaptive incremental extranet,Sports,Fitness Equipment,281,679,5.52,SKU-SPO-00629,2021-06-25
+PROD_00000630,Outdoor Gear - Ergonomic dedicated protocol,Sports,Outdoor Gear,371,758,0.85,SKU-SPO-00630,2022-11-04
+PROD_00000631,Jackets - Reverse-engineered value-added projection,Clothing,Jackets,336,594,1.07,SKU-CLO-00631,2019-12-31
+PROD_00000632,Cycling - Intuitive global core,Sports,Cycling,416,935,2.41,SKU-SPO-00632,2022-05-29
+PROD_00000633,Building Sets - Integrated dedicated core,Toys,Building Sets,205,387,0.42,SKU-TOY-00633,2024-10-21
+PROD_00000634,Jackets - Horizontal non-volatile service-desk,Clothing,Jackets,1101,3177,0.39,SKU-CLO-00634,2023-07-07
+PROD_00000635,Men's Shirts - Persevering transitional attitude,Clothing,Men's Shirts,444,1273,2.41,SKU-CLO-00635,2021-12-05
+PROD_00000636,Dolls - Visionary radical intranet,Toys,Dolls,243,523,1.06,SKU-TOY-00636,2019-10-01
+PROD_00000637,Organic - De-engineered responsive access,Food & Gourmet,Organic,569,1056,0.67,SKU-FOO-00637,2025-03-05
+PROD_00000638,Jeans - Future-proofed actuating open system,Clothing,Jeans,374,954,3.01,SKU-CLO-00638,2024-05-06
+PROD_00000639,Building Sets - Synergistic didactic contingency,Toys,Building Sets,71,96,0.73,SKU-TOY-00639,2024-02-28
+PROD_00000640,Fiction - Implemented client-server focus group,Books,Fiction,567,1194,1.25,SKU-BOO-00640,2019-05-04
+PROD_00000641,Headphones - Vision-oriented dedicated product,Electronics,Headphones,145,271,0.67,SKU-ELE-00641,2022-09-14
+PROD_00000642,Jackets - Visionary 5thgeneration algorithm,Clothing,Jackets,1027,2942,2.23,SKU-CLO-00642,2023-08-19
+PROD_00000643,Board Games - Seamless secondary artificial intelligence,Toys,Board Games,316,417,6.25,SKU-TOY-00643,2024-10-08
+PROD_00000644,Laptops - Synergized user-facing task-force,Electronics,Laptops,880,1971,0.26,SKU-ELE-00644,2020-03-17
+PROD_00000645,Laptops - Persevering directional budgetary management,Electronics,Laptops,214,547,1.85,SKU-ELE-00645,2022-05-25
+PROD_00000646,Decor - Multi-tiered content-based definition,Home & Garden,Decor,432,917,3.88,SKU-HOM-00646,2021-06-29
+PROD_00000647,Bedding - Devolved explicit project,Home & Garden,Bedding,1353,1955,1.08,SKU-HOM-00647,2021-10-22
+PROD_00000648,Running - Focused 24hour protocol,Sports,Running,308,909,0.53,SKU-SPO-00648,2023-04-09
+PROD_00000649,Organic - Programmable solution-oriented utilization,Food & Gourmet,Organic,223,486,2.51,SKU-FOO-00649,2023-10-08
+PROD_00000650,Building Sets - Synchronized modular task-force,Toys,Building Sets,776,1819,4.49,SKU-TOY-00650,2023-10-01
+PROD_00000651,Bedding - Down-sized fault-tolerant extranet,Home & Garden,Bedding,761,1295,4.02,SKU-HOM-00651,2020-09-17
+PROD_00000652,Smartphones - Polarized motivating encoding,Electronics,Smartphones,233,494,2.38,SKU-ELE-00652,2023-08-18
+PROD_00000653,Building Sets - Re-engineered user-facing algorithm,Toys,Building Sets,55,111,1.82,SKU-TOY-00653,2021-09-24
+PROD_00000654,Textbooks - Pre-emptive bottom-line challenge,Books,Textbooks,219,312,0.67,SKU-BOO-00654,2019-04-01
+PROD_00000655,Smartphones - Configurable composite hierarchy,Electronics,Smartphones,794,1175,3.92,SKU-ELE-00655,2025-01-23
+PROD_00000656,Non-Fiction - Proactive regional workforce,Books,Non-Fiction,185,503,3.71,SKU-BOO-00656,2019-07-26
+PROD_00000657,Men's Shirts - Quality-focused optimizing Internet solution,Clothing,Men's Shirts,399,681,0.53,SKU-CLO-00657,2021-12-24
+PROD_00000658,Activewear - Right-sized asynchronous application,Clothing,Activewear,209,340,2.37,SKU-CLO-00658,2024-03-26
+PROD_00000659,Fragrance - Digitized exuding budgetary management,Beauty,Fragrance,58,125,3.17,SKU-BEA-00659,2020-05-30
+PROD_00000660,Headphones - Re-contextualized motivating protocol,Electronics,Headphones,205,534,3.98,SKU-ELE-00660,2022-03-26
+PROD_00000661,Snacks - Enhanced methodical task-force,Food & Gourmet,Snacks,790,1110,1.53,SKU-FOO-00661,2023-11-28
+PROD_00000662,Shoes - Diverse even-keeled frame,Clothing,Shoes,37,84,0.7,SKU-CLO-00662,2025-06-11
+PROD_00000663,Kitchen - Streamlined regional hierarchy,Home & Garden,Kitchen,519,779,1.0,SKU-HOM-00663,2024-03-16
+PROD_00000664,Dolls - Enhanced 5thgeneration intranet,Toys,Dolls,123,167,0.6,SKU-TOY-00664,2024-06-28
+PROD_00000665,Activewear - Networked object-oriented paradigm,Clothing,Activewear,741,1029,1.57,SKU-CLO-00665,2020-01-30
+PROD_00000666,Comics - Self-enabling asynchronous help-desk,Books,Comics,824,2239,1.29,SKU-BOO-00666,2022-01-02
+PROD_00000667,Non-Fiction - Digitized needs-based database,Books,Non-Fiction,339,508,14.08,SKU-BOO-00667,2019-07-06
+PROD_00000668,Non-Fiction - Configurable background time-frame,Books,Non-Fiction,340,468,4.03,SKU-BOO-00668,2023-05-17
+PROD_00000669,Comics - Re-contextualized maximized methodology,Books,Comics,180,367,4.35,SKU-BOO-00669,2023-05-11
+PROD_00000670,Puzzles - Profit-focused object-oriented help-desk,Toys,Puzzles,105,287,2.64,SKU-TOY-00670,2020-12-30
+PROD_00000671,Comics - Customer-focused interactive initiative,Books,Comics,2204,3848,1.14,SKU-BOO-00671,2019-08-28
+PROD_00000672,Organic - Multi-channeled analyzing benchmark,Food & Gourmet,Organic,169,340,1.25,SKU-FOO-00672,2019-05-21
+PROD_00000673,Team Sports - Public-key actuating application,Sports,Team Sports,1934,2645,1.37,SKU-SPO-00673,2019-05-19
+PROD_00000674,Skincare - Multi-layered even-keeled frame,Beauty,Skincare,170,350,1.99,SKU-BEA-00674,2019-03-11
+PROD_00000675,Headphones - Ameliorated web-enabled circuit,Electronics,Headphones,682,1556,2.43,SKU-ELE-00675,2020-01-20
+PROD_00000676,Outdoor Gear - Persistent leadingedge info-mediaries,Sports,Outdoor Gear,129,292,1.65,SKU-SPO-00676,2020-09-21
+PROD_00000677,Lighting - Centralized bifurcated secured line,Home & Garden,Lighting,680,1268,1.23,SKU-HOM-00677,2025-02-23
+PROD_00000678,Skincare - De-engineered directional attitude,Beauty,Skincare,291,534,0.91,SKU-BEA-00678,2019-07-24
+PROD_00000679,Organic - Networked client-driven Graphical User Interface,Food & Gourmet,Organic,295,436,0.41,SKU-FOO-00679,2023-10-16
+PROD_00000680,Lighting - Phased holistic array,Home & Garden,Lighting,742,1427,5.95,SKU-HOM-00680,2020-07-21
+PROD_00000681,Sauces - Assimilated 5thgeneration adapter,Food & Gourmet,Sauces,252,370,14.96,SKU-FOO-00681,2021-09-08
+PROD_00000682,Shoes - Extended human-resource installation,Clothing,Shoes,96,249,5.47,SKU-CLO-00682,2021-03-15
+PROD_00000683,Cameras - Versatile national hardware,Electronics,Cameras,863,2539,0.47,SKU-ELE-00683,2023-09-07
+PROD_00000684,Decor - Phased fault-tolerant encoding,Home & Garden,Decor,128,377,3.62,SKU-HOM-00684,2021-05-31
+PROD_00000685,Laptops - Reduced zero-defect leverage,Electronics,Laptops,676,1872,4.59,SKU-ELE-00685,2024-07-28
+PROD_00000686,Garden Tools - Stand-alone disintermediate neural-net,Home & Garden,Garden Tools,1067,2476,1.1,SKU-HOM-00686,2021-08-31
+PROD_00000687,Non-Fiction - Future-proofed local productivity,Books,Non-Fiction,277,690,2.69,SKU-BOO-00687,2020-10-01
+PROD_00000688,Shoes - Cross-group value-added solution,Clothing,Shoes,1316,2348,1.04,SKU-CLO-00688,2022-12-25
+PROD_00000689,Fragrance - Quality-focused encompassing website,Beauty,Fragrance,653,1549,7.61,SKU-BEA-00689,2019-11-21
+PROD_00000690,Decor - Multi-lateral motivating archive,Home & Garden,Decor,201,416,2.38,SKU-HOM-00690,2020-03-17
+PROD_00000691,Decor - Networked discrete application,Home & Garden,Decor,1638,3471,0.66,SKU-HOM-00691,2021-03-14
+PROD_00000692,Men's Shirts - Enhanced bi-directional conglomeration,Clothing,Men's Shirts,128,331,3.22,SKU-CLO-00692,2025-05-24
+PROD_00000693,Bedding - Reverse-engineered asynchronous monitoring,Home & Garden,Bedding,276,491,4.75,SKU-HOM-00693,2019-08-14
+PROD_00000694,Outdoor Gear - Diverse content-based installation,Sports,Outdoor Gear,328,603,2.01,SKU-SPO-00694,2021-12-23
+PROD_00000695,Activewear - Ergonomic methodical challenge,Clothing,Activewear,738,2119,2.66,SKU-CLO-00695,2021-08-24
+PROD_00000696,Shoes - Managed bifurcated array,Clothing,Shoes,1230,1716,1.54,SKU-CLO-00696,2020-07-13
+PROD_00000697,Organic - Devolved radical protocol,Food & Gourmet,Organic,1156,2457,0.53,SKU-FOO-00697,2020-12-14
+PROD_00000698,Action Figures - Programmable 5thgeneration synergy,Toys,Action Figures,504,1437,1.42,SKU-TOY-00698,2020-05-12
+PROD_00000699,Furniture - Expanded web-enabled success,Home & Garden,Furniture,304,710,2.78,SKU-HOM-00699,2024-10-08
+PROD_00000700,Lighting - Cross-group actuating collaboration,Home & Garden,Lighting,64,142,1.45,SKU-HOM-00700,2019-09-14
+PROD_00000701,Coffee & Tea - Multi-tiered coherent emulation,Food & Gourmet,Coffee & Tea,108,186,3.67,SKU-FOO-00701,2020-07-30
+PROD_00000702,Comics - Organic 4thgeneration hierarchy,Books,Comics,2360,4445,1.11,SKU-BOO-00702,2025-04-05
+PROD_00000703,Textbooks - Automated human-resource toolset,Books,Textbooks,64,175,1.19,SKU-BOO-00703,2019-02-07
+PROD_00000704,Tablets - Persevering systematic frame,Electronics,Tablets,184,414,3.79,SKU-ELE-00704,2024-09-03
+PROD_00000705,Jackets - Realigned uniform conglomeration,Clothing,Jackets,1267,2755,2.06,SKU-CLO-00705,2020-02-14
+PROD_00000706,Cycling - Synergistic grid-enabled complexity,Sports,Cycling,497,730,1.09,SKU-SPO-00706,2020-04-05
+PROD_00000707,Organic - Distributed object-oriented complexity,Food & Gourmet,Organic,1020,1353,4.64,SKU-FOO-00707,2022-12-11
+PROD_00000708,Jeans - Inverse executive website,Clothing,Jeans,694,2039,0.83,SKU-CLO-00708,2020-01-18
+PROD_00000709,Outdoor Gear - Object-based global system engine,Sports,Outdoor Gear,1753,3402,0.8,SKU-SPO-00709,2024-01-07
+PROD_00000710,Makeup - Triple-buffered systematic focus group,Beauty,Makeup,542,1260,0.1,SKU-BEA-00710,2020-07-22
+PROD_00000711,Puzzles - Proactive homogeneous definition,Toys,Puzzles,783,1124,0.95,SKU-TOY-00711,2021-12-07
+PROD_00000712,Comics - Compatible intermediate portal,Books,Comics,195,479,6.1,SKU-BOO-00712,2020-03-08
+PROD_00000713,Furniture - Cross-group exuding hub,Home & Garden,Furniture,725,2091,0.21,SKU-HOM-00713,2019-02-25
+PROD_00000714,Team Sports - Multi-channeled radical application,Sports,Team Sports,271,617,0.64,SKU-SPO-00714,2025-05-04
+PROD_00000715,Nail Care - Expanded human-resource Graphical User Interface,Beauty,Nail Care,256,387,2.56,SKU-BEA-00715,2024-10-17
+PROD_00000716,Outdoor Gear - Face-to-face heuristic synergy,Sports,Outdoor Gear,987,2259,0.17,SKU-SPO-00716,2023-10-18
+PROD_00000717,Skincare - Horizontal cohesive database,Beauty,Skincare,993,2584,0.99,SKU-BEA-00717,2024-08-09
+PROD_00000718,Children's - Organic cohesive extranet,Books,Children's,2182,4344,5.16,SKU-BOO-00718,2021-06-20
+PROD_00000719,Jeans - Optional interactive knowledge user,Clothing,Jeans,2045,5717,12.72,SKU-CLO-00719,2023-06-13
+PROD_00000720,Smartphones - Networked value-added capacity,Electronics,Smartphones,1009,2424,2.2,SKU-ELE-00720,2019-09-14
+PROD_00000721,Fitness Equipment - Down-sized incremental standardization,Sports,Fitness Equipment,72,203,0.65,SKU-SPO-00721,2020-11-02
+PROD_00000722,Lighting - Polarized human-resource archive,Home & Garden,Lighting,2509,5921,0.63,SKU-HOM-00722,2020-05-04
+PROD_00000723,Nail Care - Proactive exuding project,Beauty,Nail Care,1010,1538,1.91,SKU-BEA-00723,2024-09-27
+PROD_00000724,Children's - Organic optimizing access,Books,Children's,187,341,2.18,SKU-BOO-00724,2023-08-10
+PROD_00000725,Furniture - Grass-roots heuristic system engine,Home & Garden,Furniture,836,1373,10.57,SKU-HOM-00725,2019-11-12
+PROD_00000726,Puzzles - Managed composite system engine,Toys,Puzzles,142,403,4.35,SKU-TOY-00726,2020-03-09
+PROD_00000727,Shoes - Digitized explicit success,Clothing,Shoes,748,1939,1.79,SKU-CLO-00727,2021-10-22
+PROD_00000728,Laptops - Versatile composite solution,Electronics,Laptops,108,264,1.18,SKU-ELE-00728,2024-05-29
+PROD_00000729,Cycling - Balanced high-level policy,Sports,Cycling,179,324,33.61,SKU-SPO-00729,2024-06-02
+PROD_00000730,Cycling - Optimized empowering circuit,Sports,Cycling,820,1322,3.09,SKU-SPO-00730,2022-10-21
+PROD_00000731,Team Sports - Multi-lateral executive portal,Sports,Team Sports,1179,3048,0.84,SKU-SPO-00731,2020-02-24
+PROD_00000732,Jackets - Organized national application,Clothing,Jackets,558,1175,1.32,SKU-CLO-00732,2023-05-16
+PROD_00000733,Laptops - Multi-tiered encompassing emulation,Electronics,Laptops,303,510,0.69,SKU-ELE-00733,2023-05-04
+PROD_00000734,Laptops - Polarized attitude-oriented process improvement,Electronics,Laptops,48,112,0.15,SKU-ELE-00734,2021-04-23
+PROD_00000735,Activewear - Streamlined hybrid analyzer,Clothing,Activewear,327,447,2.25,SKU-CLO-00735,2023-01-07
+PROD_00000736,Fragrance - Team-oriented secondary core,Beauty,Fragrance,687,1274,9.8,SKU-BEA-00736,2020-03-09
+PROD_00000737,Board Games - Implemented web-enabled website,Toys,Board Games,293,614,0.32,SKU-TOY-00737,2023-04-28
+PROD_00000738,Bedding - Profound regional matrix,Home & Garden,Bedding,394,611,1.74,SKU-HOM-00738,2024-10-05
+PROD_00000739,Smartphones - Face-to-face asymmetric benchmark,Electronics,Smartphones,335,996,0.81,SKU-ELE-00739,2021-08-21
+PROD_00000740,Outdoor Gear - Optimized 6thgeneration capability,Sports,Outdoor Gear,292,483,2.78,SKU-SPO-00740,2021-09-03
+PROD_00000741,Smartphones - Monitored homogeneous Graphical User Interface,Electronics,Smartphones,435,661,1.39,SKU-ELE-00741,2019-02-15
+PROD_00000742,Non-Fiction - Front-line non-volatile portal,Books,Non-Fiction,307,505,0.42,SKU-BOO-00742,2022-04-08
+PROD_00000743,Gift Baskets - Multi-layered contextually-based array,Food & Gourmet,Gift Baskets,1708,4453,0.62,SKU-FOO-00743,2020-02-21
+PROD_00000744,Tablets - Cross-platform zero administration support,Electronics,Tablets,44,89,0.72,SKU-ELE-00744,2021-04-27
+PROD_00000745,Nail Care - Sharable upward-trending software,Beauty,Nail Care,233,526,6.32,SKU-BEA-00745,2024-12-26
+PROD_00000746,Sauces - Intuitive even-keeled workforce,Food & Gourmet,Sauces,168,224,6.01,SKU-FOO-00746,2019-09-04
+PROD_00000747,Sauces - Enterprise-wide eco-centric ability,Food & Gourmet,Sauces,502,681,1.21,SKU-FOO-00747,2019-08-18
+PROD_00000748,Team Sports - Cross-group grid-enabled adapter,Sports,Team Sports,435,895,5.63,SKU-SPO-00748,2021-03-02
+PROD_00000749,Makeup - Synergistic user-facing firmware,Beauty,Makeup,2043,5492,1.39,SKU-BEA-00749,2020-09-28
+PROD_00000750,Bedding - Extended scalable Local Area Network,Home & Garden,Bedding,2838,7960,1.19,SKU-HOM-00750,2021-01-07
+PROD_00000751,Cycling - Seamless zero tolerance approach,Sports,Cycling,186,269,1.75,SKU-SPO-00751,2021-12-24
+PROD_00000752,Board Games - Triple-buffered multi-tasking instruction set,Toys,Board Games,403,892,2.19,SKU-TOY-00752,2019-03-29
+PROD_00000753,Gift Baskets - Reactive 4thgeneration moderator,Food & Gourmet,Gift Baskets,490,1397,0.95,SKU-FOO-00753,2020-12-13
+PROD_00000754,Cycling - Profound disintermediate Graphical User Interface,Sports,Cycling,181,354,1.69,SKU-SPO-00754,2023-10-16
+PROD_00000755,Board Games - Progressive transitional synergy,Toys,Board Games,756,2048,3.62,SKU-TOY-00755,2022-05-12
+PROD_00000756,Makeup - Multi-layered heuristic middleware,Beauty,Makeup,317,484,1.88,SKU-BEA-00756,2024-04-20
+PROD_00000757,Nail Care - Stand-alone directional interface,Beauty,Nail Care,138,398,1.72,SKU-BEA-00757,2022-11-06
+PROD_00000758,Fitness Equipment - Fundamental fresh-thinking firmware,Sports,Fitness Equipment,305,786,2.7,SKU-SPO-00758,2020-08-23
+PROD_00000759,Sauces - Sharable next generation knowledge user,Food & Gourmet,Sauces,148,429,3.21,SKU-FOO-00759,2023-02-08
+PROD_00000760,Organic - Multi-layered well-modulated pricing structure,Food & Gourmet,Organic,1137,2785,1.55,SKU-FOO-00760,2019-08-02
+PROD_00000761,Fiction - Organized object-oriented open system,Books,Fiction,2701,5179,1.03,SKU-BOO-00761,2024-10-22
+PROD_00000762,Lighting - Visionary well-modulated structure,Home & Garden,Lighting,515,1490,1.99,SKU-HOM-00762,2024-10-09
+PROD_00000763,Jeans - Polarized empowering challenge,Clothing,Jeans,450,795,0.33,SKU-CLO-00763,2020-11-28
+PROD_00000764,Fitness Equipment - Monitored upward-trending frame,Sports,Fitness Equipment,469,874,1.34,SKU-SPO-00764,2022-05-27
+PROD_00000765,Bedding - Diverse responsive paradigm,Home & Garden,Bedding,1315,3276,0.14,SKU-HOM-00765,2024-08-21
+PROD_00000766,Gift Baskets - Stand-alone analyzing superstructure,Food & Gourmet,Gift Baskets,1287,3347,0.31,SKU-FOO-00766,2024-09-10
+PROD_00000767,Makeup - Visionary exuding data-warehouse,Beauty,Makeup,359,1033,0.27,SKU-BEA-00767,2022-03-29
+PROD_00000768,Outdoor Gear - Networked multi-tasking concept,Sports,Outdoor Gear,519,855,4.7,SKU-SPO-00768,2021-09-27
+PROD_00000769,Haircare - Polarized fresh-thinking initiative,Beauty,Haircare,774,2056,1.67,SKU-BEA-00769,2019-08-25
+PROD_00000770,Men's Shirts - Profound eco-centric paradigm,Clothing,Men's Shirts,129,329,0.47,SKU-CLO-00770,2022-04-19
+PROD_00000771,Tablets - Proactive systematic moderator,Electronics,Tablets,1356,1909,2.69,SKU-ELE-00771,2023-01-21
+PROD_00000772,Organic - Inverse analyzing workforce,Food & Gourmet,Organic,2286,4476,4.43,SKU-FOO-00772,2022-01-08
+PROD_00000773,Dolls - Team-oriented local model,Toys,Dolls,1293,2302,2.74,SKU-TOY-00773,2020-10-08
+PROD_00000774,Running - Stand-alone intermediate website,Sports,Running,116,210,1.37,SKU-SPO-00774,2020-04-17
+PROD_00000775,Fiction - Polarized contextually-based task-force,Books,Fiction,56,166,2.08,SKU-BOO-00775,2019-04-22
+PROD_00000776,Tablets - Intuitive discrete approach,Electronics,Tablets,819,1959,4.06,SKU-ELE-00776,2024-01-20
+PROD_00000777,Cameras - Virtual multimedia benchmark,Electronics,Cameras,188,473,1.03,SKU-ELE-00777,2023-07-13
+PROD_00000778,Comics - Managed multi-tasking ability,Books,Comics,537,1589,1.7,SKU-BOO-00778,2020-01-18
+PROD_00000779,Laptops - Quality-focused impactful intranet,Electronics,Laptops,1872,3634,1.27,SKU-ELE-00779,2019-01-17
+PROD_00000780,Gift Baskets - Programmable systematic time-frame,Food & Gourmet,Gift Baskets,209,556,0.33,SKU-FOO-00780,2020-05-07
+PROD_00000781,Cycling - Right-sized empowering hub,Sports,Cycling,276,562,4.12,SKU-SPO-00781,2024-03-11
+PROD_00000782,Bedding - Customer-focused bi-directional portal,Home & Garden,Bedding,532,1478,12.9,SKU-HOM-00782,2023-02-18
+PROD_00000783,Textbooks - Face-to-face systematic complexity,Books,Textbooks,110,176,0.69,SKU-BOO-00783,2019-04-27
+PROD_00000784,Fragrance - Horizontal incremental matrices,Beauty,Fragrance,189,550,4.32,SKU-BEA-00784,2023-04-28
+PROD_00000785,Children's - Compatible secondary structure,Books,Children's,413,690,0.71,SKU-BOO-00785,2021-05-29
+PROD_00000786,Building Sets - Stand-alone non-volatile pricing structure,Toys,Building Sets,298,552,1.88,SKU-TOY-00786,2024-12-02
+PROD_00000787,Action Figures - Reverse-engineered coherent Local Area Network,Toys,Action Figures,741,1915,7.45,SKU-TOY-00787,2023-12-24
+PROD_00000788,Running - Mandatory composite data-warehouse,Sports,Running,6412,12627,0.98,SKU-SPO-00788,2023-04-22
+PROD_00000789,Board Games - Organic bi-directional adapter,Toys,Board Games,445,1038,1.62,SKU-TOY-00789,2023-07-07
+PROD_00000790,Shoes - Advanced uniform circuit,Clothing,Shoes,173,355,0.27,SKU-CLO-00790,2020-10-05
+PROD_00000791,Comics - Upgradable regional utilization,Books,Comics,1666,4268,0.85,SKU-BOO-00791,2022-09-21
+PROD_00000792,Headphones - Multi-layered reciprocal project,Electronics,Headphones,82,138,0.25,SKU-ELE-00792,2019-12-02
+PROD_00000793,Garden Tools - Networked content-based functionalities,Home & Garden,Garden Tools,100,139,2.53,SKU-HOM-00793,2019-05-27
+PROD_00000794,Smartwatches - Compatible zero administration open architecture,Electronics,Smartwatches,222,401,3.79,SKU-ELE-00794,2019-05-02
+PROD_00000795,Sauces - Pre-emptive grid-enabled knowledge user,Food & Gourmet,Sauces,304,640,1.32,SKU-FOO-00795,2019-03-22
+PROD_00000796,Building Sets - Centralized high-level database,Toys,Building Sets,217,344,2.19,SKU-TOY-00796,2024-10-11
+PROD_00000797,Dolls - Enterprise-wide 6thgeneration open system,Toys,Dolls,390,742,1.19,SKU-TOY-00797,2020-05-18
+PROD_00000798,Comics - Universal dynamic implementation,Books,Comics,530,1049,3.46,SKU-BOO-00798,2020-10-29
+PROD_00000799,Snacks - Compatible directional software,Food & Gourmet,Snacks,1174,1640,1.88,SKU-FOO-00799,2022-12-15
+PROD_00000800,Sauces - Self-enabling 3rdgeneration architecture,Food & Gourmet,Sauces,441,1010,0.23,SKU-FOO-00800,2022-09-07
+PROD_00000801,Board Games - Horizontal fault-tolerant workforce,Toys,Board Games,229,641,4.22,SKU-TOY-00801,2022-04-04
+PROD_00000802,Jeans - Open-source even-keeled utilization,Clothing,Jeans,1112,1732,1.12,SKU-CLO-00802,2023-06-09
+PROD_00000803,Shoes - Customer-focused regional matrices,Clothing,Shoes,178,412,0.46,SKU-CLO-00803,2024-06-03
+PROD_00000804,Smartphones - Diverse tertiary open system,Electronics,Smartphones,78,189,1.06,SKU-ELE-00804,2023-07-31
+PROD_00000805,Kitchen - Switchable executive archive,Home & Garden,Kitchen,1347,2711,0.25,SKU-HOM-00805,2020-04-03
+PROD_00000806,Fiction - Switchable analyzing data-warehouse,Books,Fiction,1263,3147,0.47,SKU-BOO-00806,2022-04-27
+PROD_00000807,Cameras - Optimized modular Graphic Interface,Electronics,Cameras,182,363,1.9,SKU-ELE-00807,2020-04-08
+PROD_00000808,Organic - Progressive 24/7 info-mediaries,Food & Gourmet,Organic,270,582,2.07,SKU-FOO-00808,2021-06-30
+PROD_00000809,Action Figures - Re-contextualized zero-defect success,Toys,Action Figures,161,211,2.24,SKU-TOY-00809,2021-10-22
+PROD_00000810,Decor - Face-to-face coherent strategy,Home & Garden,Decor,559,1384,1.65,SKU-HOM-00810,2019-03-13
+PROD_00000811,Fitness Equipment - Upgradable zero administration throughput,Sports,Fitness Equipment,2280,5527,0.82,SKU-SPO-00811,2022-12-21
+PROD_00000812,Smartphones - Up-sized multi-tasking parallelism,Electronics,Smartphones,814,1111,1.56,SKU-ELE-00812,2022-04-08
+PROD_00000813,Lighting - Future-proofed 6thgeneration archive,Home & Garden,Lighting,1136,2187,1.06,SKU-HOM-00813,2024-01-23
+PROD_00000814,Smartphones - Cross-group logistical archive,Electronics,Smartphones,915,2712,0.32,SKU-ELE-00814,2024-07-15
+PROD_00000815,Board Games - Ergonomic 5thgeneration system engine,Toys,Board Games,403,812,0.76,SKU-TOY-00815,2025-02-20
+PROD_00000816,Sauces - Fully-configurable tertiary matrix,Food & Gourmet,Sauces,1191,2564,4.01,SKU-FOO-00816,2021-10-08
+PROD_00000817,Fiction - Assimilated regional knowledgebase,Books,Fiction,849,2417,8.07,SKU-BOO-00817,2020-10-14
+PROD_00000818,Board Games - Cross-platform multi-tasking firmware,Toys,Board Games,1701,4285,3.16,SKU-TOY-00818,2022-07-22
+PROD_00000819,Dolls - Open-source logistical parallelism,Toys,Dolls,254,581,7.72,SKU-TOY-00819,2019-01-07
+PROD_00000820,Fiction - Centralized neutral Local Area Network,Books,Fiction,70,185,1.8,SKU-BOO-00820,2021-06-23
+PROD_00000821,Laptops - Phased tangible emulation,Electronics,Laptops,1147,3176,9.42,SKU-ELE-00821,2024-07-21
+PROD_00000822,Furniture - Phased didactic productivity,Home & Garden,Furniture,572,1187,12.86,SKU-HOM-00822,2020-09-07
+PROD_00000823,Fitness Equipment - Customer-focused intangible website,Sports,Fitness Equipment,300,632,0.29,SKU-SPO-00823,2024-02-17
+PROD_00000824,Cycling - Re-engineered client-server knowledge user,Sports,Cycling,317,620,2.06,SKU-SPO-00824,2021-02-08
+PROD_00000825,Nail Care - Monitored reciprocal concept,Beauty,Nail Care,5191,15279,1.8,SKU-BEA-00825,2025-04-08
+PROD_00000826,Furniture - Pre-emptive fault-tolerant installation,Home & Garden,Furniture,212,526,1.08,SKU-HOM-00826,2023-04-16
+PROD_00000827,Action Figures - Business-focused attitude-oriented analyzer,Toys,Action Figures,171,246,2.7,SKU-TOY-00827,2023-01-25
+PROD_00000828,Nail Care - Ameliorated impactful productivity,Beauty,Nail Care,439,1214,1.72,SKU-BEA-00828,2022-12-11
+PROD_00000829,Action Figures - Robust solution-oriented intranet,Toys,Action Figures,1313,2779,0.79,SKU-TOY-00829,2021-02-04
+PROD_00000830,Headphones - Phased explicit application,Electronics,Headphones,3937,5578,1.61,SKU-ELE-00830,2020-01-19
+PROD_00000831,Jackets - Adaptive radical solution,Clothing,Jackets,778,1738,5.5,SKU-CLO-00831,2020-11-18
+PROD_00000832,Organic - Persistent analyzing architecture,Food & Gourmet,Organic,113,227,1.98,SKU-FOO-00832,2022-02-23
+PROD_00000833,Men's Shirts - Profound didactic capacity,Clothing,Men's Shirts,2895,8083,3.09,SKU-CLO-00833,2019-02-16
+PROD_00000834,Bedding - Multi-layered responsive service-desk,Home & Garden,Bedding,395,650,1.25,SKU-HOM-00834,2024-05-26
+PROD_00000835,Haircare - Team-oriented zero tolerance infrastructure,Beauty,Haircare,174,470,2.59,SKU-BEA-00835,2020-04-08
+PROD_00000836,Coffee & Tea - Multi-tiered value-added archive,Food & Gourmet,Coffee & Tea,137,307,0.49,SKU-FOO-00836,2024-02-16
+PROD_00000837,Smartwatches - Quality-focused 24/7 implementation,Electronics,Smartwatches,931,1296,1.0,SKU-ELE-00837,2019-05-03
+PROD_00000838,Activewear - Cross-platform 24hour moderator,Clothing,Activewear,512,1511,1.49,SKU-CLO-00838,2024-12-21
+PROD_00000839,Building Sets - Mandatory zero tolerance encryption,Toys,Building Sets,569,1235,0.46,SKU-TOY-00839,2023-07-01
+PROD_00000840,Sauces - Persevering 6thgeneration ability,Food & Gourmet,Sauces,1460,2619,0.72,SKU-FOO-00840,2021-04-20
+PROD_00000841,Team Sports - Proactive analyzing adapter,Sports,Team Sports,180,377,2.25,SKU-SPO-00841,2023-05-05
+PROD_00000842,Fiction - Cross-platform 24hour collaboration,Books,Fiction,1581,4360,1.88,SKU-BOO-00842,2023-12-09
+PROD_00000843,Smartphones - Versatile client-driven capacity,Electronics,Smartphones,240,436,3.69,SKU-ELE-00843,2019-01-23
+PROD_00000844,Sauces - Up-sized bifurcated concept,Food & Gourmet,Sauces,3512,5715,0.9,SKU-FOO-00844,2020-07-19
+PROD_00000845,Fitness Equipment - Total hybrid open architecture,Sports,Fitness Equipment,734,1115,1.75,SKU-SPO-00845,2024-03-24
+PROD_00000846,Team Sports - Extended reciprocal analyzer,Sports,Team Sports,160,289,0.84,SKU-SPO-00846,2021-08-22
+PROD_00000847,Gift Baskets - Intuitive bandwidth-monitored synergy,Food & Gourmet,Gift Baskets,53,139,3.34,SKU-FOO-00847,2025-04-01
+PROD_00000848,Sauces - Automated bottom-line archive,Food & Gourmet,Sauces,905,1902,5.42,SKU-FOO-00848,2021-09-22
+PROD_00000849,Lighting - Virtual needs-based architecture,Home & Garden,Lighting,277,467,2.67,SKU-HOM-00849,2022-04-02
+PROD_00000850,Sauces - Upgradable homogeneous open system,Food & Gourmet,Sauces,345,545,4.76,SKU-FOO-00850,2023-11-30
+PROD_00000851,Kitchen - Exclusive encompassing success,Home & Garden,Kitchen,868,1619,1.7,SKU-HOM-00851,2021-04-05
+PROD_00000852,Cameras - Reverse-engineered bifurcated ability,Electronics,Cameras,1108,3210,3.69,SKU-ELE-00852,2019-08-04
+PROD_00000853,Building Sets - Multi-tiered maximized Internet solution,Toys,Building Sets,1371,2581,1.78,SKU-TOY-00853,2020-10-18
+PROD_00000854,Makeup - Seamless multi-state matrices,Beauty,Makeup,124,369,0.59,SKU-BEA-00854,2022-01-18
+PROD_00000855,Sauces - Cloned 6thgeneration budgetary management,Food & Gourmet,Sauces,1678,3565,2.11,SKU-FOO-00855,2024-06-10
+PROD_00000856,Tablets - Horizontal reciprocal function,Electronics,Tablets,226,362,0.61,SKU-ELE-00856,2019-11-07
+PROD_00000857,Sauces - Configurable attitude-oriented utilization,Food & Gourmet,Sauces,42,118,17.1,SKU-FOO-00857,2020-07-10
+PROD_00000858,Jeans - Vision-oriented interactive emulation,Clothing,Jeans,124,258,1.18,SKU-CLO-00858,2025-04-23
+PROD_00000859,Kitchen - Enhanced next generation collaboration,Home & Garden,Kitchen,501,1255,3.14,SKU-HOM-00859,2023-04-06
+PROD_00000860,Fragrance - User-friendly coherent hierarchy,Beauty,Fragrance,151,448,1.63,SKU-BEA-00860,2019-02-21
+PROD_00000861,Smartphones - Customizable non-volatile implementation,Electronics,Smartphones,369,511,0.48,SKU-ELE-00861,2022-09-23
+PROD_00000862,Nail Care - Function-based zero administration challenge,Beauty,Nail Care,565,827,0.25,SKU-BEA-00862,2022-04-09
+PROD_00000863,Decor - Reverse-engineered full-range middleware,Home & Garden,Decor,336,848,3.49,SKU-HOM-00863,2023-07-07
+PROD_00000864,Lighting - Self-enabling human-resource capability,Home & Garden,Lighting,246,437,7.76,SKU-HOM-00864,2025-06-05
+PROD_00000865,Smartwatches - Optional local circuit,Electronics,Smartwatches,115,185,0.79,SKU-ELE-00865,2020-11-02
+PROD_00000866,Tablets - Customer-focused asymmetric matrix,Electronics,Tablets,412,563,0.31,SKU-ELE-00866,2021-02-16
+PROD_00000867,Cameras - Ameliorated zero tolerance collaboration,Electronics,Cameras,51,68,1.19,SKU-ELE-00867,2021-04-11
+PROD_00000868,Comics - Inverse eco-centric framework,Books,Comics,203,531,0.65,SKU-BOO-00868,2025-03-29
+PROD_00000869,Children's - Right-sized human-resource functionalities,Books,Children's,159,243,0.86,SKU-BOO-00869,2024-02-04
+PROD_00000870,Smartwatches - Inverse 5thgeneration complexity,Electronics,Smartwatches,317,664,3.04,SKU-ELE-00870,2023-03-10
+PROD_00000871,Men's Shirts - Triple-buffered even-keeled support,Clothing,Men's Shirts,325,757,1.57,SKU-CLO-00871,2024-09-06
+PROD_00000872,Garden Tools - Diverse transitional artificial intelligence,Home & Garden,Garden Tools,1053,2135,0.72,SKU-HOM-00872,2024-05-26
+PROD_00000873,Team Sports - Programmable stable utilization,Sports,Team Sports,1965,2645,2.97,SKU-SPO-00873,2021-12-10
+PROD_00000874,Shoes - Digitized fresh-thinking website,Clothing,Shoes,131,344,3.21,SKU-CLO-00874,2023-09-13
+PROD_00000875,Building Sets - Fundamental scalable moderator,Toys,Building Sets,2959,3899,1.18,SKU-TOY-00875,2022-07-07
+PROD_00000876,Tablets - Business-focused full-range standardization,Electronics,Tablets,185,480,1.89,SKU-ELE-00876,2020-08-13
+PROD_00000877,Haircare - Persistent grid-enabled process improvement,Beauty,Haircare,479,1350,2.77,SKU-BEA-00877,2024-06-09
+PROD_00000878,Gift Baskets - Managed 24hour concept,Food & Gourmet,Gift Baskets,672,1368,2.52,SKU-FOO-00878,2021-09-28
+PROD_00000879,Organic - Implemented client-server extranet,Food & Gourmet,Organic,4649,10276,1.72,SKU-FOO-00879,2025-02-09
+PROD_00000880,Outdoor Gear - Streamlined zero administration challenge,Sports,Outdoor Gear,234,493,6.91,SKU-SPO-00880,2021-11-12
+PROD_00000881,Board Games - Operative didactic encryption,Toys,Board Games,66,129,2.95,SKU-TOY-00881,2024-12-16
+PROD_00000882,Smartphones - Multi-layered context-sensitive emulation,Electronics,Smartphones,1790,5027,1.05,SKU-ELE-00882,2025-05-27
+PROD_00000883,Coffee & Tea - Customizable stable Local Area Network,Food & Gourmet,Coffee & Tea,175,493,1.06,SKU-FOO-00883,2024-01-30
+PROD_00000884,Comics - Self-enabling fresh-thinking forecast,Books,Comics,281,525,0.94,SKU-BOO-00884,2020-05-15
+PROD_00000885,Men's Shirts - Profit-focused leadingedge methodology,Clothing,Men's Shirts,131,307,3.1,SKU-CLO-00885,2025-02-11
+PROD_00000886,Shoes - Decentralized systemic core,Clothing,Shoes,281,808,0.88,SKU-CLO-00886,2020-04-23
+PROD_00000887,Activewear - Distributed 24hour collaboration,Clothing,Activewear,174,510,1.08,SKU-CLO-00887,2023-05-14
+PROD_00000888,Skincare - Ameliorated impactful array,Beauty,Skincare,793,1717,4.75,SKU-BEA-00888,2020-05-27
+PROD_00000889,Outdoor Gear - Team-oriented demand-driven pricing structure,Sports,Outdoor Gear,437,904,2.0,SKU-SPO-00889,2025-05-21
+PROD_00000890,Jackets - Sharable clear-thinking access,Clothing,Jackets,204,361,5.47,SKU-CLO-00890,2020-08-23
+PROD_00000891,Smartphones - Front-line bi-directional time-frame,Electronics,Smartphones,1092,3199,3.66,SKU-ELE-00891,2022-12-11
+PROD_00000892,Furniture - Progressive intangible knowledge user,Home & Garden,Furniture,520,802,0.51,SKU-HOM-00892,2022-01-28
+PROD_00000893,Haircare - Optimized upward-trending toolset,Beauty,Haircare,63,143,1.49,SKU-BEA-00893,2019-07-08
+PROD_00000894,Kitchen - Persistent even-keeled function,Home & Garden,Kitchen,1012,1801,4.44,SKU-HOM-00894,2021-09-15
+PROD_00000895,Men's Shirts - Programmable composite conglomeration,Clothing,Men's Shirts,485,860,0.49,SKU-CLO-00895,2024-02-25
+PROD_00000896,Kitchen - Profound value-added matrix,Home & Garden,Kitchen,1620,3221,2.51,SKU-HOM-00896,2020-01-23
+PROD_00000897,Makeup - Reactive 24/7 methodology,Beauty,Makeup,456,1367,1.59,SKU-BEA-00897,2025-04-07
+PROD_00000898,Non-Fiction - Ergonomic reciprocal approach,Books,Non-Fiction,182,253,0.29,SKU-BOO-00898,2023-12-11
+PROD_00000899,Bedding - Balanced exuding pricing structure,Home & Garden,Bedding,328,748,1.86,SKU-HOM-00899,2024-07-26
+PROD_00000900,Cycling - Optional discrete alliance,Sports,Cycling,901,1297,0.71,SKU-SPO-00900,2023-10-21
+PROD_00000901,Furniture - Total optimal info-mediaries,Home & Garden,Furniture,186,290,0.51,SKU-HOM-00901,2025-02-01
+PROD_00000902,Textbooks - Operative hybrid knowledge user,Books,Textbooks,259,530,1.66,SKU-BOO-00902,2020-01-22
+PROD_00000903,Haircare - Versatile intermediate conglomeration,Beauty,Haircare,323,700,0.24,SKU-BEA-00903,2023-02-03
+PROD_00000904,Haircare - Re-contextualized homogeneous alliance,Beauty,Haircare,127,220,0.84,SKU-BEA-00904,2021-05-02
+PROD_00000905,Board Games - Self-enabling cohesive utilization,Toys,Board Games,189,347,21.14,SKU-TOY-00905,2020-03-27
+PROD_00000906,Comics - Triple-buffered real-time Internet solution,Books,Comics,479,693,3.16,SKU-BOO-00906,2025-05-13
+PROD_00000907,Shoes - Streamlined fault-tolerant pricing structure,Clothing,Shoes,1342,2436,0.68,SKU-CLO-00907,2023-10-25
+PROD_00000908,Garden Tools - Right-sized asymmetric productivity,Home & Garden,Garden Tools,553,1627,6.71,SKU-HOM-00908,2019-08-01
+PROD_00000909,Puzzles - Balanced eco-centric utilization,Toys,Puzzles,385,1118,0.61,SKU-TOY-00909,2019-02-10
+PROD_00000910,Men's Shirts - Universal modular capability,Clothing,Men's Shirts,175,327,0.95,SKU-CLO-00910,2022-02-19
+PROD_00000911,Smartwatches - Operative exuding policy,Electronics,Smartwatches,1206,2738,0.52,SKU-ELE-00911,2025-05-30
+PROD_00000912,Headphones - Inverse eco-centric Graphic Interface,Electronics,Headphones,622,1770,2.13,SKU-ELE-00912,2020-08-22
+PROD_00000913,Haircare - Sharable motivating firmware,Beauty,Haircare,198,259,6.48,SKU-BEA-00913,2024-07-17
+PROD_00000914,Makeup - Upgradable exuding installation,Beauty,Makeup,990,2651,0.61,SKU-BEA-00914,2024-07-23
+PROD_00000915,Cycling - Monitored maximized Local Area Network,Sports,Cycling,705,2053,0.21,SKU-SPO-00915,2023-11-18
+PROD_00000916,Headphones - Universal bottom-line encryption,Electronics,Headphones,178,259,4.91,SKU-ELE-00916,2024-01-26
+PROD_00000917,Men's Shirts - Team-oriented scalable knowledge user,Clothing,Men's Shirts,364,573,7.8,SKU-CLO-00917,2023-11-15
+PROD_00000918,Activewear - Customizable grid-enabled customer loyalty,Clothing,Activewear,246,721,0.22,SKU-CLO-00918,2024-03-19
+PROD_00000919,Puzzles - Function-based composite Local Area Network,Toys,Puzzles,5616,12432,2.61,SKU-TOY-00919,2024-09-22
+PROD_00000920,Children's - Profit-focused value-added paradigm,Books,Children's,686,908,2.07,SKU-BOO-00920,2019-05-24
+PROD_00000921,Gift Baskets - Extended scalable conglomeration,Food & Gourmet,Gift Baskets,486,844,0.75,SKU-FOO-00921,2019-11-29
+PROD_00000922,Garden Tools - Programmable maximized throughput,Home & Garden,Garden Tools,647,1335,0.41,SKU-HOM-00922,2021-09-24
+PROD_00000923,Makeup - Extended client-server toolset,Beauty,Makeup,1602,3969,4.44,SKU-BEA-00923,2022-11-20
+PROD_00000924,Fiction - Vision-oriented context-sensitive workforce,Books,Fiction,371,944,1.97,SKU-BOO-00924,2019-02-24
+PROD_00000925,Cycling - Persistent zero administration implementation,Sports,Cycling,223,667,2.13,SKU-SPO-00925,2022-08-23
+PROD_00000926,Smartphones - Optimized fresh-thinking extranet,Electronics,Smartphones,938,1677,0.89,SKU-ELE-00926,2022-12-17
+PROD_00000927,Cycling - Versatile upward-trending monitoring,Sports,Cycling,338,748,0.74,SKU-SPO-00927,2022-12-11
+PROD_00000928,Action Figures - Self-enabling explicit capacity,Toys,Action Figures,138,304,0.14,SKU-TOY-00928,2023-09-30
+PROD_00000929,Cameras - Proactive fault-tolerant throughput,Electronics,Cameras,113,224,1.31,SKU-ELE-00929,2023-08-22
+PROD_00000930,Furniture - Right-sized zero administration website,Home & Garden,Furniture,1861,2954,6.95,SKU-HOM-00930,2019-03-21
+PROD_00000931,Jackets - Implemented interactive solution,Clothing,Jackets,460,1362,0.68,SKU-CLO-00931,2021-09-11
+PROD_00000932,Tablets - Integrated global product,Electronics,Tablets,223,613,0.36,SKU-ELE-00932,2021-05-14
+PROD_00000933,Non-Fiction - Grass-roots secondary approach,Books,Non-Fiction,319,684,2.55,SKU-BOO-00933,2023-05-07
+PROD_00000934,Snacks - Ergonomic upward-trending algorithm,Food & Gourmet,Snacks,904,2102,3.07,SKU-FOO-00934,2020-04-16
+PROD_00000935,Women's Dresses - Up-sized 4thgeneration collaboration,Clothing,Women's Dresses,300,505,0.92,SKU-CLO-00935,2024-10-22
+PROD_00000936,Garden Tools - Stand-alone bandwidth-monitored framework,Home & Garden,Garden Tools,94,209,1.16,SKU-HOM-00936,2023-04-26
+PROD_00000937,Jeans - Focused human-resource instruction set,Clothing,Jeans,558,1384,2.15,SKU-CLO-00937,2023-02-11
+PROD_00000938,Haircare - Inverse web-enabled open system,Beauty,Haircare,1350,2937,1.41,SKU-BEA-00938,2020-08-11
+PROD_00000939,Fitness Equipment - Implemented heuristic customer loyalty,Sports,Fitness Equipment,1263,3768,4.48,SKU-SPO-00939,2022-11-11
+PROD_00000940,Fragrance - Reactive neutral conglomeration,Beauty,Fragrance,230,538,18.86,SKU-BEA-00940,2024-03-20
+PROD_00000941,Team Sports - Extended client-driven encryption,Sports,Team Sports,1435,2770,0.3,SKU-SPO-00941,2020-07-17
+PROD_00000942,Headphones - Integrated full-range success,Electronics,Headphones,499,1303,5.64,SKU-ELE-00942,2020-04-11
+PROD_00000943,Jeans - Fully-configurable didactic hardware,Clothing,Jeans,1395,2217,1.83,SKU-CLO-00943,2020-08-21
+PROD_00000944,Organic - Networked intangible migration,Food & Gourmet,Organic,716,1398,6.61,SKU-FOO-00944,2023-07-03
+PROD_00000945,Headphones - Diverse clear-thinking time-frame,Electronics,Headphones,88,166,3.4,SKU-ELE-00945,2021-09-18
+PROD_00000946,Smartphones - Virtual multi-tasking policy,Electronics,Smartphones,2314,4706,1.75,SKU-ELE-00946,2024-04-16
+PROD_00000947,Women's Dresses - Upgradable well-modulated instruction set,Clothing,Women's Dresses,424,1114,3.53,SKU-CLO-00947,2025-04-14
+PROD_00000948,Nail Care - Multi-lateral zero administration matrices,Beauty,Nail Care,718,1524,1.11,SKU-BEA-00948,2023-05-24
+PROD_00000949,Snacks - Synchronized holistic framework,Food & Gourmet,Snacks,105,278,0.76,SKU-FOO-00949,2019-03-08
+PROD_00000950,Cycling - Robust scalable collaboration,Sports,Cycling,668,1523,3.71,SKU-SPO-00950,2020-04-14
+PROD_00000951,Action Figures - Synchronized 24hour toolset,Toys,Action Figures,1215,2286,0.71,SKU-TOY-00951,2023-09-21
+PROD_00000952,Smartwatches - Face-to-face tangible pricing structure,Electronics,Smartwatches,2794,7479,3.13,SKU-ELE-00952,2025-05-22
+PROD_00000953,Team Sports - Reactive 24hour budgetary management,Sports,Team Sports,1636,2789,1.7,SKU-SPO-00953,2023-06-20
+PROD_00000954,Coffee & Tea - Exclusive discrete workforce,Food & Gourmet,Coffee & Tea,702,1180,0.16,SKU-FOO-00954,2025-06-17
+PROD_00000955,Sauces - Sharable maximized productivity,Food & Gourmet,Sauces,86,185,0.93,SKU-FOO-00955,2025-06-14
+PROD_00000956,Outdoor Gear - Object-based asynchronous utilization,Sports,Outdoor Gear,460,801,2.3,SKU-SPO-00956,2021-02-13
+PROD_00000957,Garden Tools - Seamless asynchronous hierarchy,Home & Garden,Garden Tools,223,293,1.1,SKU-HOM-00957,2022-02-10
+PROD_00000958,Men's Shirts - Synergistic logistical matrices,Clothing,Men's Shirts,510,1225,0.13,SKU-CLO-00958,2024-07-04
+PROD_00000959,Kitchen - Advanced bandwidth-monitored function,Home & Garden,Kitchen,119,258,6.18,SKU-HOM-00959,2023-01-26
+PROD_00000960,Non-Fiction - Cross-group bifurcated artificial intelligence,Books,Non-Fiction,326,670,1.95,SKU-BOO-00960,2019-05-12
+PROD_00000961,Shoes - Multi-channeled value-added throughput,Clothing,Shoes,240,706,2.57,SKU-CLO-00961,2021-07-18
+PROD_00000962,Puzzles - Progressive bi-directional productivity,Toys,Puzzles,233,529,1.03,SKU-TOY-00962,2021-07-17
+PROD_00000963,Haircare - Multi-tiered coherent data-warehouse,Beauty,Haircare,235,650,2.81,SKU-BEA-00963,2024-12-08
+PROD_00000964,Dolls - Cloned heuristic encryption,Toys,Dolls,352,541,10.33,SKU-TOY-00964,2022-05-05
+PROD_00000965,Sauces - Seamless encompassing complexity,Food & Gourmet,Sauces,537,1217,0.79,SKU-FOO-00965,2023-02-14
+PROD_00000966,Shoes - Reactive asynchronous budgetary management,Clothing,Shoes,33,91,8.73,SKU-CLO-00966,2020-09-25
+PROD_00000967,Headphones - Multi-channeled needs-based Local Area Network,Electronics,Headphones,37,84,2.46,SKU-ELE-00967,2021-11-28
+PROD_00000968,Children's - Up-sized impactful Graphical User Interface,Books,Children's,287,723,0.69,SKU-BOO-00968,2022-03-30
+PROD_00000969,Non-Fiction - Automated object-oriented time-frame,Books,Non-Fiction,331,639,15.07,SKU-BOO-00969,2019-10-16
+PROD_00000970,Smartphones - Cloned homogeneous customer loyalty,Electronics,Smartphones,487,709,2.44,SKU-ELE-00970,2025-02-25
+PROD_00000971,Team Sports - Right-sized local productivity,Sports,Team Sports,194,403,3.24,SKU-SPO-00971,2023-12-17
+PROD_00000972,Smartphones - Multi-lateral 3rdgeneration hub,Electronics,Smartphones,407,802,1.26,SKU-ELE-00972,2020-06-11
+PROD_00000973,Fragrance - Organic value-added portal,Beauty,Fragrance,457,1267,0.74,SKU-BEA-00973,2021-07-05
+PROD_00000974,Smartwatches - Versatile zero tolerance task-force,Electronics,Smartwatches,193,330,1.95,SKU-ELE-00974,2023-09-05
+PROD_00000975,Fitness Equipment - Devolved bottom-line website,Sports,Fitness Equipment,1111,3270,8.02,SKU-SPO-00975,2022-11-07
+PROD_00000976,Jeans - Multi-layered asymmetric alliance,Clothing,Jeans,481,1408,1.21,SKU-CLO-00976,2022-05-26
+PROD_00000977,Outdoor Gear - Streamlined real-time open architecture,Sports,Outdoor Gear,697,1199,1.61,SKU-SPO-00977,2022-01-15
+PROD_00000978,Outdoor Gear - Cross-group analyzing algorithm,Sports,Outdoor Gear,432,817,7.07,SKU-SPO-00978,2021-03-09
+PROD_00000979,Bedding - Stand-alone optimal firmware,Home & Garden,Bedding,3306,9331,1.22,SKU-HOM-00979,2023-03-04
+PROD_00000980,Makeup - Implemented directional access,Beauty,Makeup,732,2154,2.75,SKU-BEA-00980,2019-01-12
+PROD_00000981,Organic - Automated client-driven knowledgebase,Food & Gourmet,Organic,247,507,3.96,SKU-FOO-00981,2021-04-12
+PROD_00000982,Jackets - Pre-emptive directional challenge,Clothing,Jackets,916,1690,1.35,SKU-CLO-00982,2022-05-26
+PROD_00000983,Decor - Versatile 24/7 service-desk,Home & Garden,Decor,78,171,2.25,SKU-HOM-00983,2023-07-31
+PROD_00000984,Building Sets - Multi-tiered full-range infrastructure,Toys,Building Sets,454,1121,3.19,SKU-TOY-00984,2024-11-23
+PROD_00000985,Women's Dresses - Re-contextualized explicit circuit,Clothing,Women's Dresses,555,979,1.1,SKU-CLO-00985,2020-11-21
+PROD_00000986,Puzzles - Organized secondary installation,Toys,Puzzles,459,1171,3.73,SKU-TOY-00986,2020-06-11
+PROD_00000987,Men's Shirts - Self-enabling content-based neural-net,Clothing,Men's Shirts,288,399,0.95,SKU-CLO-00987,2023-02-04
+PROD_00000988,Cycling - Advanced scalable moderator,Sports,Cycling,146,202,0.84,SKU-SPO-00988,2021-06-11
+PROD_00000989,Comics - Enhanced homogeneous customer loyalty,Books,Comics,183,358,0.36,SKU-BOO-00989,2020-01-22
+PROD_00000990,Garden Tools - Down-sized hybrid workforce,Home & Garden,Garden Tools,446,847,1.0,SKU-HOM-00990,2022-06-03
+PROD_00000991,Organic - Organic intangible support,Food & Gourmet,Organic,132,242,0.73,SKU-FOO-00991,2023-11-13
+PROD_00000992,Skincare - Face-to-face system-worthy project,Beauty,Skincare,2368,5055,1.1,SKU-BEA-00992,2020-02-12
+PROD_00000993,Puzzles - Cross-platform background function,Toys,Puzzles,28,51,3.04,SKU-TOY-00993,2023-08-04
+PROD_00000994,Non-Fiction - Fully-configurable attitude-oriented synergy,Books,Non-Fiction,291,473,0.29,SKU-BOO-00994,2021-06-16
+PROD_00000995,Smartphones - Centralized logistical Graphical User Interface,Electronics,Smartphones,450,821,0.23,SKU-ELE-00995,2020-12-11
+PROD_00000996,Comics - Focused radical middleware,Books,Comics,670,1981,0.78,SKU-BOO-00996,2023-08-10
+PROD_00000997,Gift Baskets - Phased attitude-oriented focus group,Food & Gourmet,Gift Baskets,161,321,2.61,SKU-FOO-00997,2021-07-06
+PROD_00000998,Fitness Equipment - Customer-focused encompassing contingency,Sports,Fitness Equipment,1254,2578,2.2,SKU-SPO-00998,2025-02-28
+PROD_00000999,Jackets - Optional uniform frame,Clothing,Jackets,100,228,0.77,SKU-CLO-00999,2020-02-21
+PROD_00001000,Outdoor Gear - Devolved optimizing definition,Sports,Outdoor Gear,229,680,5.31,SKU-SPO-01000,2020-02-20

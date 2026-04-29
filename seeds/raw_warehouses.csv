@@ -1,0 +1,11 @@
+warehouse_id,name,city,state,capacity,type
+WH_00000001,East Coast Hub,Newark,NJ,25795,distribution
+WH_00000002,West Coast Hub,Ontario,CA,10860,distribution
+WH_00000003,Midwest Center,Columbus,OH,86820,fulfillment
+WH_00000004,Southeast Hub,Atlanta,GA,64886,distribution
+WH_00000005,Texas Fulfillment,Dallas,TX,16265,fulfillment
+WH_00000006,Pacific Northwest,Portland,OR,92386,fulfillment
+WH_00000007,Mountain Distribution,Denver,CO,47194,distribution
+WH_00000008,Great Lakes Center,Chicago,IL,97498,fulfillment
+WH_00000009,Southwest Hub,Phoenix,AZ,54131,distribution
+WH_00000010,Northeast Fulfillment,Boston,MA,70263,fulfillment
